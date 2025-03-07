@@ -4,7 +4,7 @@ export default defineConfig({
   favicons: ['https://cdn.jsdelivr.net/gh/youngjuning/images@main/1687969566388.png'],
   autoAlias: false,
   themeConfig: {
-    name: '全栈紫升',
+    name: 'FS.Z',
     logo: 'https://cdn.jsdelivr.net/gh/youngjuning/images@main/1687969566388.png',
     prefersColor: { default: 'auto' },
     editLink:
@@ -19,6 +19,10 @@ export default defineConfig({
   theme: {
     '@c-primary': '#00cc99',
   },
+  locales: [
+    { id: 'zh-CN', name: '中文' },
+    { id: 'en-US', name: 'EN' },
+  ],
   publicPath: '/',
   // analytics: {
   // ga_v2: '',
