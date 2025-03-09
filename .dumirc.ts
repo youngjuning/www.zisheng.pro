@@ -7,8 +7,8 @@ export default defineConfig({
     name: 'FS.Z',
     logo: 'https://cdn.jsdelivr.net/gh/youngjuning/images@main/1687969566388.png',
     prefersColor: { default: 'auto' },
-    editLink:
-      'https://github.com/youngjuning/zisheng.pro/edit/main/{filename}',
+    // editLink:
+    //   'https://github.com/youngjuning/zisheng.pro/edit/main/{filename}',
     socialLinks: {
       github: 'https://github.com/youngjuning/zisheng.pro',
       twitter: 'https://twitter.com/luozhu2021',

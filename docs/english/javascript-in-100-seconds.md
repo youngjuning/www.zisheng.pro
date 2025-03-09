@@ -11,6 +11,8 @@ group:
   order: 0
 ---
 
+## JavaScript in 100 Seconds
+
 JavaScript, a high-level, single-threaded, garbage-collected, interpreted, or just-in-time compiled prototype-based, multi-paradigm, dynamic language with a non-blocking event loop, made famous for building websites.
 
 It was created in 1995, in just one week, by Brendan Eich, with the goal of adding an easy-to-learn scripting language to the Netscape browser. It was originally named Mocha, but the genius marketing people of the time wanted it to sound like that sexy new Java language.
@@ -27,3 +29,20 @@ In the browser, you can reference it with a script tag, then the browser will ex
 We can use the function keyword here, or the more concise arrow syntax. Now the event loop will execute this function whenever a new click occurs. Functions are first-class objects to support functional programming patterns, but JavaScript also supports classes and inheritance for object-oriented patterns. Even though it's single-threaded, it can do work asynchronously with the promise API, which also supports the async-await syntax.
 
 JS code can also run on the server thanks to the Node.js runtime. Instead of buttons on a webpage, it interacts with things like the file system API. Execute your code on the server by pulling up the terminal and entering the node command.
+
+## keywords
+
+- garbage-collected：垃圾回收
+- interpreted /ɪnˈtɜːrprɪtɪd/：解释性的
+- just-in-time compiled：即时编译
+- prototype-based：原型式
+- multi-paradigm：多范式
+- dynamic language：动态语言
+- non-blocking event loop：非阻塞事件循环
+- V8 Engine：V8 引擎
+- Chromium：谷歌浏览器
+- I.O. intensive jobs：I/O 密集型任务
+- first-class objects：一等对象
+- functional programming patterns：函数式编程模式
+- object-oriented patterns：面向对象编程模式
+- file system API：文件系统 API
