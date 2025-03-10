@@ -30,6 +30,25 @@ We can use the function keyword here, or the more concise arrow syntax. Now the 
 
 JS code can also run on the server thanks to the Node.js runtime. Instead of buttons on a webpage, it interacts with things like the file system API. Execute your code on the server by pulling up the terminal and entering the node command.
 
+## 翻译
+
+JavaScript 是一种高级、单线程、垃圾回收、解释型或基于原型的即时编译、多范式、动态语言，具有非阻塞事件循环，因构建网站而闻名。
+
+它于 1995 年由布兰登-艾奇（Brendan Eich）在短短一周内创建，目的是为网景浏览器添加一种易于学习的脚本语言。它最初被命名为 Mocha，但当时的天才营销人员希望它听起来像那种性感的 Java 新语言。
+
+如今，它已成为一种功能齐全的语言，并通过 ECMAScript 标准不断发展。它在构建前端网络应用程序方面最为人熟知，因为除了 WebAssembly 之外，它是唯一一种浏览器原生支持的语言。不过，任何可以使用 JavaScript 构建的应用程序都将使用 JavaScript 构建，例如使用 Node.js 的服务器端应用程序、使用 React Native 或 Ionic 的移动应用程序以及使用 Electron 的桌面应用程序。
+
+JavaScript 是一种解释型脚本语言，但 V8 引擎和 Chromium 等工具使用即时编译器在运行时将其转换为机器码。尽管 Electron 是一种单线程语言，但它能在不阻塞主线程的情况下在后台排队处理工作，因此它在处理 I.O. 密集型工作方面也非常出色。
+
+要开始使用，请创建一个以 .js 结尾的文件。您的代码将从全局上下文开始执行。使用控制台的内置调试器记录数值。现在想想你想在哪里运行这个文件。
+是前端浏览器还是后端 Node.js 服务器？
+
+在浏览器中，您可以用脚本标签引用它，然后浏览器就会在您打开 HTML 文件时执行它。在网站上，JavaScript 通常用于从 DOM 中抓取元素。DocumentQuerySelector 会抓取第一个按钮，然后我们可以用 var、let 或 const 将其赋值给一个变量。Var 是最常用的方法，但一般不使用。Let 用于可以重新赋值的变量，而 const 用于不能重新赋值的变量。现在，为了使按钮具有交互性，我们可以为 onClick 事件定义一个函数，从而为按钮添加一个事件监听器。
+
+在这里，我们可以使用函数关键字，也可以使用更简洁的箭头语法。现在，只要有新的点击发生，事件循环就会执行该函数。函数是支持函数式编程模式的一级对象，但 JavaScript 也支持面向对象模式的类和继承。尽管 JavaScript 是单线程的，但它可以使用 promise API 异步运行，该 API 也支持 async-await 语法。
+
+借助 Node.js 运行时，JS 代码也可以在服务器上运行。它与文件系统 API 等交互，而不是网页上的按钮。调出终端并输入 node 命令，即可在服务器上执行代码。
+
 ## keywords
 
 - garbage-collected：垃圾回收
@@ -46,3 +65,4 @@ JS code can also run on the server thanks to the Node.js runtime. Instead of but
 - functional programming patterns：函数式编程模式
 - object-oriented patterns：面向对象编程模式
 - file system API：文件系统 API
+- Brendan Eich：布兰登·艾奇
