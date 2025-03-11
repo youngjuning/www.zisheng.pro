@@ -1,7 +1,7 @@
 ---
 order: 2
 title: JavaScript in 100 Seconds
-description: '《全栈工程师面试宝典》是专为有志投身全栈开发领域的求职者精心打造的实用指南。'
+description: 'JavaScript, a high-level, single-threaded, garbage-collected, interpreted, or just-in-time compiled prototype-based, multi-paradigm, dynamic language with a non-blocking event loop, made famous for building websites.'
 keywords: [程序员, 英文晨读]
 nav:
   title: 程序员英语
@@ -49,7 +49,7 @@ JavaScript 是一种解释型脚本语言，但 V8 引擎和 Chromium 等工具�
 
 借助 Node.js 运行时，JS 代码也可以在服务器上运行。它与文件系统 API 等交互，而不是网页上的按钮。调出终端并输入 node 命令，即可在服务器上执行代码。
 
-## keywords
+## 核心词汇
 
 - garbage-collected：垃圾回收
 - interpreted /ɪnˈtɜːrprɪtɪd/：解释性的

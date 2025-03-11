@@ -16,6 +16,23 @@ JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programm
 
 JavaScript（JS）是一种具有函数优先特性的轻量级、解释型或者说即时编译型的编程语言。虽然作为 Web 页面中的脚本语言被人所熟知，但是它也被用到了很多非浏览器环境中，例如 Node.js、Apache CouchDB、Adobe Acrobat 等。进一步说，JavaScript 是一种基于原型、多范式、单线程的动态语言，并且支持面向对象、命令式和声明式（如函数式编程）风格。
 
+### React /riˈækt/
+
+React is a declarative, efficient, and flexible **JavaScript library** developed by Facebook (now Meta) for building **user interfaces**, particularly single-page applications (SPAs). It revolutionizes front-end development through its **component-based architecture**, allowing developers to create reusable UI components that manage their own state and logic. By leveraging a **virtual DOM**, React optimizes performance by minimizing direct manipulation of the actual DOM, updating only the parts of the interface that change. Its **declarative syntax** (JSX) enables a seamless blend of HTML-like templates with JavaScript logic, simplifying code readability and maintenance. React also enforces **one-way data flow**, ensuring predictable state management, and supports modern features like **Hooks** for stateful functional components. With a robust ecosystem (e.g., React Native for mobile apps, Redux for state management) and a vast developer community, React has become a cornerstone of modern web development.
+
+**React** 是一个**声明式、高效且灵活**的 **JavaScript 库**，由 Facebook（现 Meta）开发，专注于构建**用户界面**，尤其是单页应用（SPA）。它通过**组件化架构**革新了前端开发模式，允许开发者创建可复用的 UI 组件，这些组件能自主管理状态和逻辑。
+通过**虚拟 DOM** 技术，React 优化了性能：仅在状态变化时计算差异并更新实际 DOM 的对应部分，而非直接操作整个 DOM 树。其**声明式语法（JSX）** 将类 HTML 模板与 JavaScript 逻辑无缝结合，提升代码可读性和可维护性。
+React 采用**单向数据流**确保状态管理的可预测性，并引入 **Hooks**（如 `useState` 和 `useEffect`）支持函数组件管理状态与副作用，逐步替代传统类组件。
+凭借强大的生态系统（如 React Native 用于移动开发、Redux 用于状态管理）和庞大社区，React 已成为现代 Web 开发的核心工具之一。
+
+<!-- #### Hooks
+
+#### JSX
+
+#### Virtual DOM
+
+#### one-way data flow -->
+
 ### Node.js /nəʊdʒeɪ-es/
 
 > 发音技巧：两个 d 在一起，念成一个 d
@@ -52,3 +69,12 @@ from scratch 意思是从头开始，这是一个口语表达。 它可以用来
 
 - Compile from scratch for maximum speed and performance. 从头开始编译以获得最大速度和性能。
 - You can even create your own filetype from scratch. 你甚至可以从头开始创建自己的文件类型。
+
+### built-in /bɪlt ɪn/
+
+“内置的”。它通常用于描述一个功能或特性已经内置在某个软件或系统中，不需要额外的安装或配置。
+
+- The camera has a built - in flash.（这个相机有一个内置闪光灯。）
+- This computer has a built - in microphone.（这台电脑有一个内置麦克风。）
+
+> 发音技巧：在较快的语流中，“built” 的最后一个音 /t/ 和 “in” 的开头音 /ɪ/ 可以连读，读成 /bɪltɪn/，发音要自然流畅，中间不要有明显停顿。
