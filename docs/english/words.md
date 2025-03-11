@@ -1,11 +1,11 @@
 ---
-order:  1
+order:  2
 title:  程序员词汇表
 description: '程序员词汇表'
 keywords: [程序员, 词汇表]
 nav:
   title: 程序员英语
-  order: 0
+  order: 1
 ---
 
 ## 编程
@@ -35,11 +35,11 @@ React 采用**单向数据流**确保状态管理的可预测性，并引入 **H
 
 ### Node.js /nəʊdʒeɪ-es/
 
-> 发音技巧：两个 d 在一起，念成一个 d
-
 Node.js is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
 
 Node.js 是一个免费、开源的跨平台 JavaScript 运行时环境，让开发者创建服务器、Web 应用程序、命令行工具和脚本。
+
+> 发音技巧：两个 d 在一起，念成一个 d
 
 ### WebAssembly /webəˈsembli/
 

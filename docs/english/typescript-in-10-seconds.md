@@ -1,14 +1,9 @@
 ---
-order: 3
 title: TypeScript in 100 Seconds
 description: '《全栈工程师面试宝典》是专为有志投身全栈开发领域的求职者精心打造的实用指南。'
 keywords: [程序员, 英文晨读]
-nav:
-  title: 程序员英语
-  order: 1
 group:
   title: 紫升英文晨读
-  order: 0
 ---
 
 ## 原文

@@ -9,7 +9,7 @@ hero:
     # - text: 面试
     #   link: /interview
     - text: 英语
-      link: /english
+      link: /english/words
 features:
   - title: 人工智能
     emoji: 🌈

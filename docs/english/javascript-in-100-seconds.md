@@ -1,14 +1,10 @@
 ---
-order: 2
 title: JavaScript in 100 Seconds
 description: 'JavaScript, a high-level, single-threaded, garbage-collected, interpreted, or just-in-time compiled prototype-based, multi-paradigm, dynamic language with a non-blocking event loop, made famous for building websites.'
 keywords: [程序员, 英文晨读]
-nav:
-  title: 程序员英语
-  order: 1
 group:
   title: 紫升英文晨读
-  order: 0
+  order: 1
 ---
 
 ## JavaScript in 100 Seconds
