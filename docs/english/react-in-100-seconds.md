@@ -4,6 +4,7 @@ description: 'React, a Javascript library for building user interfaces developed
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
+order: 3
 ---
 
 ## 原文
@@ -37,8 +38,6 @@ React 提供了多种其他内置钩子来处理常见用例。但是，您可�
 状态管理 你有 Redux、Mobx、Flux、Recoil、XState 等等。你有无穷无尽的选择，可以按照自己喜欢的方式完成工作。另外，一旦掌握了 React，您就可以轻松地跳转到 React Native，开始构建移动应用程序。毫不奇怪，了解这个小小的 UI 库是前端开发人员最需要的技能之一。
 
 这就是今天的 React 100 秒。如果你想观看更多类似的短视频，请务必点赞和订阅，并在 Fireship .io 上查看更多高级 React 内容。如果你好奇我是如何制作这些视频的，请务必查看我的新个人频道和相关视频。感谢观看，我们下期再见。
-
-通过DeepL.com（免费版）翻译
 
 ## 核心词汇
 

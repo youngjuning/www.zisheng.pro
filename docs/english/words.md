@@ -25,6 +25,12 @@ React is a declarative, efficient, and flexible **JavaScript library** developed
 React 采用**单向数据流**确保状态管理的可预测性，并引入 **Hooks**（如 `useState` 和 `useEffect`）支持函数组件管理状态与副作用，逐步替代传统类组件。
 凭借强大的生态系统（如 React Native 用于移动开发、Redux 用于状态管理）和庞大社区，React 已成为现代 Web 开发的核心工具之一。
 
+#### Redux /ˈriːdʌks/
+
+Redux is a predictable state container for JavaScript applications. It's mainly used to manage the state of applications and is widely utilized especially in complex front - end single - page applications (SPAs) or React applications. The core concept is that the entire state of an application is stored in a single object tree, and this state tree is read - only. When the state needs to be modified, it can only be done by dispatching a plain object known as an "action" to describe what has occurred. Then, a function called a "reducer" generates a new state according to this action. This approach makes state changes predictable and facilitates debugging and understanding the state flow of an application. For example, in a large - scale e - commerce website application, the state of the shopping cart (such as adding items, deleting items, modifying quantities, etc.) can be well - managed by Redux, which ensures that every change to the shopping cart state can be tracked and understood.
+
+Redux 是一个用于 JavaScript 应用程序的可预测状态容器。它主要用于管理应用的状态，特别是在复杂的前端单页面应用（SPA）或者 React 应用中被广泛使用。它的核心概念是将应用的整个状态存储在一个单一的对象树中，这个状态树是只读的。当要修改状态时，只能通过发送一个被称为 `action` 的纯对象来描述发生了什么。然后有一个被称为 `reducer` 的函数会根据这个 `action` 来生成新的状态。这种方式使得状态的变化变得可预测，便于调试和理解应用的状态流程。例如，在一个大型的电商网站应用中，购物车的状态（商品的添加、删除、数量修改等）就可以很好地用 Redux 来管理，它能确保购物车状态的每一次改变都是可以追踪和理解的。
+
 <!-- #### Hooks
 
 #### JSX
@@ -60,6 +66,18 @@ Prototype-based programming is a style of object-oriented programming in which c
 Brendan Eich is an American computer programmer and technology executive. He is best known for developing and creating the JavaScript programming language. It is now used by 98.7% of websites.
 
 布兰登·艾克是一位美国计算机程序员和技术主管。他以开发和创建 JavaScript 编程语言而闻名。现在 98.7% 的网站都在使用它。
+
+### Dan Abramov /dæn ˈæbrəmɔːv/
+
+Dan Abramov, who was born in Russia, is an influential software engineer. He started programming at the age of 12, with Visual Basic being his first programming language, and began to learn JavaScript at 14. He went through stages such as dropping out of school and working in outsourcing before joining Facebook (now Meta) in 2015. While at Meta, he developed Redux together with Andrew Clark and also contributed to the development of Create React App. He is a core member of the React project. He has made outstanding contributions to the open-source community, sharing a lot of knowledge and experience about React and Redux through articles and talks, playing an important role in promoting the development of front-end technology.
+
+Dan Abramov 出生于俄罗斯，是一位极具影响力的软件工程师。他 12 岁开始编程，第一个编程语言是 Visual Basic，14 岁开始学习 JavaScript。他曾经历退学、外包工作等阶段，后于 2015 年加入 Facebook（现Meta）。在 Meta 期间，他与Andrew Clark 共同开发了 Redux，还参与开发了 Create React App，是 React 项目的核心成员。他在开源社区贡献卓越，通过文章和演讲分享了许多关于 React 和 Redux 的知识与经验，对推动前端技术的发展起到了重要作用。
+
+### Andrew Clark /ˈændruː klɑːrk/
+
+Andrew Clark is a remarkable figure in the tech world, especially in the realm of JavaScript and React development. He initially entered web development through WordPress and then delved into JavaScript programming. As a core member of the React team, he has made significant contributions. Alongside Dan Abramov, he co - developed Redux in 2015, a crucial library for predictable state management in JavaScript applications. His work has not only enhanced the React ecosystem but also provided developers with powerful tools to build more efficient and maintainable applications. Andrew's contributions have had a profound impact on modern web development practices.
+
+安德鲁·克拉克是科技领域，尤其是 JavaScript 和 React 开发领域的杰出人物。他最初通过 WordPress 涉足网页开发，随后深入钻研 JavaScript 编程。作为 React 团队的核心成员，他做出了卓越贡献。2015 年，他与丹·阿布拉莫夫共同开发了 Redux，这是一个用于 JavaScript 应用程序中可预测状态管理的重要库。他的工作不仅丰富了 React 生态系统，还为开发者提供了构建更高效、更易维护应用程序的强大工具。安德鲁的贡献对现代网页开发实践产生了深远影响。
 
 ## 固定短语
 
