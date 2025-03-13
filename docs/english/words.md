@@ -79,6 +79,12 @@ Andrew Clark is a remarkable figure in the tech world, especially in the realm o
 
 安德鲁·克拉克是科技领域，尤其是 JavaScript 和 React 开发领域的杰出人物。他最初通过 WordPress 涉足网页开发，随后深入钻研 JavaScript 编程。作为 React 团队的核心成员，他做出了卓越贡献。2015 年，他与丹·阿布拉莫夫共同开发了 Redux，这是一个用于 JavaScript 应用程序中可预测状态管理的重要库。他的工作不仅丰富了 React 生态系统，还为开发者提供了构建更高效、更易维护应用程序的强大工具。安德鲁的贡献对现代网页开发实践产生了深远影响。
 
+### Evan You /ˈiːvən juː/
+
+Evan You is a highly influential figure in the world of software development. He is the creator of Vue.js, a progressive JavaScript framework that has gained widespread popularity among developers globally. With Vue.js, Evan You has provided an intuitive, efficient, and flexible solution for building user interfaces. His innovative work has not only significantly enhanced the development experience but also empowered countless developers to create high - quality web applications more easily. His contributions have had a profound impact on the modern web development landscape.
+
+尤雨溪（Evan You）是软件开发领域极具影响力的人物。他是Vue.js的创造者，Vue.js是一个渐进式JavaScript框架，在全球开发者中广受欢迎。凭借Vue.js，尤雨溪为构建用户界面提供了一种直观、高效且灵活的解决方案。他的创新成果不仅极大地提升了开发体验，还让无数开发者能够更轻松地创建高质量的网络应用程序。他的贡献对现代网络开发生态产生了深远影响。
+
 ## 固定短语
 
 ### from scratch /frəm skrætʃ/

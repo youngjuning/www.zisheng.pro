@@ -9,7 +9,7 @@ order: 5
 
 ## 原文
 
-Vite, a Javascript build tool that simplifies the way we build and develop front-end web applications. At its core, it does two things one serve your code locally during development, and two, bundle your Javascript, CSS, and other assets together for production. There are many other tools out there that do the same thing, like Webpack, so what makes Vite different? Well, it was created by Evan Yu, who also created Vue.js as a way to both simplify and speed up the build process.
+Vite, a Javascript build tool that simplifies the way we build and develop front-end web applications. At its core, it does two things one serve your code locally during development, and two, bundle your Javascript, CSS, and other assets together for production. There are many other tools out there that do the same thing, like Webpack, so what makes Vite different? Well, it was created by Evan You, who also created Vue.js as a way to both simplify and speed up the build process.
 
 Not long ago, web developers had no native way to combine Javascript files together in a modular way. This led to tools like WebPack and Rollup that concatenate multiple files together into a single bundle for the browser. The problem is that this process becomes increasingly slow as the app adds more code and dependencies. In 2015, ECMAScript modules were introduced and by 2020 had wide browser support, allowing developers to import and export code from different files in the browser. Vite leverages native ES modules in the browser to load your code instantly, no matter how large the app is.
 
@@ -23,7 +23,7 @@ Now, run `npm run build` to build the app for production. This will generate a J
 
 ## 翻译
 
-Vite 是一款 Javascript 构建工具，它简化了我们构建和开发前端 Web 应用程序的方式。它的核心功能有两个：一是在开发过程中为你的代码提供本地服务；二是将你的 Javascript、CSS 和其他资产打包在一起用于生产。有很多其他工具也能做同样的事情，比如 Webpack，那么 Vite 有什么不同呢？Vite 是由 Evan Yu 创建的，他还创建了 Vue.js，以简化和加快构建过程。
+Vite 是一款 Javascript 构建工具，它简化了我们构建和开发前端 Web 应用程序的方式。它的核心功能有两个：一是在开发过程中为你的代码提供本地服务；二是将你的 Javascript、CSS 和其他资产打包在一起用于生产。有很多其他工具也能做同样的事情，比如 Webpack，那么 Vite 有什么不同呢？Vite 是由尤雨溪创建的，他还创建了 Vue.js，以简化和加快构建过程。
 
 不久前，网络开发人员还没有原生的方法将 Javascript 文件以模块化的方式组合在一起。这就催生了 WebPack 和 Rollup 这样的工具，它们能将多个文件串联在一起，成为浏览器的单一打包文件。问题是，随着应用程序添加更多代码和依赖，这一过程变得越来越慢。2015 年，ECMAScript 模块问世，到 2020 年已广泛支持浏览器，允许开发人员在浏览器中从不同文件导入和导出代码。Vite 利用浏览器中的原生 ES 模块，无论应用程序有多大，都能即时加载你的代码。
 
@@ -37,11 +37,10 @@ Vite 是一款 Javascript 构建工具，它简化了我们构建和开发前端
 
 ## 核心词汇
 
-- be represented as /bi ˌreprɪˈzentɪd æz/：表现为...
-- decentralized /ˌdiːˈsentrəlaɪzd/：分散的；去中心化的
-- ecosystem /ˈiːkoʊsɪstəm/：生态系统
-- predictable /prɪˈdɪktəb(ə)l/：可预测的
-- boilerplate code /ˈbɔɪlərpleɪt koʊd/ 样板代码
-- complexity /kəmˈplɛksɪti/：复杂度
-- prop drilling /ˈprɑːp ˈdrɪlɪŋ/：属性透传
-- concepts /ˈkɑːnsepts/：概念
+- Vite /vit/：快速的
+- simplifies /ˈsɪmplɪfaɪz/：简化
+- during /ˈdʊrɪŋ/：在…期间
+- production /prəˈdʌkʃn/：生产
+- modular /ˈmɑːdʒələr/：模块化的
+- led to /liːd tu/：导致
+- concatenate /kɑnˈkæt(ə)ˌneɪt/：连接
