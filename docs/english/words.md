@@ -8,6 +8,25 @@ nav:
   order: 1
 ---
 
+## 计算机
+
+### leverage /ˈlevərɪdʒ/
+
+- 利用（技术、工具、资源等）方面
+  - leverages existing libraries：利用现有的库
+  - leverages data：利用数据
+  - leverages computing resources：利用计算资源
+- 发挥优势（技术、架构等）方面
+  - leverages the scalability of a microservices architecture：发挥微服务架构的可扩展性优势
+  - leverages the efficiency of the HTTP/3 protocol：发挥 HTTP/3 协议的效率优势
+
+### override /ˌoʊvərˈraɪd/
+
+- 函数重写
+  - In object-oriented programming, a subclass can override a method of its superclass to provide a different implementation.（在面向对象编程中，子类可以重写父类的方法以提供不同的实现。）
+- 配置覆盖
+  - The user-specified settings override the default configurations.（用户指定的设置覆盖默认配置。）
+
 ## 编程
 
 ### JavaScript /dʒɑːvəskrɪpt/

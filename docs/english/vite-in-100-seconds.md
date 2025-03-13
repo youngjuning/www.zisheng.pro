@@ -13,7 +13,7 @@ Vite, a Javascript build tool that simplifies the way we build and develop front
 
 Not long ago, web developers had no native way to combine Javascript files together in a modular way. This led to tools like WebPack and Rollup that concatenate multiple files together into a single bundle for the browser. The problem is that this process becomes increasingly slow as the app adds more code and dependencies. In 2015, ECMAScript modules were introduced and by 2020 had wide browser support, allowing developers to import and export code from different files in the browser. Vite leverages native ES modules in the browser to load your code instantly, no matter how large the app is.
 
-It also supports hot module replacement for an extremely fast feedback loop during development. When building for production, it uses rollup under the hood, so you don't have to worry about configuring it. It's an opinionated tool that provides conventions that work out of the box for the majority of developers. To get started, run `npm init vite` from the command line and choose a starter project with your favorite front-end framework. You'll notice the project comes with a Vite Config file.
+It also supports hot module replacement for an extremely fast feedback loop during development. When building for production, it uses rollup under the hood, so you don't have to worry about configuring it. It's an opinionated tool that provides conventions that work out of the box for the majority of developers. To get started, run `npm init vite` from the command line and choose a starter project with your favorite front-end framework. You'll notice the project comes with a Vite config file.
 
 It has a plugin ecosystem that can extend it with additional features, and you can also manually override the rollup defaults when necessary. And there are some really cool plugins out there, like Vite SSR that can do server-side rendering like Next.js. Now to serve the application locally. Run `npm run dev`. Even if I install a bunch of big dependencies like lodash and moment, the time to run the Dev server does not change. Now, if you open the Network tab in the browser Dev Tools, you'll notice that instead of importing a single Javascript bundle file, it's importing our actual source code like a raw TSX file.
 
@@ -27,7 +27,7 @@ Vite 是一款 Javascript 构建工具，它简化了我们构建和开发前端
 
 不久前，网络开发人员还没有原生的方法将 Javascript 文件以模块化的方式组合在一起。这就催生了 WebPack 和 Rollup 这样的工具，它们能将多个文件串联在一起，成为浏览器的单一打包文件。问题是，随着应用程序添加更多代码和依赖，这一过程变得越来越慢。2015 年，ECMAScript 模块问世，到 2020 年已广泛支持浏览器，允许开发人员在浏览器中从不同文件导入和导出代码。Vite 利用浏览器中的原生 ES 模块，无论应用程序有多大，都能即时加载你的代码。
 
-它还支持热模块替换，从而在开发过程中实现极快的反馈循环。在为生产构建时，它在内部使用 rollup，因此你不必担心配置问题。它是一个有主见的工具，为大多数开发人员提供了开箱即用的惯例。要开始使用，请在命令行中运行 `npm init vite`，然后选择一个带有你最喜欢的前端框架的启动项目。你会发现该项目附带了一个 Vite 配置文件。
+它还支持热模块替换，从而在开发过程中实现极快的反馈循环。在为生产构建时，它在内部使用 rollup，因此你不必担心配置问题。它是一个有主见的工具，为大多数开发人员提供了开箱即用的约定。要开始使用，请在命令行中运行 `npm init vite`，然后选择一个带有你最喜欢的前端框架的启动项目。你会发现该项目附带了一个 Vite 配置文件。
 
 它有一个插件生态系统，可以为其扩展额外的功能，你也可以在必要时手动覆盖 rollup 默认值。此外，还有一些非常酷的插件，比如可以像 Next.js 一样进行服务器端渲染的 Vite SSR。现在为本地应用提供服务。运行 `npm run dev`。即使我安装了 lodash 和 moment 等一大堆依赖，运行 Dev 服务器的时间也不会改变。现在，如果你打开浏览器 Dev Tools 中的网络选项卡，你会发现它不是导入单个 Javascript 捆绑文件，而是导入我们的实际源代码，比如原始 TSX 文件。
 
@@ -37,10 +37,24 @@ Vite 是一款 Javascript 构建工具，它简化了我们构建和开发前端
 
 ## 核心词汇
 
-- Vite /vit/：快速的
-- simplifies /ˈsɪmplɪfaɪz/：简化
-- during /ˈdʊrɪŋ/：在…期间
-- production /prəˈdʌkʃn/：生产
-- modular /ˈmɑːdʒələr/：模块化的
-- led to /liːd tu/：导致
-- concatenate /kɑnˈkæt(ə)ˌneɪt/：连接
+1. Vite /vit/：快速的
+1. simplifies /ˈsɪmplɪfaɪz/：简化
+1. during /ˈdʊrɪŋ/：在…期间
+1. production /prəˈdʌkʃn/：生产
+1. modular /ˈmɑːdʒələr/：模块化的
+1. led to /liːd tu/：导致
+1. concatenate /kɑnˈkæt(ə)ˌneɪt/：连接
+1. leverage /ˈlevərɪdʒ/：利用（技术、工具、资源等）方面
+    - leverages /ˈlevərɪdʒɪz/
+1. instantly /ˈɪnstəntli/：adv. 立即地
+1. HMR (Hot Module Replacement) /hɑːt ˈmɑːdʒuːl rɪˈpleɪsmənt/：热模块替换
+1. opinionated /əˈpɪnjəneɪtɪd/：有主见的；固执己见的
+1. conventions /kən'venʃnz/：约定; 协定
+1. majority /məˈdʒɔːrəti/：大多数，大部分
+1. choose /tʃuːz/：选择
+1. cool /kuːl/：酷的
+1. manually /ˈmænjuəli/：手动地
+1. override /ˌoʊvərˈraɪd/：覆盖
+1. transpile /trænˈspaɪl/：转译
+1. automatic /ˌɔːtəˈmætɪk/ ：自动的
+1. optimization /ˌɑːptɪməˈzeɪʃn/：优化
