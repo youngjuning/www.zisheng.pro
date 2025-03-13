@@ -3,7 +3,7 @@ title: Skills evolve, Potential is unlimited.
 description: Let every study be the starting point for a breakthrough, and let technical skills be the cornerstone of your future.
 keywords: [fullstack, zisheng]
 hero:
-  title: FS.Z
+  title: FS.ZS
   description: Skills evolve, Potential is unlimited.
   actions:
     - text: Interview
