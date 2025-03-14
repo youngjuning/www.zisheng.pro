@@ -20,7 +20,10 @@ A module can export a single default value, multiple values, or both. If a modul
 
 However, it is possible to rename an import using the `as` keyword. A huge benefit of named exports is that they make the module tree-shakeable. That means the consumer only imports the code they actually need, resulting in smaller bundle sizes and better performance. You can also combine the best of both worlds to give you a hybrid syntax that looks like this. It helps to have a cheat sheet.
 
+![(https://cdn.jsdelivr.net/gh/youngjuning/images@main/1741913107018.png)
+
 My personal favorite is the one from Samantha Ming. If you don't already follow her awesome post on Twitter, you definitely should be. This has been ES modules in 100 seconds. Thanks for watching and I will see you in the next one.
+
 
 ## 翻译
 
