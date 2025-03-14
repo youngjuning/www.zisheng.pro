@@ -1,13 +1,12 @@
 ---
-title: Vite in 100 Seconds
 description: 'Redux a single source of truth for all the data in your Javascript application.'
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 5
+order: 6
 ---
 
-## 原文
+# Vite in 100 Seconds
 
 Vite, a Javascript build tool that simplifies the way we build and develop front-end web applications. At its core, it does two things one serve your code locally during development, and two, bundle your Javascript, CSS, and other assets together for production. There are many other tools out there that do the same thing, like Webpack, so what makes Vite different? Well, it was created by Evan You, who also created Vue.js as a way to both simplify and speed up the build process.
 

@@ -1,13 +1,12 @@
 ---
-title: React in 100 Seconds
 description: 'React, a Javascript library for building user interfaces developed at Facebook and released in 2013.'
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 3
+order: 4
 ---
 
-## 原文
+# React in 100 Seconds
 
 React, a Javascript library for building user interfaces developed at Facebook and released in 2013. It's safe to say React has been the most influential UI library of recent memory. We use it to build components that represent logical, reusable parts of the UI. The beauty of React is that the simplicity of building a component has been brought down to its theoretical minimum.
 

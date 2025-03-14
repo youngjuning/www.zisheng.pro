@@ -1,5 +1,4 @@
 ---
-title: JavaScript in 100 Seconds
 description: 'JavaScript, a high-level, single-threaded, garbage-collected, interpreted, or just-in-time compiled prototype-based, multi-paradigm, dynamic language with a non-blocking event loop, made famous for building websites.'
 keywords: [程序员, 英文晨读]
 group:
@@ -8,7 +7,7 @@ group:
 order: 1
 ---
 
-## JavaScript in 100 Seconds
+# JavaScript in 100 Seconds
 
 JavaScript, a high-level, single-threaded, garbage-collected, interpreted, or just-in-time compiled prototype-based, multi-paradigm, dynamic language with a non-blocking event loop, made famous for building websites.
 

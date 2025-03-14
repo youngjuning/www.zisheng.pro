@@ -1,13 +1,12 @@
 ---
-title: TypeScript in 100 Seconds
 description: '《全栈工程师面试宝典》是专为有志投身全栈开发领域的求职者精心打造的实用指南。'
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 2
+order: 3
 ---
 
-## 原文
+# TypeScript in 100 Seconds
 
 TypeScript. Validate your JavaScript ahead of time with static type checking. JavaScript is a dynamic language where we can do all kinds of crazy things, like reference variables that don't exist or work with objects of an unknown shape. The code is interpreted by a browser, but if your code is broken, you won't catch it until runtime, when the browser throws an error. TypeScript prevents errors like this from ever happening by extending JavaScript with types.
 

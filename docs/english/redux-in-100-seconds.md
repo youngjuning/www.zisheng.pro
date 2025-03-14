@@ -1,13 +1,12 @@
 ---
-title: Redux in 100 Seconds
 description: 'Redux a single source of truth for all the data in your Javascript application.'
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 4
+order: 5
 ---
 
-## 原文
+# Redux in 100 Seconds
 
 Redux, A single source of truth for all the data in your Javascript application. Modern web applications are represented as a complex tree of components. Components that constantly produce and share data called state. And when state is decentralized, it can become difficult to understand and test.
 

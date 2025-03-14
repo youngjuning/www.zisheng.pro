@@ -27,6 +27,12 @@ nav:
 - 配置覆盖
   - The user-specified settings override the default configurations.（用户指定的设置覆盖默认配置。）
 
+### module /ˈmɑːdʒuːl/
+
+- 模块
+  - A module is a self-contained unit of code that encapsulates related functionality.（模块是一组相关功能的自包含代码单元。）
+  - A module can be a single file, a directory, or a package.（模块可以是单个文件、目录或包。）
+
 ## 编程
 
 ### JavaScript /dʒɑːvəskrɪpt/
