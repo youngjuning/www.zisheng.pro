@@ -22,7 +22,9 @@ However, it is possible to rename an import using the `as` keyword. A huge benef
 
 ![](https://cdn.jsdelivr.net/gh/youngjuning/images@main/1741913107018.png)
 
-My personal favorite is the one from Samantha Ming. If you don't already follow her awesome post on Twitter, you definitely should be. This has been ES modules in 100 seconds. Thanks for watching and I will see you in the next one.
+My personal favorite is the one from Samantha Ming. If you don't already follow her awesome post on Twitter, you definitely should be.
+
+This has been ES modules in 100 seconds. Thanks for watching and I will see you in the next one.
 
 
 ## 翻译
@@ -37,7 +39,9 @@ Node 13 也支持这种语法，但传统上在 Node 中使用 require.js 来实
 
 不过，可以使用 `as` 关键字重命名导入。命名导出的一个巨大好处是，它可以使模块树具有可动摇性。这意味着用户只导入他们实际需要的代码，从而减小了捆绑包的大小，提高了性能。你还可以将这两种方法的优点结合起来，形成类似下面这样的混合语法。有一份小抄会很有帮助。
 
-我个人最喜欢 Samantha Ming 提供的小抄。如果你还没有在 Twitter 上关注她的精彩文章，那就一定要关注。这就是 ES 模块 100 秒。感谢观看，我们下期再见。
+我个人最喜欢 Samantha Ming 提供的小抄。如果你还没有在 Twitter 上关注她的精彩文章，那就一定要关注。
+
+这就是 ES 模块 100 秒。感谢观看，我们下期再见。
 
 ## 核心词汇
 
