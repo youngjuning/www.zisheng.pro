@@ -20,6 +20,17 @@ The beauty of Redux is that we can select data anywhere in the application witho
 
 Now, serve the application and install the Redux DevTools browser extension. Unlike a normal project, you're able to inspect and debug the entire timeline of actions and state changes in your application. This has been Redux in 100 seconds. Upgrade to Fireship Pro if you want to learn all kinds of other react concepts in a format like this. Thanks for watching and I will see you in the next one.
 
+## 核心词汇
+
+1. be represented as /bi ˌreprɪˈzentɪd æz/：表现为...
+1. decentralized /ˌdiːˈsentrəlaɪzd/：分散的；去中心化的
+1. ecosystem /ˈiːkoʊsɪstəm/：生态系统
+1. predictable /prɪˈdɪktəb(ə)l/：可预测的
+1. boilerplate code /ˈbɔɪlərpleɪt koʊd/ 样板代码
+1. complexity /kəmˈplɛksɪti/：复杂度
+1. prop drilling /ˈprɑːp ˈdrɪlɪŋ/：属性透传
+1. concepts /ˈkɑːnsepts/：概念
+
 ## 翻译
 
 Redux 为您的 Javascript 应用程序中的所有数据提供单一真实源。现代网络应用程序表现为一棵复杂的组件树，这些组件不断生成和共享称为状态的数据。如果状态是去中心化的，就很难理解和测试。
@@ -33,14 +44,3 @@ Redux 既是一种模式，也是一个库，可以帮助开发人员大规模�
 Redux 的美妙之处在于，我们可以在应用程序的任何地方选择数据，而无需上下文或属性透传。相反，我们可以使用 `useSelector` 钩子抓取存储中的任何反应值或片段。现在，要更改应用程序的数据，需要向存储分发一个操作。这可以通过 `useDispatch` 钩子来实现，它可能会发送一个动作名称和数据有效载荷。在正常的浏览器事件中，如点击按钮。
 
 现在，为应用程序提供服务并安装 Redux DevTools 浏览器扩展。与普通项目不同，你可以检查和调试应用程序中的整个操作和状态变化时间线。这就是 100 秒内的 Redux。如果你想以这样的形式学习其他各种 react 概念，请升级到 Fireship Pro。感谢观看，我们下期再见。
-
-## 核心词汇
-
-- be represented as /bi ˌreprɪˈzentɪd æz/：表现为...
-- decentralized /ˌdiːˈsentrəlaɪzd/：分散的；去中心化的
-- ecosystem /ˈiːkoʊsɪstəm/：生态系统
-- predictable /prɪˈdɪktəb(ə)l/：可预测的
-- boilerplate code /ˈbɔɪlərpleɪt koʊd/ 样板代码
-- complexity /kəmˈplɛksɪti/：复杂度
-- prop drilling /ˈprɑːp ˈdrɪlɪŋ/：属性透传
-- concepts /ˈkɑːnsepts/：概念

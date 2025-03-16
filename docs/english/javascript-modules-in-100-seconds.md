@@ -26,6 +26,15 @@ My personal favorite is the one from Samantha Ming. If you don't already follow 
 
 This has been ES modules in 100 seconds. Thanks for watching and I will see you in the next one.
 
+## 核心词汇
+
+1. common /ˈkɑːmən/：常见的
+1. module /ˈmɑːdʒuːl/：模块
+1. syntax /ˈsɪntæks/：语法
+1. but instead /ɪnˈsted/：但却；相反；但是
+1. export /ɪkˈspɔːrt/：导出
+1. a variety of /ə vəˈraɪəti əv/：多种；各种各样的
+1. consumer /kənˈsuːmər/：消费者
 
 ## 翻译
 
@@ -42,13 +51,3 @@ Node 13 也支持这种语法，但传统上在 Node 中使用 require.js 来实
 我个人最喜欢 Samantha Ming 提供的小抄。如果你还没有在 Twitter 上关注她的精彩文章，那就一定要关注。
 
 这就是 ES 模块 100 秒。感谢观看，我们下期再见。
-
-## 核心词汇
-
-1. common /ˈkɑːmən/：常见的
-1. module /ˈmɑːdʒuːl/：模块
-1. syntax /ˈsɪntæks/：语法
-1. but instead /ɪnˈsted/：但却；相反；但是
-1. export /ɪkˈspɔːrt/：导出
-1. a variety of /ə vəˈraɪəti əv/：多种；各种各样的
-1. consumer /kənˈsuːmər/：消费者

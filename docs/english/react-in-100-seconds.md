@@ -22,6 +22,10 @@ State management You've got Redux, Mobx, Flux, Recoil, XState and more. You have
 
 Today, this has been React in 100 seconds. If you want to see more short videos like this, make sure to like and subscribe and check out more advanced React content on Fireship .io. And if you're curious how I make these videos, make sure to check out my new personal channel and video on that topic. Thanks for watching and I will see you in the next one.
 
+## 核心词汇
+
+1. built-in：内置的
+
 ## 翻译
 
 React 是 Facebook 开发的一个用于构建用户界面的 Javascript 库，于 2013 年发布。可以说，React 是近期最具影响力的用户界面库。我们用它来构建组件，这些组件代表了用户界面中符合逻辑、可重复使用的部分。React 的美妙之处在于将构建组件的简易性降到了理论上的最低点。
@@ -37,7 +41,3 @@ React 提供了多种其他内置钩子来处理常见用例。但是，您可�
 状态管理 你有 Redux、Mobx、Flux、Recoil、XState 等等。你有无穷无尽的选择，可以按照自己喜欢的方式完成工作。另外，一旦掌握了 React，您就可以轻松地跳转到 React Native，开始构建移动应用程序。毫不奇怪，了解这个小小的 UI 库是前端开发人员最需要的技能之一。
 
 这就是今天的 React 100 秒。如果你想观看更多类似的短视频，请务必点赞和订阅，并在 Fireship .io 上查看更多高级 React 内容。如果你好奇我是如何制作这些视频的，请务必查看我的新个人频道和相关视频。感谢观看，我们下期再见。
-
-## 核心词汇
-
-- built-in：内置的

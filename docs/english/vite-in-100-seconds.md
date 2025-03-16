@@ -3,7 +3,7 @@ description: 'Redux a single source of truth for all the data in your Javascript
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 6
+order: 7
 ---
 
 # Vite in 100 Seconds
@@ -20,6 +20,29 @@ In this case, it also makes TypeScript about 20-30 times faster because it skips
 
 Now, run `npm run build` to build the app for production. This will generate a Javascript bundle with Rollup with a bunch of automatic optimizations like automatic code splitting for any dynamic imports and CSS. This has been vite in 100 seconds. If you want to see more short videos like this, hit the Like button and subscribe. Thanks for watching and I will see you in the next one.
 
+## 核心词汇
+
+1. Vite /vit/：快速的
+1. simplifies /ˈsɪmplɪfaɪz/：简化
+1. during /ˈdʊrɪŋ/：在…期间
+1. production /prəˈdʌkʃn/：生产
+1. modular /ˈmɑːdʒələr/：模块化的
+1. led to /liːd tu/：导致
+1. concatenate /kɑnˈkæt(ə)ˌneɪt/：连接
+1. leverage /ˈlevərɪdʒ/：利用（技术、工具、资源等）方面（leverages /ˈlevərɪdʒɪz/）
+1. instantly /ˈɪnstəntli/：adv. 立即地
+1. HMR (Hot Module Replacement) /hɑːt ˈmɑːdʒuːl rɪˈpleɪsmənt/：热模块替换
+1. opinionated /əˈpɪnjəneɪtɪd/：有主见的；固执己见的
+1. conventions /kən'venʃnz/：约定; 协定
+1. majority /məˈdʒɔːrəti/：大多数，大部分
+1. choose /tʃuːz/：选择
+1. cool /kuːl/：酷的
+1. manually /ˈmænjuəli/：手动地
+1. override /ˌoʊvərˈraɪd/：覆盖
+1. transpile /trænˈspaɪl/：转译
+1. automatic /ˌɔːtəˈmætɪk/ ：自动的
+1. optimization /ˌɑːptɪməˈzeɪʃn/：优化
+
 ## 翻译
 
 Vite 是一款 Javascript 构建工具，它简化了我们构建和开发前端 Web 应用程序的方式。它的核心功能有两个：一是在开发过程中为你的代码提供本地服务；二是将你的 Javascript、CSS 和其他资产打包在一起用于生产。有很多其他工具也能做同样的事情，比如 Webpack，那么 Vite 有什么不同呢？Vite 是由尤雨溪创建的，他还创建了 Vue.js，以简化和加快构建过程。
@@ -33,27 +56,3 @@ Vite 是一款 Javascript 构建工具，它简化了我们构建和开发前端
 在这种情况下，它还会使 TypeScript 的速度提高 20-30 倍，因为它会跳过类型检查，使用 esbuild 来转译你的代码。现在，当你在开发应用程序时，你可能会在 UI 中改变它的状态，然后意识到有些代码需要更改。当你修改源代码时，这些变化会立即反映出来，而不会丢失应用的状态。这就是我们所说的热模块替换。
 
 现在，运行 `npm run build` 为生产构建应用程序。这会生成一个带有 rollup 的 Javascript 捆绑包，其中包含大量自动优化功能，例如对任何动态导入和 CSS 进行自动代码拆分。这就是 Vite 100 秒。如果你想看更多这样的短视频，请点击 “赞 ”按钮并订阅。感谢观看，我们下期再见。
-
-## 核心词汇
-
-1. Vite /vit/：快速的
-1. simplifies /ˈsɪmplɪfaɪz/：简化
-1. during /ˈdʊrɪŋ/：在…期间
-1. production /prəˈdʌkʃn/：生产
-1. modular /ˈmɑːdʒələr/：模块化的
-1. led to /liːd tu/：导致
-1. concatenate /kɑnˈkæt(ə)ˌneɪt/：连接
-1. leverage /ˈlevərɪdʒ/：利用（技术、工具、资源等）方面
-    - leverages /ˈlevərɪdʒɪz/
-1. instantly /ˈɪnstəntli/：adv. 立即地
-1. HMR (Hot Module Replacement) /hɑːt ˈmɑːdʒuːl rɪˈpleɪsmənt/：热模块替换
-1. opinionated /əˈpɪnjəneɪtɪd/：有主见的；固执己见的
-1. conventions /kən'venʃnz/：约定; 协定
-1. majority /məˈdʒɔːrəti/：大多数，大部分
-1. choose /tʃuːz/：选择
-1. cool /kuːl/：酷的
-1. manually /ˈmænjuəli/：手动地
-1. override /ˌoʊvərˈraɪd/：覆盖
-1. transpile /trænˈspaɪl/：转译
-1. automatic /ˌɔːtəˈmætɪk/ ：自动的
-1. optimization /ˌɑːptɪməˈzeɪʃn/：优化
