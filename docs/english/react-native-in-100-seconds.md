@@ -18,7 +18,7 @@ Instead, every core component takes a style prop that can be customized with a s
 
 And there's frameworks like Expo that build on top of React Native primitives to provide all the tooling required to ship your app to production. You can use React Native to build a complete mobile app, or integrate it with existing iOS and Android projects. It's not an all-or-nothing solution. This has been React Native in 100 seconds. If you want to see more short videos like this, hit the like button and subscribe.
 
-And let me know if you want to see more React native content in the comments. Thanks for watching and I will see you in the next one.
+And let me know if you want to see more React Native content in the comments. Thanks for watching and I will see you in the next one.
 
 ## 核心词汇
 

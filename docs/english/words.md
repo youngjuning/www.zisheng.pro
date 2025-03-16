@@ -1,12 +1,13 @@
 ---
-order:  2
-title:  程序员词汇表
+order:  1
 description: '程序员词汇表'
 keywords: [程序员, 词汇表]
 nav:
   title: 程序员英语
   order: 1
 ---
+
+# 程序员词汇表
 
 ## 计算机
 
@@ -32,6 +33,10 @@ nav:
 - 模块
   - A module is a self-contained unit of code that encapsulates related functionality.（模块是一组相关功能的自包含代码单元。）
   - A module can be a single file, a directory, or a package.（模块可以是单个文件、目录或包。）
+
+### Atwood's law /ˈætwɔːd/
+
+- 阿特伍德定律：Any application that can be written in Javascript will eventually be written in Javascript.（任何能用 Javascript 编写的应用最终都会用 Javascript 编写。）
 
 ## 编程
 
