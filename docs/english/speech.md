@@ -1,13 +1,12 @@
 ---
 order:  2
-description: '程序员美音口语'
+description: '发音技巧'
 keywords: [程序员, 词汇表]
-nav:
-  title: 程序员英语
-  order: 1
+group:
+  title: 美式音标
 ---
 
-# 程序员口语
+# 发音技巧
 
 ## in a /inə/
 

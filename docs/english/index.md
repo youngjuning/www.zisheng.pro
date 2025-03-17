@@ -7,7 +7,7 @@ nav:
   order: 1
 ---
 
-# 程序员词汇表
+# 词汇表
 
 ## 计算机
 
@@ -83,11 +83,17 @@ WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based 
 
 WebAssembly（缩写为 Wasm /'wɔzəm/）是一种基于堆栈的虚拟机的二进制指令格式。Wasm 被设计为编程语言的可移植编译目标，支持在 Web 上部署客户端和服务器应用程序。
 
-### prototype-based programming
+### prototype-based programming /ˈproʊtəˌtaɪp-beɪst ˈproʊɡræmɪŋ/
 
 Prototype-based programming is a style of object-oriented programming in which classes are not explicitly defined, but rather derived by adding properties and methods to an instance of another class or, less frequently, adding them to an empty object.
 
 基于原型的编程是一种面向对象编程风格，在这种编程风格中，类不是显式定义的，而是通过向另一个类的实例添加属性和方法派生出来的，或者不太常见的是向一个空对象添加属性和方法。
+
+### Expo /ˈekspoʊ/
+
+Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
+
+Expo 是一个开源平台，用于使用 JavaScript 和 React 为 Android、iOS 和 Web 制作通用原生应用程序。
 
 ## 名人堂
 
