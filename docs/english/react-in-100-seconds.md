@@ -26,7 +26,7 @@ Today, this has been React in 100 seconds. If you want to see more short videos 
 
 1. built-in：内置的
 
-## 翻译
+## 译文
 
 React 是 Facebook 开发的一个用于构建用户界面的 Javascript 库，于 2013 年发布。可以说，React 是近期最具影响力的用户界面库。我们用它来构建组件，这些组件代表了用户界面中符合逻辑、可重复使用的部分。React 的美妙之处在于将构建组件的简易性降到了理论上的最低点。
 

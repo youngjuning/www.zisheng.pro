@@ -44,8 +44,7 @@ JS code can also run on the server thanks to the Node.js runtime. Instead of but
 1. file system API：文件系统 API
 1. Brendan Eich：布兰登·艾奇
 
-
-## 翻译
+## 译文
 
 JavaScript 是一种高级、单线程、垃圾回收、解释型或基于原型的即时编译、多范式、动态语言，具有非阻塞事件循环，因构建网站而闻名。
 

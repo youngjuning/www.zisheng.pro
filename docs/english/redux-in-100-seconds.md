@@ -31,7 +31,7 @@ Now, serve the application and install the Redux DevTools browser extension. Unl
 1. prop drilling /ˈprɑːp ˈdrɪlɪŋ/：属性透传
 1. concepts /ˈkɑːnsepts/：概念
 
-## 翻译
+## 译文
 
 Redux 为您的 Javascript 应用程序中的所有数据提供单一真实源。现代网络应用程序表现为一棵复杂的组件树，这些组件不断生成和共享称为状态的数据。如果状态是去中心化的，就很难理解和测试。
 

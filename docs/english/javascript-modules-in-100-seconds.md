@@ -36,7 +36,7 @@ This has been ES modules in 100 seconds. Thanks for watching and I will see you 
 1. a variety of /ə vəˈraɪəti əv/：多种；各种各样的
 1. consumer /kənˈsuːmər/：消费者
 
-## 翻译
+## 译文
 
 比方说，你有一些存在于单个文件中的 Javascript 代码。你可以通过导出将这些代码变成一个模块。这样，其他文件就可以使用导入语句将该文件作为依赖文件导入。因此，模块只不过是一个导出自身代码的文件。这样，开发人员就可以在自己的项目中组织代码，或通过包管理器（如 NPM）与全世界共享代码。
 

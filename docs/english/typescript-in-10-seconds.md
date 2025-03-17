@@ -20,7 +20,7 @@ We can then apply the interface to a plain JavaScript object.
 
 The beauty of having strongly typed code is that we get autocomplete everywhere in our IDE. We don't have to jump back and forth to documentation or dig through stack traces to figure out why our code's not working.
 
-## 翻译
+## 译文
 
 TypeScript. 使用静态类型检查提前验证 JavaScript。JavaScript 是一种动态语言，在这种语言中，我们可以做各种疯狂的事情，比如引用不存在的变量或处理形状未知的对象。浏览器会对代码进行解释，但如果你的代码有问题，直到运行时浏览器抛出错误时你才会发现。TypeScript 通过对 JavaScript 进行类型扩展，防止了类似错误的发生。
 

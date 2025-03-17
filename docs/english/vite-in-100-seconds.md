@@ -43,7 +43,7 @@ Now, run `npm run build` to build the app for production. This will generate a J
 1. automatic /ˌɔːtəˈmætɪk/ ：自动的
 1. optimization /ˌɑːptɪməˈzeɪʃn/：优化
 
-## 翻译
+## 译文
 
 Vite 是一款 Javascript 构建工具，它简化了我们构建和开发前端 Web 应用程序的方式。它的核心功能有两个：一是在开发过程中为你的代码提供本地服务；二是将你的 Javascript、CSS 和其他资产打包在一起用于生产。有很多其他工具也能做同样的事情，比如 Webpack，那么 Vite 有什么不同呢？Vite 是由尤雨溪创建的，他还创建了 Vue.js，以简化和加快构建过程。
 

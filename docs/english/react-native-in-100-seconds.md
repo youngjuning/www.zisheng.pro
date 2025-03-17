@@ -45,7 +45,7 @@ And let me know if you want to see more React Native content in the comments. Th
 1. all-or-nothing /ˌɔːlɔːr ˈnʌθɪŋ/：非全即无
 1. integrate /ˈɪntɪˌɡreɪt/：集成
 
-## 翻译
+## 译文
 
 React Native，编写 Javascript 和 React，通过单一代码库为 iOS、Android 和 Web 构建应用程序。根据阿特伍德定律，任何能用 Javascript 编写的应用最终都会用 Javascript 编写。JS 开发人员尝试构建移动应用的第一种方式是使用 Apache、Cordova 和 Adobe PhoneGap 等工具，将他们的原生应用封装在称为 WebView 的沙盒浏览器中。其理念是一次编写，随处运行。
 
