@@ -1,11 +1,11 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  favicons: ['https://cdn.jsdelivr.net/gh/youngjuning/images@main/1687969566388.png'],
+  favicons: ['https://cdn.jsdelivr.net/gh/youngjuning/images@main/1742301937620.png'],
   autoAlias: false,
   themeConfig: {
     name: 'FS.ZS',
-    logo: 'https://cdn.jsdelivr.net/gh/youngjuning/images@main/1687969566388.png',
+    logo: 'https://cdn.jsdelivr.net/gh/youngjuning/images@main/1742301937620.png',
     prefersColor: { default: 'auto' },
     // editLink:
     //   'https://github.com/youngjuning/zisheng.pro/edit/main/{filename}',
