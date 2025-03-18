@@ -5,7 +5,7 @@ keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
   order: 1
-order: 2
+order: 3
 ---
 
 # JavaScript Modules in 100 Seconds

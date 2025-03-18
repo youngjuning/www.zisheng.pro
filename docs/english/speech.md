@@ -8,12 +8,12 @@ group:
 
 # 发音技巧
 
-## in a /inə/
+## in a /ɪnə/
 
 - B 站：https://www.bilibili.com/video/BV1F54y1Z7YL/
 - YouEnglish：https://youglish.com/pronounce/in_a/english/us
 
-## in the /inə/
+## in the /ɪnə/
 
 - B 站：https://www.bilibili.com/video/BV1F54y1Z7YL/
 - YouEnglish：https://youglish.com/pronounce/in_the/english/us

@@ -3,7 +3,7 @@ description: 'Redux a single source of truth for all the data in your Javascript
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 5
+order: 6
 ---
 
 # Redux in 100 Seconds
