@@ -1,7 +1,7 @@
 ---
 order:  1
 description: '词汇表'
-keywords: [程序员, 词汇表]
+keywords: [全栈, 紫升, 程序员, 词汇表]
 nav:
   title: 英语
   order: 1

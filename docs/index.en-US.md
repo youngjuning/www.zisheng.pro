@@ -1,7 +1,7 @@
 ---
 title: Skills evolve, Potential is unlimited.
 description: Let every study be the starting point for a breakthrough, and let technical skills be the cornerstone of your future.
-keywords: [fullstack, zisheng]
+keywords: [fullstack, zisheng, 全栈, 紫升]
 hero:
   title: Aaron Young
   description: Skills evolve, Potential is unlimited.
