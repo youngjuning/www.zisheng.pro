@@ -8,6 +8,8 @@ hero:
   actions:
     - text: Front End
       link: /frontend/en-US
+    - text: Algorithm
+      link: /algorithm/en-US
 features:
   - title: AGI
     emoji: 🌈

@@ -4,7 +4,7 @@ description: '词汇表'
 keywords: [程序员, 词汇表]
 nav:
   title: 英语
-  order: 3
+  order: 1
 toc: content
 ---
 

@@ -10,8 +10,6 @@ hero:
       link: /english
     - text: 算法
       link: /algorithm
-    - text: 前端
-      link: /frontend
 features:
   - title: 人工智能
     emoji: 🌈
