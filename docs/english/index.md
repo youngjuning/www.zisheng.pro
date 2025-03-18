@@ -4,19 +4,16 @@ description: '程序员词汇表'
 keywords: [程序员, 词汇表]
 nav:
   title: 程序员英语
-  order: 1
+  order: 3
 ---
 
 # 词汇表
 
 ## 计算机
 
-### algorithm /ˈælɡəˌrɪðəm/
+### algorithm /ˈælɡərɪðəm/
 
-- 算法
-  - An algorithm is a set of instructions for solving a problem or performing a task.（算法是解决问题或执行任务的一组指令。）
-  - An algorithm is a sequence of steps to solve a problem.（算法是解决问题的一系列步骤。）
-  - An algorithm is a set of rules for solving a problem.（算法是解决问题的一组规则。）
+- 算法：An algorithm is a set of instructions or steps to solve a particular problem.（算法是解决特定问题的一组指令或步骤。）
 
 ### leverage /ˈlevərɪdʒ/
 

@@ -10,6 +10,8 @@ hero:
     #   link: /interview
     - text: 英语
       link: /english
+    - text: 算法
+      link: /algorithm
 features:
   - title: 人工智能
     emoji: 🌈
