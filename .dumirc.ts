@@ -4,7 +4,7 @@ export default defineConfig({
   favicons: ['https://cdn.jsdelivr.net/gh/youngjuning/images@main/1742301937620.png'],
   autoAlias: false,
   themeConfig: {
-    name: 'FS.ZS',
+    name: '全栈紫升',
     logo: 'https://cdn.jsdelivr.net/gh/youngjuning/images@main/1742301937620.png',
     prefersColor: { default: 'auto' },
     // editLink:
@@ -27,9 +27,9 @@ export default defineConfig({
   // analytics: {
   // ga_v2: '',
   // },
-  // sitemap: {
-  // hostname: 'https://zisheng.pro',
-  // },
+  sitemap: {
+    hostname: 'https://zisheng.pro',
+  },
   hash: true,
   ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
   headScripts: process.env.NODE_ENV === 'development' ? [] : [
