@@ -24,9 +24,9 @@ export default defineConfig({
     { id: 'en-US', name: 'EN' },
   ],
   publicPath: '/',
-  // analytics: {
-  // ga_v2: '',
-  // },
+  analytics: {
+    ga_v2: 'G-4SL4CSTE7X',
+  },
   sitemap: {
     hostname: 'https://zisheng.pro',
   },
