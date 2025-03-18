@@ -5,6 +5,7 @@ group:
   title: 紫升英文晨读
   order: 2
 order: 1
+toc: content
 ---
 
 # JavaScript in 100 Seconds

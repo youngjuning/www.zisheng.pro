@@ -1,10 +1,11 @@
 ---
 order:  1
-description: '程序员词汇表'
+description: '词汇表'
 keywords: [程序员, 词汇表]
 nav:
-  title: 程序员英语
+  title: 英语
   order: 3
+toc: content
 ---
 
 # 词汇表
