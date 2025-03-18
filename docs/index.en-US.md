@@ -6,8 +6,8 @@ hero:
   title: FS.ZS
   description: Skills evolve, Potential is unlimited.
   actions:
-    - text: Interview
-      link: /interview/en-US
+    - text: Front End
+      link: /frontend/en-US
 features:
   - title: AGI
     emoji: 🌈

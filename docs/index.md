@@ -6,12 +6,13 @@ hero:
   title: FS.ZS
   description: 技能进化，潜力无限。
   actions:
-    # - text: 面试
-    #   link: /interview
+      link: /frontend
     - text: 英语
       link: /english
     - text: 算法
       link: /algorithm
+    - text: 前端
+      link: /frontend
 features:
   - title: 人工智能
     emoji: 🌈
