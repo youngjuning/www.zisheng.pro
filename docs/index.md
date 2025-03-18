@@ -6,7 +6,6 @@ hero:
   title: FS.ZS
   description: 技能进化，潜力无限。
   actions:
-      link: /frontend
     - text: 英语
       link: /english
     - text: 算法

@@ -3,7 +3,7 @@ order: 0
 description: '二分搜索（Binary Search）是一种针对有序数组的高效查找算法。'
 keywords: [二分搜索算法, javascript]
 nav:
-  title: 算法与数据结构
+  title: 算法
   order: 2
 ---
 
