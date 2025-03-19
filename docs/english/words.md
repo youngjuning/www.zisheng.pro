@@ -1,11 +1,11 @@
 ---
 order:  1
-description: '词汇表'
-keywords: [全栈, 紫升, 程序员, 词汇表]
+description: '词汇库'
+keywords: [全栈, 紫升, 程序员, 词汇库]
 toc: content
 ---
 
-# 词汇表
+# 词汇库
 
 ## 计算机
 
@@ -122,6 +122,12 @@ Andrew Clark is a remarkable figure in the tech world, especially in the realm o
 Evan You is a highly influential figure in the world of software development. He is the creator of Vue.js, a progressive JavaScript framework that has gained widespread popularity among developers globally. With Vue.js, Evan You has provided an intuitive, efficient, and flexible solution for building user interfaces. His innovative work has not only significantly enhanced the development experience but also empowered countless developers to create high - quality web applications more easily. His contributions have had a profound impact on the modern web development landscape.
 
 尤雨溪（Evan You）是软件开发领域极具影响力的人物。他是Vue.js的创造者，Vue.js是一个渐进式JavaScript框架，在全球开发者中广受欢迎。凭借Vue.js，尤雨溪为构建用户界面提供了一种直观、高效且灵活的解决方案。他的创新成果不仅极大地提升了开发体验，还让无数开发者能够更轻松地创建高质量的网络应用程序。他的贡献对现代网络开发生态产生了深远影响。
+
+## 公司名
+
+### Genesys /ˈdʒenəsɪs/
+
+Genesys 公司是全球领先的客户体验与客户联络中心解决方案提供商。1990 年成立，总部设在美国加州达利市，在全球多个地区设有分公司，业务遍布 100 多个国家，拥有 6000 多名员工。
 
 ## 固定短语
 
