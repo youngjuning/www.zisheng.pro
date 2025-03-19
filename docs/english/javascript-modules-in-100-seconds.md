@@ -6,7 +6,6 @@ group:
   title: 紫升英文晨读
   order: 1
 order: 10
-toc: content
 ---
 
 # JavaScript Modules in 100 Seconds

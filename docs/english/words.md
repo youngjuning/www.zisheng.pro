@@ -2,7 +2,6 @@
 order:  1
 description: '词汇库'
 keywords: [全栈, 紫升, 程序员, 词汇库]
-toc: content
 ---
 
 # 词汇库
