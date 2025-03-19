@@ -3,7 +3,7 @@ order:  2
 description: '发音技巧'
 keywords: [程序员, 词汇表]
 group:
-  title: 美式音标
+  title: 口语
 toc: content
 ---
 
