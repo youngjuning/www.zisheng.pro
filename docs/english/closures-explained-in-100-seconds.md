@@ -1,9 +1,9 @@
 ---
-description: 'Redux a single source of truth for all the data in your Javascript application.'
+description: 'Javascript closures are functions that can access values outside of their own curly braces.'
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 9
+order: 11
 toc: content
 ---
 
