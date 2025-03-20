@@ -13,6 +13,10 @@ export default defineConfig({
       github: 'https://github.com/youngjuning/zisheng.pro',
       twitter: 'https://twitter.com/luozhu2021',
     },
+    nav: {
+      mode: "append",
+      value: [{ title: 'Blog', link: 'https://youngjuning.js.org' }]
+    },
     hd: { rules: [] },
     footer: `Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫升</a>`,
   },

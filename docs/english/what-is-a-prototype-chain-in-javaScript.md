@@ -4,6 +4,7 @@ keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
 order: 10
+toc: content
 ---
 
 # What is a Prototype Chain in JavaScript

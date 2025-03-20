@@ -5,6 +5,7 @@ keywords: [全栈, 紫升, 程序员, 英语]
 nav:
   title: 英语
   order: 1
+toc: content
 ---
 
 # 首页
