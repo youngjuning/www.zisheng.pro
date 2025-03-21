@@ -39,6 +39,12 @@ keywords: [全栈, 紫升, 程序员, 词汇库]
 
 - 阿特伍德定律：Any application that can be written in Javascript will eventually be written in Javascript.（任何能用 Javascript 编写的应用最终都会用 Javascript 编写。）
 
+### SpeechRecognition /ˈspitʃ rɪkəɡˈnɪʃən/
+
+The SpeechRecognition interface of the Web Speech API is the controller interface for the recognition service; this also handles the SpeechRecognitionEvent sent from the recognition service.
+
+**SpeechRecognition** 接口是网络语音 API的控制接口，用于识别服务；它还处理从识别服务发送的SpeechRecognitionEvent。
+
 ## 编程
 
 ### JavaScript /dʒɑːvəskrɪpt/
@@ -95,6 +101,14 @@ Prototype-based programming is a style of object-oriented programming in which c
 Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 
 Expo 是一个开源平台，用于使用 JavaScript 和 React 为 Android、iOS 和 Web 制作通用原生应用程序。
+
+### scope /skoʊp/
+
+- 作用域
+  - 含义：作用域是指程序中变量、函数等标识符的可访问范围。例如，在编程语言中，变量的作用域决定了在程序的哪些部分可以访问和修改该变量。它有助于控制变量的生命周期和可见性，避免命名冲突等问题。
+  - 例句：
+    - In JavaScript, the scope of a variable declared inside a function is limited to that function.（在 JavaScript 中，在函数内部声明的变量的作用域仅限于该函数。）
+    - The scope of a global variable is throughout the entire program.（全局变量的作用域贯穿整个程序。
 
 ## 名人堂
 

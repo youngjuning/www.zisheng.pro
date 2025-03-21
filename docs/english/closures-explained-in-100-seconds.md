@@ -52,8 +52,9 @@ Thanks for watching and I will see you in the next one.
 1. close up /kloʊz ʌp/：关闭；封闭
 1. feed info（fed into）：注入，被输入到...中
 1. self-contained /ˌself kənˈteɪnd/：完备的；自足的；完全自足的
+1. executed /ˈeksɪkjuːtɪd/：执行
 
-## 译文
+## 100 秒内解释 Javascript 闭包
 
 Javascript 闭包是可以访问自身大括号以外值的函数。为了调用你的代码中的函数，Javascript 解释器需要了解函数本身以及它所依赖的周围环境中的任何其他数据。在输入机器之前，一切都需要被整齐地封闭在一个盒子里。举例来说，一个纯函数只依赖于它自己的参数和内部数据。这就是一个完全自足的封闭表达式。
 
