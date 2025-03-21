@@ -1,9 +1,9 @@
 ---
-description: 'There are mainly three types of scopes that we come across in our day-to-day use of the language. Let's look at them one by one. The first one is the global scope. Whenever we place any piece of code that is not inside of any function, it is said to be in the global scope by default.'
+description: 'There are mainly three types of scopes that we come across in our day-to-day use of the language.'
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 11
+order: 12
 toc: content
 ---
 
