@@ -40,5 +40,11 @@ Comment what you'd like to see me cover next? Cheers.
 ## 核心词汇
 
 1. hoisting /ˈhɔɪstɪŋ/：提升
+1. process /ˈprɑːses/：过程；【计】进程
+1. pulling up /ˈpʊlɪŋ ʌp/：向上拉起，当前语境可翻译为提升
+1. interpreter /ɪnˈtɜrprɪtər/：【计】解释器
+1. variable /ˈveriəbl/：【计】变量
+1. declarations /ˌdeklə'reɪʃənz/：声明
+1. the top of /ðə tɑːp əv/：...的顶部
 
 ## 译文
