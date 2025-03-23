@@ -7,9 +7,9 @@ hero:
   description: Skills evolve, Potential is unlimited.
   actions:
     - text: Frontend
-      link: /frontend/en-US
+      link: /frontend/en
     - text: Algorithm
-      link: /algorithm/en-US
+      link: /algorithm/en
 features:
   - title: AGI
     emoji: 🌈
