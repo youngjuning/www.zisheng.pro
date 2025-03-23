@@ -59,7 +59,7 @@ const DocLayout: FC = () => {
     >
       <Helmet>
         <html lang={intl.locale.replace(/-.+$/, '')} />
-        {fm.title && <title>{fm.title} - Aaron</title>}
+        {fm.title && <title>{fm.title} - Aaron - 全栈紫升</title>}
         {fm.title && <meta property="og:title" content={fm.title} />}
         {fm.description && <meta name="description" content={fm.description} />}
         {fm.description && (

@@ -39,4 +39,6 @@ Comment what you'd like to see me cover next? Cheers.
 
 ## 核心词汇
 
+1. hoisting /ˈhɔɪstɪŋ/：提升
+
 ## 译文
