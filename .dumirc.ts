@@ -23,10 +23,6 @@ export default defineConfig({
   theme: {
     '@c-primary': '#00cc99',
   },
-  locales: [
-    {id: 'cn', name: '中文'},
-    { id: 'en', name: 'EN' },
-  ],
   publicPath: '/',
   analytics: {
     ga_v2: 'G-4SL4CSTE7X',
