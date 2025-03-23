@@ -24,8 +24,7 @@ export default defineConfig({
     '@c-primary': '#00cc99',
   },
   locales: [
-    { id: 'zh-CN', name: '中文' },
-    { id: 'en-US', name: 'EN' },
+    { id: 'en', name: 'EN' },
   ],
   publicPath: '/',
   analytics: {
