@@ -20,11 +20,11 @@ This has been electron in 100 seconds. Stay tuned for a full electron project in
 
 ## 词汇
 
-1. electron [ɪˈlektrɑːn]：一个使用 JavaScript、HTML 和 CSS 等 Web 技术创建原生程序的开源框架。
-1. render process [ˈrɛndərprɑːses]：渲染进程
-1. Chromium [ˈkroʊmiəm]：Google 主导开发的一款网页浏览器，它基于 KHTML 的 Webkit 渲染引擎。
-1. instantiate [ɪnˈstænʃieɪt]：【计】实例化
-1. icon [ˈaɪkɑːn]：图标
+1. **electron** [ɪˈlektrɑːn]：一个使用 JavaScript、HTML 和 CSS 等 Web 技术创建原生程序的开源框架。
+1. **render process** [ˈrɛndərprɑːses]：渲染进程
+1. **Chromium** [ˈkroʊmiəm]：Google 主导开发的一款网页浏览器，它基于 KHTML 的 Webkit 渲染引擎。
+1. **instantiate** [ɪnˈstænʃieɪt]：【计】实例化
+1. **icon** [ˈaɪkɑːn]：图标
 
 ## 译文
 
