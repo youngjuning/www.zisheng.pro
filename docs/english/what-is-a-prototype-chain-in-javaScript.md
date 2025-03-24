@@ -51,7 +51,7 @@ It's Javascript's way of enabling inheritance and code reuse. Want to dive deepe
 ## 代码
 
 ```js
-const obj = { name: "Aaron" };
+const obj = { name: "全栈紫升" };
 
 const custom = Object.create(obj);
 

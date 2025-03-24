@@ -4,7 +4,7 @@ export default defineConfig({
   favicons: ['https://cdn.jsdelivr.net/gh/youngjuning/images@main/1742301937620.png'],
   autoAlias: false,
   themeConfig: {
-    name: 'Aaron',
+    name: '全栈紫升',
     logo: 'https://cdn.jsdelivr.net/gh/youngjuning/images@main/1742301937620.png',
     prefersColor: { default: 'auto' },
     // editLink:
