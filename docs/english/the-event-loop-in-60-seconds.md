@@ -4,7 +4,6 @@ keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
 order: 2
-toc: content
 ---
 
 # The event loop in 60 seconds

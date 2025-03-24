@@ -4,7 +4,6 @@ keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
 order: 4
-toc: content
 ---
 
 # TypeScript in 100 Seconds
