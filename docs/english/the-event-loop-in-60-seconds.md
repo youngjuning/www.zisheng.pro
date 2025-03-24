@@ -6,6 +6,8 @@ group:
 order: 2
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/822166769?from=pc
+
 # The event loop in 60 seconds
 
 Javascript is single-threaded, it can only handle one task at a time. We can use web APIs to interact with the features leveraged by the browser, and some of these APIs allow us to initiate async tasks in the background, so the function call that initiates an async task like that is still added to the call stack, but this is just to hand it off to the browser. The actual async task is handled in the background, so it does not block the call stack.

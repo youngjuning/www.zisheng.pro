@@ -6,6 +6,8 @@ group:
 order: 7
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/821163980?from=pc
+
 # React Native in 100 Seconds
 
 React Native, Write Javascript and React to build apps for iOS, Android, and the web from a single code base. According to Atwood's law, any application that can be written in Javascript will eventually be written in Javascript. The first way JS developers tried to build mobile apps was by wrapping their native applications in a sandbox browser called a WebView, using tools like Apache, Cordova and Adobe PhoneGap. The philosophy is write once, run anywhere.

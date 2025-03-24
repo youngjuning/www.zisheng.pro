@@ -6,6 +6,8 @@ group:
 order: 8
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/820285932?from=pc
+
 # Vite in 100 Seconds
 
 Vite, a Javascript build tool that simplifies the way we build and develop front-end web applications. At its core, it does two things one serve your code locally during development, and two, bundle your Javascript, CSS, and other assets together for production. There are many other tools out there that do the same thing, like Webpack, so what makes Vite different? Well, it was created by Evan You, who also created Vue.js as a way to both simplify and speed up the build process.

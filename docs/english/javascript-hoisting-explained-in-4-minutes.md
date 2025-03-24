@@ -6,9 +6,9 @@ group:
 order: 13
 ---
 
-# JavaScript Hoisting Explained in 4 Minutes
-
 > 喜马拉雅：https://m.ximalaya.com/sound/824016860?from=pc
+
+# JavaScript Hoisting Explained in 4 Minutes
 
 Hoisting is the process of the Javascript interpreter pulling up or hoisting `var` variable and function declarations to the top of their scope before any code is executed. So this is the equivalent of them being at the top of your program, even when they are not. It's a fairly simple idea that can lead to some strange behavior that can get confusing at times. As we'll see in some of the examples coming up, we're going to cover exactly how hoisting works and go over some techniques to avoid it.
 

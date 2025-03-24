@@ -6,9 +6,9 @@ group:
 order: 12
 ---
 
-# Understanding Scope in Javascript
-
 > 喜马拉雅：https://www.ximalaya.com/gerenchengzhang/86760688/823314624
+
+# Understanding Scope in Javascript
 
 Hello and welcome to Compscience Simplified.
 

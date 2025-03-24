@@ -6,6 +6,8 @@ group:
 order: 9
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/821630949?from=pc
+
 # Electron JS in 100 Seconds
 
 Electron build native desktop apps for platforms like Macos and Windows using nothing but HTML, CSS, and Javascript. It's a tool behind many popular apps that you might be using today, like VS Code, Slack and Discord, just to name a few. On the front end, you build UIS just like you would for a browser-based web app, and you can bring along your favorite frameworks. But in Electron, you also have access to Node.js, and that means you can access low-level APIS that you don't normally have access to in a sandbox. Browser like Electron combines the front-end and back-end technologies, and provides a bunch of other tools to work with native menus, the system tray, and so on.
@@ -26,7 +28,7 @@ This has been electron in 100 seconds. Stay tuned for a full electron project in
 1. **instantiate** [ɪnˈstænʃieɪt]：【计】实例化
 1. **icon** [ˈaɪkɑːn]：图标
 
-## 译文
+## Electron JS 100 秒
 
 Electron 只需使用 HTML、CSS 和 Javascript，即可为 Macos 和 Windows 等平台构建本地桌面应用程序。它是你现在可能正在使用的许多流行应用程序背后的工具，如 VS Code、Slack 和 Discord 等。在前端，你可以像构建基于浏览器的 Web 应用程序一样构建用户界面，还可以使用你最喜欢的框架。但在 Electron 中，你还可以访问 Node.js，这意味着你可以访问在沙盒中通常无法访问的低级 APIS。像 Electron 这样的浏览器结合了前端和后端技术，并提供了大量其他工具来处理本地菜单、系统托盘等。
 

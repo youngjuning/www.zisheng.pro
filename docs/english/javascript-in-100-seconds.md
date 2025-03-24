@@ -7,6 +7,8 @@ group:
 order: 1
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/811947378?from=pc
+
 # JavaScript in 100 Seconds
 
 JavaScript, a high-level, single-threaded, garbage-collected, interpreted, or just-in-time compiled prototype-based, multi-paradigm, dynamic language with a non-blocking event loop, made famous for building websites.

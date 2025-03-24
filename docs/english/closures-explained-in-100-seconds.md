@@ -6,6 +6,8 @@ group:
 order: 11
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/822949006?from=pc
+
 ## Closures Explained in 100 Seconds
 
 Javascript closures are functions that can access values outside of their own curly braces. In order to call a function in your code, the Javascript interpreter needs to know about the function itself and any other data from the surrounding environment that it depends on. Everything needs to be neatly closed up into a box before it can be fed into the machine. Take, for example, a pure function that only depends on its own arguments and internal data. What we have here is a fully self-contained, closed expression.
@@ -53,7 +55,7 @@ Thanks for watching and I will see you in the next one.
 1. self-contained /ˌself kənˈteɪnd/：完备的；自足的；完全自足的
 1. executed /ˈeksɪkjuːtɪd/：执行
 
-## 100 秒内解释 Javascript 闭包
+## Javascript 闭包 100 秒
 
 Javascript 闭包是可以访问自身大括号以外值的函数。为了调用你的代码中的函数，Javascript 解释器需要了解函数本身以及它所依赖的周围环境中的任何其他数据。在输入机器之前，一切都需要被整齐地封闭在一个盒子里。举例来说，一个纯函数只依赖于它自己的参数和内部数据。这就是一个完全自足的封闭表达式。
 

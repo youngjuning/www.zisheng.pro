@@ -8,6 +8,8 @@ group:
 order: 10
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/820637300?from=pc
+
 # JavaScript Modules in 100 Seconds
 
 Let's say you have some Javascript code that lives in a single file. You can turn this code into a module by exporting it. This allows other files to use an import statement to import this file as a dependency. So a module is nothing more than a file that exports its own code. This allows developers to organize code within their own projects or share code with the world through package managers like NPM.

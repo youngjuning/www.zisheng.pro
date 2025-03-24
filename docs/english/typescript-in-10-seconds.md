@@ -6,6 +6,8 @@ group:
 order: 4
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/818199337?from=pc
+
 # TypeScript in 100 Seconds
 
 TypeScript. Validate your JavaScript ahead of time with static type checking. JavaScript is a dynamic language where we can do all kinds of crazy things, like reference variables that don't exist or work with objects of an unknown shape. The code is interpreted by a browser, but if your code is broken, you won't catch it until runtime, when the browser throws an error. TypeScript prevents errors like this from ever happening by extending JavaScript with types.

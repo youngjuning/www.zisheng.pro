@@ -6,6 +6,8 @@ group:
 order: 10
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/822546692?from=pc
+
 # What is a Prototype Chain in JavaScript
 
 Hey, developers, ever wondered how Javascript objects share properties and methods? Let's break down the prototype chain in just 60 seconds.

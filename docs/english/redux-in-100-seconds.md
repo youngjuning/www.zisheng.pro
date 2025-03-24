@@ -6,6 +6,8 @@ group:
 order: 6
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/819166131?from=pc
+
 # Redux in 100 Seconds
 
 Redux, A single source of truth for all the data in your Javascript application. Modern web applications are represented as a complex tree of components. Components that constantly produce and share data called state. And when state is decentralized, it can become difficult to understand and test.
