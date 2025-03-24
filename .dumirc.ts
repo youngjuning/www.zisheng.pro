@@ -15,7 +15,7 @@ export default defineConfig({
     },
     nav: {
       mode: "append",
-      value: [{ title: 'Blog', link: 'https://youngjuning.js.org' }]
+      value: [{ title: '博客', link: 'https://youngjuning.js.org' }]
     },
     hd: { rules: [] },
     footer: `Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫升</a>`,
@@ -28,9 +28,10 @@ export default defineConfig({
     ga_v2: 'G-4SL4CSTE7X',
   },
   sitemap: {
-    hostname: 'https://zisheng.pro',
+    hostname: 'https://www.zisheng.pro',
   },
   hash: true,
+  exportStatic: {},
   headScripts: process.env.NODE_ENV === 'development' ? [] : [
     { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', async: true, crossorigin: 'anonymous' }
   ],
