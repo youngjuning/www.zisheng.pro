@@ -32,7 +32,7 @@ When `let` is used, you can see we have a block scoped variable named I. But whe
 
 Thanks for watching and I will see you in the next one.
 
-## 核心词汇
+## 词汇
 
 1. closure /ˈkloʊʒər/：【计】闭包
 1. access /'ækses/：【计】访问

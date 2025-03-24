@@ -12,7 +12,7 @@ Javascript is single-threaded, it can only handle one task at a time. We can use
 
 The task queue is used by callback-based web APIs to enqueue the callback. Once the asynchronous task has completed, then we have the microtask queue, which is only used by promise handlers, the `async` function bodies after `await`, the `queueMicrotask()` queue callbacks and the `new MutationObserver` callbacks. This queue has priority over the task queue, and the event loop ensures that this queue is entirely empty before moving on to the task queue. And after handling each task from the task queue, the event loop again checks the microtask queue to ensure that nothing has been added in the meantime.
 
-## 核心词汇
+## 词汇
 
 1. handle /ˈhændl/：处理
 1. handlers /ˈhændlərz/：处理程序

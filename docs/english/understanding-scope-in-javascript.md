@@ -20,7 +20,7 @@ In this code snippet, this variable, `global` in this function are both in the g
 
 Next, we have the function scope, which means that variables that are declared within a function are only accessible inside of that function, but not outside of it. Continuing with the previous example, if we define a variable inside of the inner function and then try to access it anywhere outside of that function, we get an error. That is because, as the variable was declared inside of the inner function, its scope is limited to the boundaries of that function and to the engine. It is as good as the variable does not exist outside of that function. Now, let's look at the third kind of scope that exists, which is block scope. This is a special type of scope which applies to variables that are declared using the `let` or the `const` keyword only.
 
-According to the rules of block scope, variables that are declared inside of a block or a pair of braces can only be accessed inside of that block and nowhere outside of it. Let's understand this with an example. In this example, we are just creating a new variable called `blocked`, using the `let` keyword inside of the `if` block. When we try to log that variable towards the end of the function, we get a reference error, even though we are trying to reference the variable inside the same function. This is because it was declared using the Let keyword and hence its scope to block.
+According to the rules of block scope, variables that are declared inside of a block or a pair of braces can only be accessed inside of that block and nowhere outside of it. Let's understand this with an example. In this example, we are just creating a new variable called `blocked`, using the `let` keyword inside of the `if` block. When we try to log that variable towards the end of the function, we get a reference error, even though we are trying to reference the variable inside the same function. This is because it was declared using the `let` keyword and hence its scope to block.
 
 Due to that, it does not exist anywhere outside of the block. If we declare the same variable using the `var` keyword instead of the `let` keyword, the code starts to function as expected. Because it is then scoped to the entire function and not the block. Let us now discuss the caveat, which we talked about. But before that, if you learned something new today, click that like button so that YouTube knows this video is useful. It might be clear from what we discussed just now. But we want to state it here again that a variable declared in a particular scope is available for access in all the inner scopes.
 
@@ -28,15 +28,24 @@ For instance, the variable `outer` declared in the outer function here can be lo
 
 But if it was not present anywhere throughout the scope chain, only then we get this error. And those are the basics about scope in Javascript. See you in the next one, where we cover the concept of closures in Javascript.
 
-## 核心词汇
+## 词汇
 
-1. although
-1. day-to-day
-1. for instance
+1. scope [skoʊp]：【计】作用域
+1. **although** [ɔːlˈðoʊ]：虽然，尽管，既是
+1. **day-to-day**：日常使用的；日常的
+1. **closures** [ˈkloʊʒərz]：闭包
+1. **for instance** [fɔːr ˈɪnstəns]：例如
+1. **within** [wɪˈðɪn]：在...之内
+1. **accessible** [əkˈsesəb(ə)l]：【计】可访问的（数据、文件、系统资源）
+1. **access** [ˈækses]：【计】访问（数据、文件、系统资源）
+1. **accessed** [ˈæksest]：【计】访问（access 的过去式和过去分词）
+1. **anywhere** [ˈeniwer]：adv.无论何处
+1. **because** [bɪˈkɔːz]：conj. 因为
+1. **a pair of**：一对
+1. **resolve** [rɪˈzɑːlv]：【计】解析
+1. **concept** [ˈkɑːnsept]：【计】概念
 
 ## 译文
-
-大家好，欢迎收看《简化 Compscience》。
 
 今天，我们将探讨 Javascript 中的一个重要概念，它不仅能帮助我们理解引擎如何访问变量，还能帮助我们理解闭包等更复杂的概念。这将有助于我们接下来的 Javascript 面试，让我们开始吧。根据 MDM，“作用域”（Scope）是当前的执行上下文，是引擎当前可见或可访问的值所在的区域。不在当前作用域内的变量无法访问，但有一个注意事项。
 
@@ -46,20 +55,10 @@ But if it was not present anywhere throughout the scope chain, only then we get 
 
 接下来是函数作用域，这意味着在函数内部声明的变量只能在函数内部访问，而不能在函数外部访问。继续前面的例子，如果我们在内部函数中定义了一个变量，然后试图在该函数之外的任何地方访问它，就会出现错误。这是因为，由于变量是在内部函数内部声明的，因此其作用域仅限于该函数和引擎的边界。就像变量不存在于该函数之外一样。现在，我们来看看第三种作用域，即块作用域。这是一种特殊的作用域，只适用于使用 `let` 或 `const` 关键字声明的变量。
 
-根据块作用域的规则，在块或一对大括号内声明的变量只能在块内访问，而不能在块外访问。让我们通过一个例子来理解这一点。在这个例子中，我们只是在 `if` 代码块中使用 `let` 关键字创建了一个名为 `blocked` 的新变量。当我们试图在函数末尾记录该变量时，会出现引用错误，尽管我们是在同一个函数中引用该变量。这是因为变量是使用 Let 关键字声明的，因此它的作用域是块。
+根据块作用域的规则，在块或一对大括号内声明的变量只能在块内访问，而不能在块外访问。让我们通过一个例子来理解这一点。在这个例子中，我们只是在 `if` 代码块中使用 `let` 关键字创建了一个名为 `blocked` 的新变量。当我们试图在函数末尾记录该变量时，会出现引用错误，尽管我们是在同一个函数中引用该变量。这是因为变量是使用 `let` 关键字声明的，因此它的作用域是块。
 
 因此，它不存在于代码块之外的任何地方。如果我们使用 `var` 关键字而不是 `let` 关键字来声明同一个变量，代码就会开始正常运行。因为它的作用域是整个函数，而不是代码块。现在，让我们来讨论一下我们谈到的注意事项。但在此之前，如果你今天学到了新东西，请点击那个赞按钮，让 YouTube 知道这个视频很有用。从我们刚才的讨论中，大家可能已经清楚了。但我们想在此再次说明，在特定作用域中声明的变量可以在所有内部作用域中访问。
 
 例如，在这里的外层函数中声明的变量 `outer` 可以在内层函数中登录，因为从技术上讲，它属于外层函数的作用域。之所以能做到这一点，是因为当 Javascript 编译器无法解析当前作用域中的变量时，它会一步一步地向上移动到外层作用域，并尝试找到所述变量。这就是所谓的作用域链，它会一直这样做直到全局作用域。如果变量仍未被解决，我们就会得到 “变量未定义 ”的错误信息。也就是说，即使这个变量被定义在更高的地方，比如全局作用域，我们也不会得到这个错误。
 
 但如果它在整个作用域链中的任何地方都不存在，我们才会得到这个错误。以上就是有关 Javascript 中作用域的基础知识。下一篇我们将介绍 Javascript 中闭包的概念，敬请期待。
-
-## 扩展
-
-### 全局作用域 TODO
-
-### 函数作用域 TODO
-
-### 块级作用域 TODO
-
-### 作用域链 TODO

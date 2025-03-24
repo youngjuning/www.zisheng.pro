@@ -37,7 +37,7 @@ As you can see, we've got the same sort of example. But we've now assigned the f
 
 Comment what you'd like to see me cover next? Cheers.
 
-## 核心词汇
+## 词汇
 
 1. *hoisting* [ˈhɔɪstɪŋ]：提升
 1. *process* [ˈprɑːses]：过程；【计】进程

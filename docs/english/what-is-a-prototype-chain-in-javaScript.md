@@ -18,7 +18,7 @@ And that's the prototype chain.
 
 It's Javascript's way of enabling inheritance and code reuse. Want to dive deeper? Let me know in the comments. Don't forget to like, share and subscribe to 404Developer for more Javascript tips. See you next time.
 
-## 核心词汇
+## 词汇
 
 1. wondered /ˈwʌndərd/：vt. 对…感到好奇
 2. property /ˈprɑpərti/：属性
