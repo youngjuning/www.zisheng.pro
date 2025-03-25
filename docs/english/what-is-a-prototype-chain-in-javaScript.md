@@ -1,4 +1,5 @@
 ---
+title: 'What is a Prototype Chain in JavaScript？'
 description: 'Javascript is single-threaded, it can only handle one task at a time. We can use web APis to interact with the features leveraged by the browser, and some of these APIS allow us to initiate async tasks in the background'
 keywords: [程序员, 英文晨读]
 group:
@@ -8,7 +9,7 @@ order: 10
 
 > 喜马拉雅：https://m.ximalaya.com/sound/822546692?from=pc
 
-# What is a Prototype Chain in JavaScript
+## What is a Prototype Chain in JavaScript？
 
 Hey, developers, ever wondered how Javascript objects share properties and methods? Let's break down the prototype chain in just 60 seconds.
 
@@ -37,7 +38,7 @@ It's Javascript's way of enabling inheritance and code reuse. Want to dive deepe
 13. comments /ˈkɑːments/：注释
 14. power /ˈpaʊər/：力量
 
-## 译文
+## JavaScript 原型链是什么？
 
 嘿，开发者，有没有想过 Javascript 对象是如何共享属性和方法的？让我们在 60 秒内拆解下原型链。
 
