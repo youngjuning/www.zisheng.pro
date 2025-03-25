@@ -4,8 +4,9 @@ keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
 order: 7
-toc: content
 ---
+
+> 喜马拉雅：https://m.ximalaya.com/sound/821163980?from=pc
 
 # React Native in 100 Seconds
 
@@ -21,7 +22,7 @@ And there's frameworks like Expo that build on top of React Native primitives to
 
 And let me know if you want to see more React Native content in the comments. Thanks for watching and I will see you in the next one.
 
-## 核心词汇
+## 词汇
 
 1. eventually /ɪˈventʃuəli/：adv.最终，结果
 1. wrapping /ˈræpɪŋ/：包装、封装

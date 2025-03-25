@@ -4,8 +4,9 @@ keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
 order: 6
-toc: content
 ---
+
+> 喜马拉雅：https://m.ximalaya.com/sound/819166131?from=pc
 
 # Redux in 100 Seconds
 
@@ -21,7 +22,7 @@ The beauty of Redux is that we can select data anywhere in the application witho
 
 Now, serve the application and install the Redux DevTools browser extension. Unlike a normal project, you're able to inspect and debug the entire timeline of actions and state changes in your application. This has been Redux in 100 seconds. Upgrade to Fireship Pro if you want to learn all kinds of other react concepts in a format like this. Thanks for watching and I will see you in the next one.
 
-## 核心词汇
+## 词汇
 
 1. be represented as /bi ˌreprɪˈzentɪd æz/：表现为...
 1. decentralized /ˌdiːˈsentrəlaɪzd/：分散的；去中心化的
