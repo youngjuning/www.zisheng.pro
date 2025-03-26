@@ -110,13 +110,7 @@ const DocLayout: FC = () => {
             <Footer />
           </Content>
         </div>
-        <div className="dumi-default-doc-layout-toc-wrapper">
-          {fm.toc === 'content' && (
-            <>
-              <h4>TABLE OF CONTENTS</h4>
-              <Toc />
-            </>
-          )}
+        {(fm.toc !== 'content' && pathname !== "/") && (
           <Adsense
             className="adsbygoogle"
             style={{ display: "block" }}
@@ -127,7 +121,13 @@ const DocLayout: FC = () => {
             data-ad-format="auto"
             data-full-width-responsive="true"
           />
-        </div>
+        )}
+        {fm.toc === 'content' && (
+          <div className="dumi-default-doc-layout-toc-wrapper">
+            <h4>TABLE OF CONTENTS</h4>
+            <Toc />
+          </div>
+        )}
       </main>
     </div>
   );
