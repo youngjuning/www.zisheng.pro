@@ -96,19 +96,25 @@ Prototype-based programming is a style of object-oriented programming in which c
 
 基于原型的编程是一种面向对象编程风格，在这种编程风格中，类不是显式定义的，而是通过向另一个类的实例添加属性和方法派生出来的，或者不太常见的是向一个空对象添加属性和方法。
 
-### Expo /ˈekspoʊ/
+### Expo [ˈekspoʊ]
 
 Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 
 Expo 是一个开源平台，用于使用 JavaScript 和 React 为 Android、iOS 和 Web 制作通用原生应用程序。
 
-### scope /skoʊp/
+### scope [skoʊp]
 
 - 作用域
   - 含义：作用域是指程序中变量、函数等标识符的可访问范围。例如，在编程语言中，变量的作用域决定了在程序的哪些部分可以访问和修改该变量。它有助于控制变量的生命周期和可见性，避免命名冲突等问题。
   - 例句：
     - In JavaScript, the scope of a variable declared inside a function is limited to that function.（在 JavaScript 中，在函数内部声明的变量的作用域仅限于该函数。）
     - The scope of a global variable is throughout the entire program.（全局变量的作用域贯穿整个程序。
+
+### Lynx [lɪŋks]
+
+- 跨平台 UI 框架
+  - 介绍：2025 年 3 月字节跳动正式宣布开源其跨平台 UI 框架 Lynx，开发者可通过一份代码同时构建移动端原生界面与 Web 端界面， 已在 TikTok 等应用中得到验证，具有高性能多功能渲染引擎和性能优先的双线程 UI 编程范式等特性，其采用 Rust 开发的现代工具链，确保了运行时的效率与稳定性.
+  - 例句：Lynx enables developers to build cross-platform applications more efficiently with its unique architecture and powerful features.（Lynx 凭借其独特的架构和强大的功能，使开发者能够更高效地构建跨平台应用程序。）
 
 ## 名人堂
 
@@ -157,5 +163,3 @@ from scratch 意思是从头开始，这是一个口语表达。 它可以用来
 
 - The camera has a built - in flash.（这个相机有一个内置闪光灯。）
 - This computer has a built - in microphone.（这台电脑有一个内置麦克风。）
-
-> 发音技巧：在较快的语流中，“built” 的最后一个音 /t/ 和 “in” 的开头音 /ɪ/ 可以连读，读成 /bɪltɪn/，发音要自然流畅，中间不要有明显停顿。
