@@ -59,7 +59,7 @@ const DocLayout: FC = () => {
     >
       <Helmet>
         <html lang={intl.locale.replace(/-.+$/, '')} />
-        {fm.title && <title>{fm.title} - Aaron - 全栈紫升</title>}
+        {fm.title && <title>{fm.title} - 全栈紫升</title>}
         {fm.title && <meta property="og:title" content={fm.title} />}
         {fm.description && <meta name="description" content={fm.description} />}
         {fm.description && (
@@ -95,20 +95,20 @@ const DocLayout: FC = () => {
           <Content>
             <article>
               {outlet}
+              <Adsense
+                className="adsbygoogle"
+                style={{ display: "block" }}
+                data-ad-client="ca-pub-5641491107630454"
+                data-ad-slot="5596588097"
+                data-page-url="https://www.nablepart.com"
+                data-override-format="true"
+                data-ad-format="auto"
+                data-full-width-responsive="true"
+              />
             </article>
             <ContentFooter />
             <Footer />
           </Content>
-          <Adsense
-            className="adsbygoogle"
-            style={{ display: "block" }}
-            data-ad-client="ca-pub-5641491107630454"
-            data-ad-slot="5596588097"
-            data-page-url="https://nablepart.com"
-            data-override-format="true"
-            data-ad-format="auto"
-            data-full-width-responsive="true"
-          />
         </div>
         {fm.toc === 'content' && (
           <div className="dumi-default-doc-layout-toc-wrapper">

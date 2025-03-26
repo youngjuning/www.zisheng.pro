@@ -6,6 +6,8 @@ group:
 order: 5
 ---
 
+> 喜马拉雅：https://m.ximalaya.com/sound/819166131?from=pc
+
 # React in 100 Seconds
 
 React, a Javascript library for building user interfaces developed at Facebook and released in 2013. It's safe to say React has been the most influential UI library of recent memory. We use it to build components that represent logical, reusable parts of the UI. The beauty of React is that the simplicity of building a component has been brought down to its theoretical minimum.
@@ -22,7 +24,7 @@ State management You've got Redux, Mobx, Flux, Recoil, XState and more. You have
 
 Today, this has been React in 100 seconds. If you want to see more short videos like this, make sure to like and subscribe and check out more advanced React content on Fireship .io. And if you're curious how I make these videos, make sure to check out my new personal channel and video on that topic. Thanks for watching and I will see you in the next one.
 
-## 核心词汇
+## 词汇
 
 1. built-in：内置的
 

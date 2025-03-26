@@ -4,14 +4,15 @@ keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
 order: 9
-toc: content
 ---
+
+> 喜马拉雅：https://m.ximalaya.com/sound/821630949?from=pc
 
 # Electron JS in 100 Seconds
 
 Electron build native desktop apps for platforms like Macos and Windows using nothing but HTML, CSS, and Javascript. It's a tool behind many popular apps that you might be using today, like VS Code, Slack and Discord, just to name a few. On the front end, you build UIS just like you would for a browser-based web app, and you can bring along your favorite frameworks. But in Electron, you also have access to Node.js, and that means you can access low-level APIS that you don't normally have access to in a sandbox. Browser like Electron combines the front-end and back-end technologies, and provides a bunch of other tools to work with native menus, the system tray, and so on.
 
-Let's go ahead and build a desktop app. Now. Run `npm init` in an empty directory, then install Electron, then create a `main.js` file and set that as the main entry point into your app. Every Electron app has exactly one main process running. It manages the lifecycle of your app and opens the windows that the end user will see. Each window is its own independent render process, running with the Chromium web browser.
+Let's go ahead and build a desktop app. Now. Run `npm init` in an empty directory, then install Electron, then create a `main.js` file and set that as the main entry point into your app. Every Electron app has exactly one main process running. It manages the lifecycle of your app and opens the windows that the end user will see. Each window is its own independent render process, running with the 1. Chromium web browser.
 
 When your main app is ready, you can start a new render process by instantiating a browser window. Then tell the window to load a regular HTML file, it will render the HTML, CSS, and Javascript. But do so in a native window and give you access to low-level APIS. To build a true desktop experience, create an `index.html` file and put whatever code you want inside of it. But notice how I'm accessing `Node.Globals` directly in my HTML.
 
@@ -19,7 +20,15 @@ That's not something you can do in a normal web browser, and Electron gives you 
 
 This has been electron in 100 seconds. Stay tuned for a full electron project in a few days and make sure to hit the like button. If you want to see more short videos like this. Thanks for watching and I will see you in the next one.
 
-## 译文
+## 词汇
+
+1. **electron** [ɪˈlektrɑːn]：一个使用 JavaScript、HTML 和 CSS 等 Web 技术创建原生程序的开源框架。
+1. **render process** [ˈrɛndərprɑːses]：渲染进程
+1. **Chromium** [ˈkroʊmiəm]：Google 主导开发的一款网页浏览器，它基于 KHTML 的 Webkit 渲染引擎。
+1. **instantiate** [ɪnˈstænʃieɪt]：【计】实例化
+1. **icon** [ˈaɪkɑːn]：图标
+
+## Electron JS 100 秒
 
 Electron 只需使用 HTML、CSS 和 Javascript，即可为 Macos 和 Windows 等平台构建本地桌面应用程序。它是你现在可能正在使用的许多流行应用程序背后的工具，如 VS Code、Slack 和 Discord 等。在前端，你可以像构建基于浏览器的 Web 应用程序一样构建用户界面，还可以使用你最喜欢的框架。但在 Electron 中，你还可以访问 Node.js，这意味着你可以访问在沙盒中通常无法访问的低级 APIS。像 Electron 这样的浏览器结合了前端和后端技术，并提供了大量其他工具来处理本地菜单、系统托盘等。
 

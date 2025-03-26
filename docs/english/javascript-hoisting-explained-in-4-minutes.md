@@ -4,16 +4,16 @@ keywords:  [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
 order: 13
-toc: content
 ---
 
-# JavaScript Hoisting Explained in 4 Minutes
-
 > 喜马拉雅：https://m.ximalaya.com/sound/824016860?from=pc
+
+# JavaScript Hoisting Explained in 4 Minutes
 
 Hoisting is the process of the Javascript interpreter pulling up or hoisting `var` variable and function declarations to the top of their scope before any code is executed. So this is the equivalent of them being at the top of your program, even when they are not. It's a fairly simple idea that can lead to some strange behavior that can get confusing at times. As we'll see in some of the examples coming up, we're going to cover exactly how hoisting works and go over some techniques to avoid it.
 
 As we just discussed, `var` variable declarations are hoisted to the top of their scope. So the code that you can currently see on screen is actually processed by the Javascript interpreter. Like this, you can see that the declaration has been separated from the initialization, as the declaration has been hoisted above all of the other lines of code. In that scope, this means that it's possible to reference the variable even before it has been declared. `var` variable initializations are not hoisted, however, so the variable will not have a value.
+
 
 Let's look at an example to see what's going on. So here we're printing out `x` and declaring it. After that, you can see that the result is `undefined` and not an error as you'd get in other languages. As the declaration was hoisted up before the `console.log` statement was executed. obviously if we remove the declaration, we'll get an error as the variable doesn't exist anymore.
 
@@ -37,7 +37,7 @@ As you can see, we've got the same sort of example. But we've now assigned the f
 
 Comment what you'd like to see me cover next? Cheers.
 
-## 核心词汇
+## 词汇
 
 1. *hoisting* [ˈhɔɪstɪŋ]：提升
 1. *process* [ˈprɑːses]：过程；【计】进程
@@ -77,7 +77,8 @@ Comment what you'd like to see me cover next? Cheers.
 提升是 Javascript 解释器在执行任何代码之前，将 `var` 变量和函数声明拉高或提升到其作用域顶端的过程。因此，这相当于它们处于你的程序的顶层，即使它们并不在顶层。这是一个相当简单的想法，但却可能导致一些奇怪的行为，有时会令人困惑。在接下来的示例中，我们将详细介绍 “提升 ”是如何工作的，并介绍一些避免 “提升 ”的技巧。
 
 ```js
-console.log(x) // Uncaught ReferenceError: x is not defined
+var x = 27;
+console.log(x); // 27
 ```
 
 正如我们刚才所讨论的，`var` 变量声明会被提升到其作用域的顶端。因此，你目前在屏幕上看到的代码实际上是由 Javascript 解释器处理的。像这样，你可以看到声明已经与初始化分离，因为声明已经被悬挂到所有其他代码行的上方。在这个范围内，这意味着甚至在变量被声明之前就可以引用它。然而，`var` 变量的初始化不会被悬挂，因此变量不会有值。
@@ -88,11 +89,16 @@ x = 27;
 console.log(x); // 27
 ```
 
+```js
+console.log(x); // 27
+var x = 27;
+```
+
 让我们看一个例子来了解情况。在这里，我们打印出 `x` 并声明它。之后，你可以看到结果是 `undefined`，而不是其他语言中的错误。显然，如果我们删除声明，就会出现错误，因为变量已经不存在了。
 
 ```js
-console.log(x); // undefined
-var x = 27;
+console.log(x); // Uncaught ReferenceError:x is not defined
+x = 27;
 ```
 
 现在，看看如果我们给 `x` 赋值 27 会发生什么？
@@ -107,6 +113,12 @@ x = 27;
 ```js
 x = 27;
 console.log(x); // 27
+```
+
+```js
+var x;
+console.log(x); // undefined
+x = 27;
 ```
 
 因为，对于那些不知道的人来说，当我们初始化一个没有关键字的变量时，它会自动为该变量创建一个 `var` 声明。我们之所以会出错，是因为声明是在赋值的那一行创建的，而不是在执行赋值之前创建的。

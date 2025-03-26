@@ -2,7 +2,6 @@
 order: 0
 description: '二分搜索（Binary Search）是一种针对有序数组的高效查找算法。'
 keywords: [全栈, 紫升, 二分搜索算法, javascript]
-toc: content
 ---
 
 # 二分搜索算法

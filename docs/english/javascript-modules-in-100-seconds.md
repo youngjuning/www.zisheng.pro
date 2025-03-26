@@ -6,8 +6,9 @@ group:
   title: 紫升英文晨读
   order: 1
 order: 10
-toc: content
 ---
+
+> 喜马拉雅：https://m.ximalaya.com/sound/820637300?from=pc
 
 # JavaScript Modules in 100 Seconds
 
@@ -27,7 +28,7 @@ My personal favorite is the one from Samantha Ming. If you don't already follow 
 
 This has been ES modules in 100 seconds. Thanks for watching and I will see you in the next one.
 
-## 核心词汇
+## 词汇
 
 1. common /ˈkɑːmən/：常见的
 1. module /ˈmɑːdʒuːl/：模块

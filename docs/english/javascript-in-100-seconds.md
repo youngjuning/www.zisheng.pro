@@ -5,8 +5,9 @@ group:
   title: 紫升英文晨读
   order: 2
 order: 1
-toc: content
 ---
+
+> 喜马拉雅：https://m.ximalaya.com/sound/811947378?from=pc
 
 # JavaScript in 100 Seconds
 
@@ -27,7 +28,7 @@ We can use the function keyword here, or the more concise arrow syntax. Now the 
 
 JS code can also run on the server thanks to the Node.js runtime. Instead of buttons on a webpage, it interacts with things like the file system API. Execute your code on the server by pulling up the terminal and entering the node command.
 
-## 核心词汇
+## 词汇
 
 1. garbage-collected：垃圾回收
 1. interpreted /ɪnˈtɜːrprɪtɪd/：解释性的
