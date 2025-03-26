@@ -15,7 +15,10 @@ export default defineConfig({
     },
     nav: {
       mode: "append",
-      value: [{ title: '博客', link: 'https://youngjuning.js.org' }]
+      value: [
+        { title: '博客', link: 'https://youngjuning.js.org' },
+        { title: '周刊', link: 'https://weekly.zisheng.pro' }
+      ]
     },
     hd: { rules: [] },
     footer: `Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫升</a>`,
