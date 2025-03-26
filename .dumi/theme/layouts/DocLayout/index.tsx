@@ -110,12 +110,24 @@ const DocLayout: FC = () => {
             data-full-width-responsive="true"
           />
         </div>
-        {fm.toc === 'content' && (
-          <div className="dumi-default-doc-layout-toc-wrapper">
-            <h4>TABLE OF CONTENTS</h4>
-            <Toc />
-          </div>
-        )}
+        <div className="dumi-default-doc-layout-toc-wrapper">
+          {fm.toc === 'content' && (
+            <>
+              <h4>TABLE OF CONTENTS</h4>
+              <Toc />
+            </>
+          )}
+          <Adsense
+            className="adsbygoogle"
+            style={{ display: "block" }}
+            data-ad-client="ca-pub-5641491107630454"
+            data-ad-slot="1206633556"
+            data-page-url="https://www.nablepart.com"
+            data-override-format="true"
+            data-ad-format="auto"
+            data-full-width-responsive="true"
+          />
+        </div>
       </main>
     </div>
   );
