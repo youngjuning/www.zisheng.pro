@@ -68,6 +68,12 @@ Redux is a predictable state container for JavaScript applications. It's mainly 
 
 Redux 是一个用于 JavaScript 应用程序的可预测状态容器。它主要用于管理应用的状态，特别是在复杂的前端单页面应用（SPA）或者 React 应用中被广泛使用。它的核心概念是将应用的整个状态存储在一个单一的对象树中，这个状态树是只读的。当要修改状态时，只能通过发送一个被称为 `action` 的纯对象来描述发生了什么。然后有一个被称为 `reducer` 的函数会根据这个 `action` 来生成新的状态。这种方式使得状态的变化变得可预测，便于调试和理解应用的状态流程。例如，在一个大型的电商网站应用中，购物车的状态（商品的添加、删除、数量修改等）就可以很好地用 Redux 来管理，它能确保购物车状态的每一次改变都是可以追踪和理解的。
 
+#### Zustand /zuːstænd/
+
+Zustand is a state management library for JavaScript applications. It provides a simple and efficient way to manage and share state across different components. With Zustand, you can create a store that holds the application's state and allows components to access and update it. It's designed to be lightweight and easy to use, enabling developers to handle complex state - related operations without a lot of boilerplate code. It's especially useful in React applications, where it can help to streamline the process of passing data between components and keeping the state consistent.
+
+Zustand 是一个用于 JavaScript 应用程序的状态管理库。它提供了一种简单且高效的方式来在不同组件之间管理和共享状态。通过使用Zustand，你可以创建一个存储应用程序状态的存储区，并且允许组件访问和更新这个状态。它的设计轻巧且易于使用，使得开发者能够处理复杂的与状态相关的操作，同时无需大量的样板代码。它在React应用程序中尤其有用，在这些程序中，它有助于简化组件之间传递数据的过程，并保持状态的一致性。
+
 <!-- #### Hooks
 
 #### JSX
