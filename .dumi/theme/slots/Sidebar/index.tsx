@@ -12,7 +12,7 @@ const Sidebar: FC = () => {
   if (!sidebar) return null;
 
   return (
-    <div className="dumi-default-sidebar">
+    <div className="dumi-default-sidebar" style={{ width: '200px' }}>
       {sidebar.map((item, i) => (
         <dl className="dumi-default-sidebar-group" key={String(i)}>
           {item.title && <dt>{item.title}</dt>}
