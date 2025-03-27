@@ -111,7 +111,7 @@ const DocLayout: FC = () => {
           </Content>
         </div>
         {(fm.toc !== 'content' && pathname !== "/") && (
-          <div className="dumi-default-doc-layout-toc-wrapper" style={{ width: '200px', maxHeight: '100vh' }}>
+          <div className="dumi-default-doc-layout-toc-wrapper" style={{ width: '184px', maxHeight: '100vh' }}>
             <Adsense
               className="adsbygoogle"
               style={{ display: "block" }}
