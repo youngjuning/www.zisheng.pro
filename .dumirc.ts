@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  favicons: ['/avatar.png'],
+  favicons: ['https://zisheng.pro/avatar.png'],
   autoAlias: false,
   themeConfig: {
     name: '全栈紫升',
