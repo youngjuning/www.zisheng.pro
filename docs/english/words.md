@@ -45,8 +45,6 @@ The SpeechRecognition interface of the Web Speech API is the controller interfac
 
 **SpeechRecognition** 接口是网络语音 API的控制接口，用于识别服务；它还处理从识别服务发送的SpeechRecognitionEvent。
 
-## 编程
-
 ### JavaScript /dʒɑːvəskrɪpt/
 
 JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
@@ -121,6 +119,18 @@ Expo 是一个开源平台，用于使用 JavaScript 和 React 为 Android、iOS
 - 跨平台 UI 框架
   - 介绍：2025 年 3 月字节跳动正式宣布开源其跨平台 UI 框架 Lynx，开发者可通过一份代码同时构建移动端原生界面与 Web 端界面， 已在 TikTok 等应用中得到验证，具有高性能多功能渲染引擎和性能优先的双线程 UI 编程范式等特性，其采用 Rust 开发的现代工具链，确保了运行时的效率与稳定性.
   - 例句：Lynx enables developers to build cross-platform applications more efficiently with its unique architecture and powerful features.（Lynx 凭借其独特的架构和强大的功能，使开发者能够更高效地构建跨平台应用程序。）
+
+## 金融
+
+### QDII
+
+> Qualified Domestic Institutional Investor /ˈkwɑːləfaɪd dəˈmestɪk ˌɪnstɪˈtuːʃənəl ˈɪnvestər/
+
+QDII（Qualified Domestic Institutional Investor，合格境内机构投资者）是中国在资本项目未完全开放的背景下推出的跨境投资机制，允许境内投资者通过持牌机构简接参与境外证券市场（如美股、港股等）。
+
+### ETF
+
+ETF（Exchange-Traded Fund），全称“交易型开放式指数基金”，是一种在证券交易所上市交易的开放式基金，结合了股票和基金的优点，通过跟踪特定指数、商品或资产组合的表现，为投资者提供高效、低成本的市场参与工具。
 
 ## 名人堂
 
