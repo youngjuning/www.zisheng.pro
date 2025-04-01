@@ -158,6 +158,12 @@ Evan You is a highly influential figure in the world of software development. He
 
 尤雨溪（Evan You）是软件开发领域极具影响力的人物。他是Vue.js的创造者，Vue.js是一个渐进式JavaScript框架，在全球开发者中广受欢迎。凭借Vue.js，尤雨溪为构建用户界面提供了一种直观、高效且灵活的解决方案。他的创新成果不仅极大地提升了开发体验，还让无数开发者能够更轻松地创建高质量的网络应用程序。他的贡献对现代网络开发生态产生了深远影响。
 
+### Andrej Karpathy /ˌændreɪ ˈkɑːrpəθi/
+
+Andrej Karpathy is a highly influential figure in the field of artificial intelligence. He has made outstanding contributions to many aspects such as deep learning and computer vision. Karpathy once served as the senior director of artificial intelligence at Tesla and played a crucial role in promoting the development of autonomous driving technology. He has a profound understanding of neural networks and deep - learning algorithms. Moreover, by writing blogs and sharing his insights at academic conferences and online platforms, he has enabled the complex knowledge of artificial intelligence to be understood by a wider range of people and inspired many to engage in the learning and research of artificial - intelligence - related fields.
+
+Andrej Karpathy 是一位在人工智能领域极具影响力的人物。他在深度学习和计算机视觉等诸多方面都有杰出贡献。Karpathy 曾在特斯拉担任人工智能高级总监，在推动自动驾驶技术的发展中发挥了关键作用。他对于神经网络、深度学习算法的理解十分深刻，还通过撰写博客、在学术会议和网络平台分享见解，让复杂的人工智能知识能够被更广泛的人群所理解，激励了许多人投身于人工智能相关领域的学习和研究。
+
 ## 公司名
 
 ### Genesys /ˈdʒenəsɪs/
@@ -179,3 +185,11 @@ from scratch 意思是从头开始，这是一个口语表达。 它可以用来
 
 - The camera has a built - in flash.（这个相机有一个内置闪光灯。）
 - This computer has a built - in microphone.（这台电脑有一个内置麦克风。）
+
+## 通用
+
+- curating [ˌkjuːˈreɪtɪŋ]：精选
+- pioneer [ˌpaɪəˈnɪr]：先锋
+- empower [ɪmˈpaʊər]：赋能
+- strategic [strəˈtiːdʒɪk]：战略的
+- rebellious [rɪˈbeljəs]：叛逆的
