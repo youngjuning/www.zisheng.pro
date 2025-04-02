@@ -1,20 +1,41 @@
-# 全栈紫升
+# Website
 
-> 让每一次学习成为突破自我的起点，让技术能力成为你立足未来的基石。
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-## Development
+### Installation
 
-```bash
-# install dependencies
-$ yarn install
-
-# start dev server
-$ yarn start
-
-# build docs
-$ yarn run build
+```
+$ yarn
 ```
 
-## LICENSE
+### Local Development
 
-MIT
+```
+$ yarn start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
