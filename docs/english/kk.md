@@ -4,7 +4,8 @@ description: '美式音标'
 keywords: [程序员, 美音]
 group:
   title: 口语
-  order: 1
+  order: 2
+toc: content
 ---
 
 # K.K 音标

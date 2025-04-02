@@ -3,8 +3,9 @@ description: 'JavaScript, a high-level, single-threaded, garbage-collected, inte
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-  order: 2
+  order: 1
 order: 1
+toc: content
 ---
 
 > 喜马拉雅：https://m.ximalaya.com/sound/811947378?from=pc

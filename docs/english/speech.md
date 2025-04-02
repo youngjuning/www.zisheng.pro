@@ -1,9 +1,10 @@
 ---
-order:  2
+order:  3
 description: '发音技巧'
 keywords: [程序员, 词汇表]
 group:
   title: 口语
+toc: content
 ---
 
 # 发音技巧

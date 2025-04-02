@@ -6,6 +6,7 @@ keywords: [前端, 全栈, 紫升]
 nav:
   title: 前端
   order: 3
+toc: content
 ---
 
 ## JavaScript

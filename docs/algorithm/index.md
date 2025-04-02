@@ -5,6 +5,7 @@ keywords: [算法, 数据结构, 全栈, 紫升]
 nav:
   title: 算法
   order: 2
+toc: content
 ---
 
 # 算法
