@@ -36,6 +36,7 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://www.zisheng.pro',
   },
+  hash: true,
   exportStatic: {},
   ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
   headScripts: [
