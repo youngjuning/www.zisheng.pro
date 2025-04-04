@@ -10,6 +10,7 @@ import {
   useSidebarData,
   useSiteData,
 } from 'dumi';
+import Giscus from '@giscus/react';
 import Content from 'dumi/theme-default/slots/Content';
 import ContentFooter from 'dumi/theme-default/slots/ContentFooter';
 import Features from 'dumi/theme-default/slots/Features';
@@ -70,22 +71,6 @@ const DocLayout: FC = () => {
             <meta key={keyword} property="article:tag" content={keyword}></meta>
           ))}
         {hostname && <link rel="canonical" href={hostname + pathname} />}
-        <script
-          src="https://giscus.app/client.js"
-          data-repo="youngjuning/zisheng.pro"
-          data-repo-id="R_kgDOOEnUfg"
-          data-category="General"
-          data-category-id="DIC_kwDOOEnUfs4CoyJY"
-          data-mapping="url"
-          data-strict="1"
-          data-reactions-enabled="1"
-          data-emit-metadata="0"
-          data-input-position="top"
-          data-theme="preferred_color_scheme"
-          data-lang="zh-CN"
-          crossOrigin="anonymous"
-          async
-        ></script>
       </Helmet>
       <Header />
       <Hero />
@@ -129,7 +114,20 @@ const DocLayout: FC = () => {
               data-ad-format="auto"
               data-full-width-responsive="true"
             />
-            <div className="giscus"></div>
+            <Giscus
+              id="comments"
+              repo="youngjuning/zisheng.pro"
+              repoId="R_kgDOOEnUfg"
+              category="General"
+              categoryId="DIC_kwDOOEnUfs4CoyJY"
+              mapping="title"
+              term="Welcome to zisheng.pro!"
+              reactionsEnabled="1"
+              emitMetadata="0"
+              inputPosition="top"
+              theme="preferred_color_scheme"
+              lang="zh-CN"
+            />
           </article>
           <ContentFooter />
           <Footer />
