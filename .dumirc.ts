@@ -23,9 +23,7 @@ export default defineConfig({
     footer: `
 <div>Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫升</a></div>
 <div>
-  <span>本页访问量<span id="busuanzi_value_page_pv"></span></span> |
-  <span>本站访问量<span id="busuanzi_value_site_pv"></span></span> |
-  <span>本站总访人数<span id="busuanzi_value_site_uv"></span></span>
+  本页访问量 <span id="busuanzi_value_page_pv"></span> | 本站访问量 <span id="busuanzi_value_site_pv"></span> | 本站总访人数 <span id="busuanzi_value_site_uv"></span>
 </div>`,
   },
   theme: {
