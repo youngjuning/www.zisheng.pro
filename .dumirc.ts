@@ -20,7 +20,13 @@ export default defineConfig({
       ]
     },
     hd: { rules: [] },
-    footer: `Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫升</a>`,
+    footer: `
+<div>Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫升</a></div>
+<div>
+  <span>本页访问量<span id="busuanzi_value_page_pv"></span></span> |
+  <span>本站访问量<span id="busuanzi_value_site_pv"></span></span> |
+  <span>本站总访人数<span id="busuanzi_value_site_uv"></span></span>
+</div>`,
   },
   theme: {
     '@c-primary': '#00cc99',
@@ -35,6 +41,7 @@ export default defineConfig({
   exportStatic: {},
   ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
   headScripts: [
-    { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', async: true, crossorigin: 'anonymous' }
+    { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', async: true, crossorigin: 'anonymous' },
+    { src: "//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js", async: true }
   ],
 });
