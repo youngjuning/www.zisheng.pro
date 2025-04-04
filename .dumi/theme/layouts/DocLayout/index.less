@@ -1,4 +1,14 @@
-@import (reference) 'dumi/theme-default/styles/variables.less';
+@import (reference) '../../styles/variables.less';
+
+@font-face {
+  font-family: 'LXGWWenKaiLite';
+  src: url('/LXGWWenKaiLite.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LXGWWenKaiMonoLite';
+  src: url('/LXGWWenKaiMonoLite.ttf') format('truetype');
+}
 
 @{dark-selector} {
   color-scheme: dark;
@@ -15,8 +25,12 @@ body {
 }
 
 .@{prefix}-doc-layout {
-  font-family: sans-serif;
+  font-family: 'LXGWWenKaiLite', sans-serif;
   background-color: @c-site-bg;
+
+  .dumi-default-search-bar-input {
+    font-family: 'LXGWWenKaiLite', sans-serif;
+  }
 
   .dumi-default-logo img {
     border-radius: 50%;
@@ -34,11 +48,6 @@ body {
   // https://support.google.com/adsense/answer/10762946?hl=zh-Hans
   ins.adsbygoogle[data-ad-status="unfilled"] {
     display: none !important;
-  }
-
-  .dumi-default-sidebar > dl > dd > a {
-    font-size: 14px;
-    line-height: 18px;
   }
 
   @{dark-selector} & {

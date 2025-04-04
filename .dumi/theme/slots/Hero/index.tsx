@@ -1,5 +1,5 @@
 import { Link, useRouteMeta } from 'dumi';
-import HeroTitle from 'dumi/theme-default/slots/HeroTitle';
+import HeroTitle from '../HeroTitle';
 import React, { type FC } from 'react';
 import './index.less';
 

@@ -11,7 +11,7 @@ import {
   useSiteData,
 } from 'dumi';
 import Giscus from '@giscus/react';
-import Content from 'dumi/theme-default/slots/Content';
+import Content from '../../slots/Content';
 import ContentFooter from 'dumi/theme-default/slots/ContentFooter';
 import Features from 'dumi/theme-default/slots/Features';
 import Footer from 'dumi/theme-default/slots/Footer';
