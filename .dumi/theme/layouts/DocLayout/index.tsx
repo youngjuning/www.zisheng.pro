@@ -77,7 +77,7 @@ const DocLayout: FC = () => {
           data-category="General"
           data-category-id="DIC_kwDOOEnUfs4CoyJY"
           data-mapping="title"
-          data-strict="0"
+          data-strict="1"
           data-reactions-enabled="1"
           data-emit-metadata="0"
           data-input-position="top"
