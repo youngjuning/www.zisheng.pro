@@ -10,8 +10,29 @@ toc: content
 
 # 英语
 
+## 词性
+
+|词性|英文名称|音标|缩写|
+|:-:|:-:|:-:|:-:|
+|名词|noun|/naʊn/|`n.`|
+|动词|verb|/vɜːrb/|`v.`|
+|及物动词|transitive verb|/ˈtrænsətɪv vɜːb/|`vt.`|
+|不及物动词|intransitive verb|/ɪnˈtrænsətɪv vɜːb/|`vi.`|
+|形容词|adjective|/ˈædʒɪktɪv/|`adj.`|
+|副词|adverb|/ˈædvɜːb/|`adv.`|
+|代词|pronoun|/ˈprəʊnaʊn/|`pron.`|
+|介词|preposition|/ˌprepəˈzɪʃn/|`prep.`|
+|连词|conjunction|/kənˈdʒʌŋkʃn/|`conj.`|
+|冠词|article|/ˈɑːtɪkl/|`art.`|
+|数词|numeral|/ˈnjuːmərəl/|`num.`|
+|感叹词|interjection|/ˌɪntəˈdʒekʃn/|`int.` 或 `interj.`|
+|限定词|determiner|/dɪˈtɜːmɪnə(r)/|`det.`|
+|拟声词|onomatopoeia|/ˌɒnəməˈtiːpiə/|无|
+|短语|phrase|/freɪz/|`phr.`|
+
 ## 文档
 
+- [React](https://react.dev/learn)
 - [Patterns.dev](https://www.patterns.dev/)
 - [MDN Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
 - [The Modern JavaScript Tutorial](https://javascript.info/)

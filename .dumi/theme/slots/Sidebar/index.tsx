@@ -1,6 +1,6 @@
 import { NavLink, useLocation, useRouteMeta, useSidebarData } from 'dumi';
 import Toc from 'dumi/theme-default/slots/Toc';
-import Adsense from '../Adsense'
+import Adsense from '../Adsense';
 import React, { type FC } from 'react';
 import './index.less';
 
@@ -18,7 +18,15 @@ const Sidebar: FC = () => {
           {item.title && <dt>{item.title}</dt>}
           {item.children.map((child) => (
             <dd key={child.link}>
-              <NavLink to={child.link} title={child.title} end>
+              <NavLink
+                to={child.link}
+                title={child.title}
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.location.href = e.currentTarget.href;
+                }}
+                end
+              >
                 {child.title}
               </NavLink>
               {child.link === pathname && meta.frontmatter.toc === 'menu' && (
@@ -30,7 +38,7 @@ const Sidebar: FC = () => {
       ))}
       <Adsense
         className="adsbygoogle"
-        style={{ display: "block" }}
+        style={{ display: 'block' }}
         data-ad-client="ca-pub-5641491107630454"
         data-ad-slot="1206633556"
         data-page-url="https://www.nablepart.com"
