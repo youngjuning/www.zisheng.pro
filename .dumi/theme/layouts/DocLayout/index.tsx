@@ -76,7 +76,7 @@ const DocLayout: FC = () => {
           data-repo-id="R_kgDOOEnUfg"
           data-category="General"
           data-category-id="DIC_kwDOOEnUfs4CoyJY"
-          data-mapping="title"
+          data-mapping="url"
           data-strict="1"
           data-reactions-enabled="1"
           data-emit-metadata="0"
@@ -85,7 +85,7 @@ const DocLayout: FC = () => {
           data-lang="zh-CN"
           crossOrigin="anonymous"
           async
-        />
+        ></script>
       </Helmet>
       <Header />
       <Hero />
