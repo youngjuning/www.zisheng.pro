@@ -13,11 +13,11 @@ export default defineConfig({
       twitter: 'https://twitter.com/luozhu2021',
     },
     nav: {
-      mode: "append",
+      mode: 'append',
       value: [
         { title: '博客', link: 'https://youngjuning.js.org' },
-        { title: '周刊', link: 'https://weekly.zisheng.pro' }
-      ]
+        { title: '周刊', link: 'https://weekly.zisheng.pro' },
+      ],
     },
     hd: { rules: [] },
     footer: `
@@ -40,7 +40,14 @@ export default defineConfig({
   exportStatic: {},
   ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
   headScripts: [
-    { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', async: true, crossorigin: 'anonymous' },
-    { src: "//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js", async: true }
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+      async: true,
+      crossorigin: 'anonymous',
+    },
+    {
+      src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js',
+      async: true,
+    },
   ],
 });
