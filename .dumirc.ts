@@ -7,8 +7,7 @@ export default defineConfig({
     name: '全栈紫升',
     logo: 'https://www.zisheng.pro/avatar.png',
     prefersColor: { default: 'auto' },
-    // editLink:
-    //   'https://github.com/youngjuning/zisheng.pro/edit/main/{filename}',
+    editLink: 'https://github.com/youngjuning/zisheng.pro/edit/main/{filename}',
     socialLinks: {
       github: 'https://github.com/youngjuning/zisheng.pro',
       twitter: 'https://twitter.com/luozhu2021',
@@ -36,7 +35,7 @@ export default defineConfig({
   hash: true,
   exportStatic: {},
   ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
-  headScripts: process.env.NODE_ENV === 'development' ? [] : [
+  headScripts: process.env.NODE_ENV !== 'development' ? [] : [
     { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', async: true, crossorigin: 'anonymous' }
   ],
 });

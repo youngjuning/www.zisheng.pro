@@ -70,6 +70,22 @@ const DocLayout: FC = () => {
             <meta key={keyword} property="article:tag" content={keyword}></meta>
           ))}
         {hostname && <link rel="canonical" href={hostname + pathname} />}
+        <script
+          src="https://giscus.app/client.js"
+          data-repo="youngjuning/zisheng.pro"
+          data-repo-id="R_kgDOOEnUfg"
+          data-category="General"
+          data-category-id="DIC_kwDOOEnUfs4CoyJY"
+          data-mapping="title"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="top"
+          data-theme="preferred_color_scheme"
+          data-lang="zh-CN"
+          crossOrigin="anonymous"
+          async
+        />
       </Helmet>
       <Header />
       <Hero />
@@ -93,39 +109,35 @@ const DocLayout: FC = () => {
         {showSidebar && <Sidebar />}
         <Content>
           <article>
+            <Adsense
+              className="adsbygoogle"
+              style={{ display: 'block', textAlign: 'center' }}
+              data-ad-layout="in-article"
+              data-ad-format="fluid"
+              data-ad-client="ca-pub-5641491107630454"
+              data-ad-slot="1330632922"
+              data-page-url="https://www.nablepart.com"
+            />
             {outlet}
             <Adsense
               className="adsbygoogle"
               style={{ display: 'block' }}
               data-ad-client="ca-pub-5641491107630454"
-              data-ad-slot="5596588097"
+              data-ad-slot="5702084207"
               data-page-url="https://www.nablepart.com"
               data-override-format="true"
               data-ad-format="auto"
               data-full-width-responsive="true"
             />
+            <div className="giscus"></div>
           </article>
           <ContentFooter />
           <Footer />
         </Content>
-        {!hostname && (
+        {fm.toc === 'content' && (
           <div className="dumi-default-doc-layout-toc-wrapper">
-            {fm.toc === 'content' && (
-              <>
-                <h4>TABLE OF CONTENTS</h4>
-                <Toc />
-              </>
-            )}
-            <Adsense
-              className="adsbygoogle"
-              style={{ display: 'block' }}
-              data-ad-client="ca-pub-5641491107630454"
-              data-ad-slot="1206633556"
-              data-page-url="https://www.nablepart.com"
-              data-override-format="true"
-              data-ad-format="auto"
-              data-full-width-responsive="true"
-            />
+            <h4>TABLE OF CONTENTS</h4>
+            <Toc />
           </div>
         )}
       </main>
