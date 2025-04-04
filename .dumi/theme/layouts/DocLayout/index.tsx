@@ -104,16 +104,18 @@ const DocLayout: FC = () => {
               data-page-url="https://www.nablepart.com"
             />
             {outlet}
-            <Adsense
-              className="adsbygoogle"
-              style={{ display: 'block' }}
-              data-ad-client="ca-pub-5641491107630454"
-              data-ad-slot="5702084207"
-              data-page-url="https://www.nablepart.com"
-              data-override-format="true"
-              data-ad-format="auto"
-              data-full-width-responsive="true"
-            />
+            {pathname !== '/' && (
+              <Adsense
+                className="adsbygoogle"
+                style={{ display: 'block' }}
+                data-ad-client="ca-pub-5641491107630454"
+                data-ad-slot="5702084207"
+                data-page-url="https://www.nablepart.com"
+                data-override-format="true"
+                data-ad-format="auto"
+                data-full-width-responsive="true"
+              />
+            )}
             <Giscus
               id="comments"
               repo="youngjuning/zisheng.pro"
