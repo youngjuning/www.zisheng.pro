@@ -7,7 +7,8 @@ group:
 order: 1
 toc: content
 ---
-# JavaScript in 100 Seconds
+
+## JavaScript in 100 Seconds
 
 > 喜马拉雅：https://m.ximalaya.com/sound/811947378?from=pc
 
@@ -57,7 +58,7 @@ JS code can also run on the server thanks to the Node.js runtime. Instead of but
 24. async-await syntax [əˈsɪŋk əˈweɪt ˈsɪntæks]：async-await 语法
 25. querySelector [ˈkwɪri sɪˈlektər]：查询选择器
 
-## 译文
+## 100 秒 JavaScript 入门
 
 JavaScript 是一种高级、单线程、垃圾回收、解释型或即时编译的基于原型的多范式动态语言，具有非阻塞的事件循环，因其构建网站而闻名。
 
