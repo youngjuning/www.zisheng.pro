@@ -4,7 +4,7 @@ description: '美式音标'
 keywords: [程序员, 美音]
 group:
   title: 口语
-  order: 2
+  order: 1
 toc: content
 ---
 
