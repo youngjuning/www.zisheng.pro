@@ -13,13 +13,13 @@ toc: content
 
 Electron build native desktop apps for platforms like MacOS and Windows using nothing but HTML, CSS, and JavaScript. It's a tool behind many popular apps that you might be using today, like VS Code, Slack and Discord, just to name a few. On the front end, you build UIs just like you would for a browser-based web app, and you can bring along your favorite frameworks. But in Electron, you also have access to Node.js, and that means you can access low-level APIs that you don't normally have access to in a sandbox. Browser like Electron combines the front-end and back-end technologies, and provides a bunch of other tools to work with native menus, the system tray, and so on.
 
-Let's go ahead and build a desktop app. Now. Run `npm init` in an empty directory, then install Electron, then create a `main.js` file and set that as the main entry point into your app. Every Electron app has exactly one main process running. It manages the lifecycle of your app and opens the windows that the end user will see. Each window is its own independent render process, running with the 1. Chromium web browser.
+Let's go ahead and build a desktop app. Now. Run `npm init` in an empty directory, then install Electron, then create a `main.js` file and set that as the main entry point into your app. Every Electron app has exactly one main process running. It manages the lifecycle of your app and opens the windows that the end user will see. Each window is its own independent render process, running with the Chromium web browser.
 
 When your main app is ready, you can start a new render process by instantiating a browser window. Then tell the window to load a regular HTML file, it will render the HTML, CSS, and JavaScript. But do so in a native window and give you access to low-level APIs. To build a true desktop experience, create an `index.html` file and put whatever code you want inside of it. But notice how I'm accessing `Node.Globals` directly in my HTML.
 
 That's not something you can do in a normal web browser, and Electron gives you control over the operating system UI as well. For example, add your own icon and controls to the system tray with just a few lines of code. Now, after you build something awesome, you can package it for multiple operating systems from a single codebase. Tools like Electron Packager or Forge can handle the entire distribution process for you with a single command.
 
-This has been electron in 100 seconds. Stay tuned for a full electron project in a few days and make sure to hit the like button. If you want to see more short videos like this. Thanks for watching and I will see you in the next one.
+This has been Electron in 100 seconds. Stay tuned for a full Electron project in a few days and make sure to hit the like button. If you want to see more short videos like this. Thanks for watching and I will see you in the next one.
 
 ## 100 秒 了解 Electron JS
 
@@ -33,7 +33,7 @@ Electron 只需使用 HTML、CSS 和 JavaScript，即可为 MacOS 和 Windows �
 
 这在普通网页浏览器中是做不到的，而且 Electron 还能让你控制操作系统的用户界面。例如，只需几行代码就能在系统托盘中添加你自己的图标和控件。现在，在你创建了一些很棒的东西之后，你可以从一个代码库中为多个操作系统打包它。Electron Packager 或 Forge 等工具只需一条命令就能为你处理整个发布过程。
 
-这就是 Electron 100 秒。请继续关注几天后的完整电子项目，并确保点击 “赞 ”按钮。如果你想看到更多类似的短视频，请点击 “喜欢 ”按钮。感谢观看，我们下期再见。
+这就是 Electron 100 秒。请继续关注几天后的完整 Electron 项目，并确保点击 “赞” 按钮。如果你想看到更多类似的短视频，请点击 “喜欢” 按钮。感谢观看，我们下期再见。
 
 ## 单词&短语
 
@@ -48,3 +48,9 @@ Electron 只需使用 HTML、CSS 和 JavaScript，即可为 MacOS 和 Windows �
 9. **bring along**：和...使用
 10. **access** ['ækses]：访问
 11. **combines** [kəmˈbaɪnz]：结合
+12. **a bunch of**：大量的
+13. **process** [ˈprɑːses]：进程
+14. **Chromium** [ˈkroʊmiəm]：Google 主导开发的一款网页浏览器，它基于 KHTML 的 Webkit 渲染引擎。
+15. **experience** [ɪkˈspɪriəns]：体验
+16. **command** [kəˈmænd]：命令
+17. **stay tuned** [tjʊnd]：继续关注；敬请期待

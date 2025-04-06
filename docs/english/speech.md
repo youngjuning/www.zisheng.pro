@@ -9,17 +9,19 @@ toc: content
 
 # 发音技巧
 
-## in a /ɪnə/
+## 连读
+
+### in a /ɪnə/
 
 - B 站：https://www.bilibili.com/video/BV1F54y1Z7YL/
 - YouEnglish：https://youglish.com/pronounce/in_a/english/us
 
-## in the /ɪnə/
+### in the /ɪnə/
 
 - B 站：https://www.bilibili.com/video/BV1F54y1Z7YL/
 - YouEnglish：https://youglish.com/pronounce/in_the/english/us
 
-## but it
+### but it
 
 “but it” 的美式音标为 **/bʌt ɪt/**。
 
@@ -27,7 +29,7 @@ toc: content
 - 弱读技巧：“it”在句子中如果不是重点强调的内容，通常会弱读。**/ɪt/** 弱读时元音会变得更模糊，发音更轻，接近 **/ət/**，整个短语可能会读成 **/bʌtət/**。
 - 失爆技巧：如果“but”的 **/t/** 后面紧跟的单词不是以元音开头，“t”有可能会产生失爆现象。不过在“but it”这个短语中一般不会出现失爆情况，因为后面是元音开头的“it”。
 
-## but the
+### but the
 
 > 可以简单理解为 but 的 t 不发音
 
@@ -37,3 +39,21 @@ toc: content
 
 - 弱读技巧：“the”在句子中通常会弱读，发音为/ðə/，而不是强读形式/ðiː/。这种弱读在口语中很常见，使句子的节奏更自然。
 - 失爆技巧：在正常语速下，“but”最后的/t/有可能会产生失爆现象。如果后面单词（这里是“the”）的开头不是以元音开头非常响亮的音，/t/可能只是做出发音的动作，但不发出爆破音，也就是不完全爆破。不过在“but the”这种情况，由于通常会连读，所以完全失爆的情况不是很常见，但在非常快速的口语或者比较随意的口语环境下可能会出现。
+
+## 小词
+
+- **a** [ə]：一个
+- **an** [æn]：一个
+- **the** [ðə]：这个
+- **is** [ɪz]：是
+- **are** [əre]：是
+- **am** [æm]：是
+- **be** [bi]：是
+- **can** [kæn]：能
+- **could** [kʊd]：能
+- **not** [nɑːt]：不是
+- **and** [ænd]：并且
+- **or** [ɔːr]：或者
+- **but** [bʌt]：但是
+- **for** [fɔːr]：因为
+- **of** [əf]：因为
