@@ -9,6 +9,8 @@ toc: content
 
 ## React Native in 100 Seconds
 
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/gvkqT_Uoahw?si=gptPuyJow5StonF1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 React Native, write JavaScript and React to build apps for iOS, Android, and the web from a single code base. According to Atwood's law, any application that can be written in JavaScript will eventually be written in JavaScript. The first way JS developers tried to build mobile apps was by wrapping their native applications in a sandbox browser called a WebView, using tools like Apache, Cordova and Adobe PhoneGap. The philosophy is write once, run anywhere.
 
 This works, but it can be hard to make a website feel like a true native experience. React Native takes a different approach, it feels just like React DOM for the web. But instead of using HTML and the DOM as building blocks for the UI, it uses the native components that you would find on iOS and Android. The philosophy is learn once, write anywhere. You can't just take your existing React web app and upload it to the App Store, but you can use the React skills. You already have to build a native app without ever having to touch Java or Objective-C.
