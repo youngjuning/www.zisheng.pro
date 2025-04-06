@@ -21,7 +21,7 @@ But the primary goal of TypeScript is to enable static typing. One way it achiev
 
 The beauty of having strongly typed code is that we get autocomplete everywhere in our IDE. We don't have to jump back and forth to documentation or dig through stack traces to figure out why our code's not working.
 
-## 100 秒快速了解 TypeScript
+## 100 秒 TypeScript 速览
 
 > 喜马拉雅：https://m.ximalaya.com/sound/818199337?from=pc
 

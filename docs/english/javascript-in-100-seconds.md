@@ -28,7 +28,7 @@ We can use the `function` keyword here, or the more concise arrow syntax. Now th
 
 JS code can also run on the server thanks to the Node.js runtime. Instead of buttons on a webpage, it interacts with things like the file system API. Execute your code on the server by pulling up the terminal and entering the node command.
 
-## 100 快速理解 JavaScript
+## 100 秒 JavaScript 速览
 
 > 喜马拉雅：https://m.ximalaya.com/sound/811947378?from=pc
 
