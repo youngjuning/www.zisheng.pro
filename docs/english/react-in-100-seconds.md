@@ -7,11 +7,9 @@ order: 3
 toc: content
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tn6-PIqc4UM?si=pftdNWAeMaunjoBa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## React in 100 Seconds
 
-# React in 100 Seconds
-
-> 喜马拉雅：https://m.ximalaya.com/sound/819166131?from=pc
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/Tn6-PIqc4UM?si=pftdNWAeMaunjoBa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 React, a Javascript library for building user interfaces developed at Facebook and released in 2013. It's safe to say React has been the most influential UI library of recent memory. We use it to build components that represent logical, reusable parts of the UI. The beauty of React is that the simplicity of building a component has been brought down to its theoretical minimum.
 
@@ -25,22 +23,11 @@ You have Gatsby need server-side rendering, You have next for animation, you hav
 
 State management You've got Redux, Mobx, Flux, Recoil, XState and more. You have an endless supply of choices to get things done the way you like it. As an added bonus, once you have React down, you can easily jump into React Native and start building mobile apps. And it's no surprise that knowing this little UI library is one of the most in-demand skills for front-end developers.
 
-Today, this has been React in 100 seconds. If you want to see more short videos like this, make sure to like and subscribe and check out more advanced React content on Fireship .io. And if you're curious how I make these videos, make sure to check out my new personal channel and video on that topic. Thanks for watching and I will see you in the next one.
-
-## 单词&短语
-
-1. built-in：内置的
-2. influential [ˌɪnfluˈenʃl]：adj. 有极大影响力的
-3. represent [ˌreprɪˈzent]：v.【计】表现；表示；代表
-4. bring down：phr. 降低；减少
-5. caveman [ˈkeɪvmæn]：n. 穴居人
-6. combine...with... [kəmˈbaɪn]：将...与...结合起来
-7. markup [ˈmɑːrkʌp]：n. 标记；标记语言
-8. braces（curly braces） [ˈkɝːli ˈbreɪsɪz]：n. 大括号；花括号
-9. square brackets [skwɛr ˈbrækɪts]：n. 方括号
-10. parentheses [pəˈrenθəsiːz]：n. 圆括号
+Today, this has been React in 100 seconds. If you want to see more short videos like this, make sure to like and subscribe and check out more advanced React content on Fireship.io. And if you're curious how I make these videos, make sure to check out my new personal channel and video on that topic. Thanks for watching and I will see you in the next one.
 
 ## 100 秒内了解 React
+
+> 喜马拉雅：https://m.ximalaya.com/sound/819166131?from=pc
 
 React，一个由 Facebook 开发并于 2013 年发布的用于构建用户界面的 JavaScript 库。可以说 React 是近年来最具影响力的 UI 库。我们用它来构建代表 UI 逻辑、可重用部分的组件。React 的美丽之处在于将构建组件的简单性降低到了理论上的最低点。
 
@@ -54,4 +41,24 @@ React 提供了多种其他内置钩子来处理常见用例。但是，您可�
 
 状态管理 你有 Redux、Mobx、Flux、Recoil、XState 等等。你有无穷无尽的选择，可以按照自己喜欢的方式完成工作。另外，一旦掌握了 React，您就可以轻松地跳转到 React Native，开始构建移动应用程序。毫不奇怪，了解这个小小的 UI 库是前端开发人员最需要的技能之一。
 
-这就是今天的 React 100 秒。如果你想观看更多类似的短视频，请务必点赞和订阅，并在 Fireship .io 上查看更多高级 React 内容。如果你好奇我是如何制作这些视频的，请务必查看我的新个人频道和相关视频。感谢观看，我们下期再见。
+这就是今天的 React 100 秒。如果你想观看更多类似的短视频，请务必点赞和订阅，并在 Fireship.io 上查看更多高级 React 内容。如果你好奇我是如何制作这些视频的，请务必查看我的新个人频道和相关视频。感谢观看，我们下期再见。
+
+## 单词&短语
+
+1. **built-in**：内置的
+2. **influential** [ˌɪnfluˈenʃl]：adj. 有极大影响力的
+3. **represent** [ˌreprɪˈzent]：v.【计】表现；表示；代表
+4. **bring down**：phr. 降低；减少
+5. **caveman** [ˈkeɪvmæn]：n. 穴居人
+6. **combine...with...** [ˈkɑmˌbaɪn]：将...与...结合起来
+7. **markup** [ˈmɑːrkʌp]：n. 标记；标记语言
+8. **curly braces** [ˈkɝːli ˈbreɪsɪz]：n. 大括号；花括号
+9. **square brackets** [skwɛr ˈbrækɪts]：n. 方括号
+10. **parentheses** [pəˈrenθəsiːz]：n. 圆括号
+11. **library** [ˈlaɪˌbreri]：n. 图书馆；书库
+12. **simplicity** [sɪmˈplɪsɪti]：n. 简单性；简易性
+13. **theoretical** [ˌθiːəˈretɪkl]：adj. 理论上的
+14. **a variety of** [ə vəˈraɪəti ʌv]：n. 各种各样的
+15. **in-demand** [ɪn dɪˈmænd]：热门的；需求大的
+16. **curious**：求知欲强的；好奇的
+17. **make sure to do sth.**：确保做某事；务必做某事
