@@ -3,13 +3,11 @@ description: 'Redux a single source of truth for all the data in your Javascript
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 9
+order: 5
 toc: content
 ---
 
-> 喜马拉雅：https://m.ximalaya.com/sound/821630949?from=pc
-
-# Electron JS in 100 Seconds
+## Electron JS in 100 Seconds
 
 Electron build native desktop apps for platforms like Macos and Windows using nothing but HTML, CSS, and Javascript. It's a tool behind many popular apps that you might be using today, like VS Code, Slack and Discord, just to name a few. On the front end, you build UIS just like you would for a browser-based web app, and you can bring along your favorite frameworks. But in Electron, you also have access to Node.js, and that means you can access low-level APIS that you don't normally have access to in a sandbox. Browser like Electron combines the front-end and back-end technologies, and provides a bunch of other tools to work with native menus, the system tray, and so on.
 
@@ -21,15 +19,9 @@ That's not something you can do in a normal web browser, and Electron gives you 
 
 This has been electron in 100 seconds. Stay tuned for a full electron project in a few days and make sure to hit the like button. If you want to see more short videos like this. Thanks for watching and I will see you in the next one.
 
-## 词汇
-
-1. **electron** [ɪˈlektrɑːn]：一个使用 JavaScript、HTML 和 CSS 等 Web 技术创建原生程序的开源框架。
-1. **render process** [ˈrɛndərprɑːses]：渲染进程
-1. **Chromium** [ˈkroʊmiəm]：Google 主导开发的一款网页浏览器，它基于 KHTML 的 Webkit 渲染引擎。
-1. **instantiate** [ɪnˈstænʃieɪt]：【计】实例化
-1. **icon** [ˈaɪkɑːn]：图标
-
 ## Electron JS 100 秒
+
+> 喜马拉雅：https://m.ximalaya.com/sound/821630949?from=pc
 
 Electron 只需使用 HTML、CSS 和 Javascript，即可为 Macos 和 Windows 等平台构建本地桌面应用程序。它是你现在可能正在使用的许多流行应用程序背后的工具，如 VS Code、Slack 和 Discord 等。在前端，你可以像构建基于浏览器的 Web 应用程序一样构建用户界面，还可以使用你最喜欢的框架。但在 Electron 中，你还可以访问 Node.js，这意味着你可以访问在沙盒中通常无法访问的低级 APIS。像 Electron 这样的浏览器结合了前端和后端技术，并提供了大量其他工具来处理本地菜单、系统托盘等。
 
@@ -40,3 +32,11 @@ Electron 只需使用 HTML、CSS 和 Javascript，即可为 Macos 和 Windows �
 这在普通网页浏览器中是做不到的，而且 Electron 还能让你控制操作系统的用户界面。例如，只需几行代码就能在系统托盘中添加你自己的图标和控件。现在，在你创建了一些很棒的东西之后，你可以从一个代码库中为多个操作系统打包它。Electron Packager 或 Forge 等工具只需一条命令就能为你处理整个发布过程。
 
 这就是 Electron 100 秒。请继续关注几天后的完整电子项目，并确保点击 “赞 ”按钮。如果你想看到更多类似的短视频，请点击 “喜欢 ”按钮。感谢观看，我们下期再见。
+
+## 单词&短语
+
+1. **electron** [ɪˈlektrɑːn]：一个使用 JavaScript、HTML 和 CSS 等 Web 技术创建原生程序的开源框架。
+2. **render process** [ˈrɛndərprɑːses]：渲染进程
+3. **Chromium** [ˈkroʊmiəm]：Google 主导开发的一款网页浏览器，它基于 KHTML 的 Webkit 渲染引擎。
+4. **instantiate** [ɪnˈstænʃieɪt]：【计】实例化
+5. **icon** [ˈaɪkɑːn]：图标

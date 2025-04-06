@@ -3,7 +3,7 @@ description: "It's the moment we've all been waiting for a brand new game-changi
 keywords:  [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 14
+order: 999
 toc: content
 ---
 
@@ -33,7 +33,7 @@ And that's bad news because it means I need to re-write all my code with this sh
 
 CodeRabbit keeps learning from your PRs over time, so the more you use it, the smarter it gets. It's 100 free for open source projects, but you can get one month free for your team using the code Fireship with the link below. This has been the code report. Thanks for watching and I will see you in the next one.
 
-## 词汇
+## 单词&短语
 
 1. Lynx [lɪŋks]：字节跳动的跨平台 UI 框架 Lynx
 

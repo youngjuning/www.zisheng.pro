@@ -12,7 +12,7 @@ const Adsense: React.FC<any> = (props) => {
 
   return (
     <>
-      <div style={{ width: "100%", margin: "16px 0"}}>
+      <div style={{ width: "100%" }}>
         <center>
           <ins {...props} />
         </center>

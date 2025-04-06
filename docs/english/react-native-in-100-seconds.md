@@ -3,7 +3,7 @@ description: 'Redux a single source of truth for all the data in your Javascript
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 7
+order: 4
 toc: content
 ---
 
@@ -23,7 +23,7 @@ And there's frameworks like Expo that build on top of React Native primitives to
 
 And let me know if you want to see more React Native content in the comments. Thanks for watching and I will see you in the next one.
 
-## 词汇
+## 单词&短语
 
 1. eventually /ɪˈventʃuəli/：adv.最终，结果
 1. wrapping /ˈræpɪŋ/：包装、封装

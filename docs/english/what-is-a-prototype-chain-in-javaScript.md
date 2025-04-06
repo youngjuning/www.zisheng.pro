@@ -4,7 +4,7 @@ description: 'Javascript is single-threaded, it can only handle one task at a ti
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 10
+order: 999
 toc: content
 ---
 
@@ -22,7 +22,7 @@ And that's the prototype chain.
 
 It's Javascript's way of enabling inheritance and code reuse. Want to dive deeper? Let me know in the comments. Don't forget to like, share and subscribe to 404Developer for more Javascript tips. See you next time.
 
-## 词汇
+## 单词&短语
 
 1. wondered /ˈwʌndərd/：vt. 对…感到好奇
 2. property /ˈprɑpərti/：属性

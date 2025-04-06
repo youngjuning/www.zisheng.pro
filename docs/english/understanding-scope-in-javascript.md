@@ -3,7 +3,7 @@ description: 'There are mainly three types of scopes that we come across in our 
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 12
+order: 999
 toc: content
 ---
 
@@ -29,7 +29,7 @@ For instance, the variable `outer` declared in the outer function here can be lo
 
 But if it was not present anywhere throughout the scope chain, only then we get this error. And those are the basics about scope in Javascript. See you in the next one, where we cover the concept of closures in Javascript.
 
-## 词汇
+## 单词&短语
 
 1. scope [skoʊp]：【计】作用域
 1. **although** [ɔːlˈðoʊ]：虽然，尽管，既是

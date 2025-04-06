@@ -5,7 +5,7 @@ keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
   order: 1
-order: 10
+order: 999
 toc: content
 ---
 
@@ -29,7 +29,7 @@ My personal favorite is the one from Samantha Ming. If you don't already follow 
 
 This has been ES modules in 100 seconds. Thanks for watching and I will see you in the next one.
 
-## 词汇
+## 单词&短语
 
 1. common /ˈkɑːmən/：常见的
 1. module /ˈmɑːdʒuːl/：模块

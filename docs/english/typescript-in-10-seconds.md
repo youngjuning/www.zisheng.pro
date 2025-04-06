@@ -3,13 +3,11 @@ description: 'ypeScript. Validate your JavaScript ahead of time with static type
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 4
+order: 2
 toc: content
 ---
 
 ## TypeScript in 100 Seconds
-
-> 喜马拉雅：https://m.ximalaya.com/sound/818199337?from=pc
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/zQnBQ4tB3ZA?si=ldEpYn8lSduIwjbT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -19,13 +17,11 @@ The language is a strict superset of JavaScript, which means when you open up a 
 
 You can run the TypeScript compiler using the tsc command. It will take the ts file and transpile it into vanilla JavaScript, and you can choose any flavor of JavaScript you want if you need to target ancient browsers. And that means you can use the latest and greatest syntax features of JavaScript without having to worry if they'll be supported in an older environment. Your TypeScript project will likely have a tsconfig file, which provides an infinite number of ways to customize the behavior of the compiler.
 
-But the primary goal of TypeScript is to enable static typing. One way it achieves that is by allowing you to annotate your code with types. We can strongly type a variable using a colon followed by its type, like a string, boolean, or number. That's known as an explicit type. If we then try to assign its value as the wrong type, we get an error. Alternatively, if we set an initial value, it will implicitly infer the type. However, there may be cases where you want to opt out of this behavior, in which case you can annotate with the any type. That allows you to loosely type or opt out of type checking. When working with an array, use brackets to strongly type a list. In addition, you can define your own custom types and interfaces,
-which is especially powerful when working with objects. The char interface here defines various types of the properties on an object.
-We can then apply the interface to a plain JavaScript object.
+But the primary goal of TypeScript is to enable static typing. One way it achieves that is by allowing you to annotate your code with types. We can strongly type a variable using a colon followed by its type, like a string, boolean, or number. That's known as an explicit type. If we then try to assign its value as the wrong type, we get an error. Alternatively, if we set an initial value, it will implicitly infer the type. However, there may be cases where you want to opt out of this behavior, in which case you can annotate with the any type. That allows you to loosely type or opt out of type checking. When working with an array, use brackets to strongly type a list. In addition, you can define your own custom types and interfaces, which is especially powerful when working with objects. The char interface here defines various types of the properties on an object. We can then apply the interface to a plain JavaScript object.
 
 The beauty of having strongly typed code is that we get autocomplete everywhere in our IDE. We don't have to jump back and forth to documentation or dig through stack traces to figure out why our code's not working.
 
-## 词汇
+## 单词&短语
 
 1. **ahead of time with** [əˈhed]：提前用...；借助...提前
 2. **runtime** [ˈrʌntaɪm]：【计】运行期
@@ -44,8 +40,14 @@ The beauty of having strongly typed code is that we get autocomplete everywhere 
 15. **implicitly** [ɪmˈplɪsɪtli]：【计】隐式地
 16. **objects** [ˈɑːbdʒekts]：【计】对象
 17. **interpreted** [ɪntəˈprɪtɪd]：【计】解释性的
+18. **an infinite number of**：无数种
+19. **alternatively** [ɔːlˈtɜːrnətɪvli]： adv. 另外，此外；或者
+20. **in addition**：此外，另外
+21. **autocomplete** [ˈɔːtoʊkəmpliːt]：自动完成
 
-## 译文
+## 100 秒快速了解 TypeScript
+
+> 喜马拉雅：https://m.ximalaya.com/sound/818199337?from=pc
 
 TypeScript 使用静态类型检查提前验证 JavaScript。JavaScript 是一种动态语言，在这种语言中，我们可以做各种疯狂的事情，比如引用不存在的变量或处理形状未知的对象。浏览器会对代码进行解释，但如果你的代码有问题，直到运行时浏览器抛出错误时你才会发现。TypeScript 通过对 JavaScript 进行类型扩展，防止了类似错误的发生。
 

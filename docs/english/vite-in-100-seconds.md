@@ -3,7 +3,7 @@ description: 'Redux a single source of truth for all the data in your Javascript
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 8
+order: 6
 toc: content
 ---
 
@@ -23,7 +23,7 @@ In this case, it also makes TypeScript about 20-30 times faster because it skips
 
 Now, run `npm run build` to build the app for production. This will generate a Javascript bundle with Rollup with a bunch of automatic optimizations like automatic code splitting for any dynamic imports and CSS. This has been vite in 100 seconds. If you want to see more short videos like this, hit the Like button and subscribe. Thanks for watching and I will see you in the next one.
 
-## 词汇
+## 单词&短语
 
 1. Vite /vit/：快速的
 1. simplifies /ˈsɪmplɪfaɪz/：简化

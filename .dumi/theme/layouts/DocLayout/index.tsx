@@ -95,7 +95,7 @@ const DocLayout: FC = () => {
         <Content>
           <article>
             <Adsense
-              className="adsbygoogle"
+              className="adsbygoogle adsbygoogle-top"
               style={{ display: 'block', textAlign: 'center' }}
               data-ad-layout="in-article"
               data-ad-format="fluid"
@@ -106,8 +106,8 @@ const DocLayout: FC = () => {
             {outlet}
             {pathname !== '/' && (
               <Adsense
-                className="adsbygoogle"
-                style={{ display: 'block' }}
+                className="adsbygoogle adsbygoogle-bottom"
+                style={{ display: 'block'}}
                 data-ad-client="ca-pub-5641491107630454"
                 data-ad-slot="5702084207"
                 data-page-url="https://www.nablepart.com"

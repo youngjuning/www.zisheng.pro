@@ -3,13 +3,11 @@ description: 'There are mainly three types of scopes that we come across in our 
 keywords:  [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 13
+order: 999
 toc: content
 ---
 
-> 喜马拉雅：https://m.ximalaya.com/sound/824016860?from=pc
-
-# JavaScript Hoisting Explained in 4 Minutes
+## JavaScript Hoisting Explained in 4 Minutes
 
 Hoisting is the process of the Javascript interpreter pulling up or hoisting `var` variable and function declarations to the top of their scope before any code is executed. So this is the equivalent of them being at the top of your program, even when they are not. It's a fairly simple idea that can lead to some strange behavior that can get confusing at times. As we'll see in some of the examples coming up, we're going to cover exactly how hoisting works and go over some techniques to avoid it.
 
@@ -38,42 +36,9 @@ As you can see, we've got the same sort of example. But we've now assigned the f
 
 Comment what you'd like to see me cover next? Cheers.
 
-## 词汇
+## 4 分钟解释 JavaScript 提升
 
-1. *hoisting* [ˈhɔɪstɪŋ]：提升
-1. *process* [ˈprɑːses]：过程；【计】进程
-1. *pulling up* [ˈpʊlɪŋ ʌp]：向上拉起，当前语境可翻译为提升
-1. *interpreter* [ɪnˈtɜrprɪtər]：【计】解释器
-1. *variable declarations* [ˈveriəbl ˌdeklə'reɪʃənz]：变量声明
-1. *the top of* [ðə tɑːp əv]：...的顶部
-1. *executed* [ˈeksɪkjuːtɪd]：v. 【计】执行（代码）；执行（指令）
-1. *the equivalent of* [ɪˈkwɪvələnt]：n. 等同于；相当于；与...等价
-1. *being* [ˈbiːɪŋ]：v. 位于（be 的现在分词形式）
-1. *program* [ˈproʊɡræm]：【计】程序
-1. *fairly* [ˈferli]：adv. 相当地
-1. *at times* [æt taɪmz]：有时候，
-1. *coming up* [ˈkʌmɪŋ ʌp]：接下来
-1. *go over* [ɡoʊ ˈoʊvər]：去往，走到（位置改变）；讨论；回顾；复习；仔细研究（思考）
-1. *techniques* [tek'niːks]：技术；技巧
-1. *As we just discussed*：正如我们刚刚讨论过的
-1. *actually* [ˈæktʃuəli]：adv. 实际上
-1. *processed* [ˈprɑːsest]：adj. 经加工的; 处理的
-1. *separated* [ˈsepəreɪtɪd]：adj. 分开的（动词separate的过去式和过去分词.）
-1. *initializations* [ɪˌnɪʃələˈzeɪʃənz]：【计】初始化
-1. *reference* [ˈrɛfərəns]：【计】引用
-1. *declaring* [dɪˈklɛrɪŋ]：v. 【计】声明
-1. *initialize* [ɪˈnɪʃəˌlaɪz]：【计】初始化
-1. *keyword* [ˈkiːwɜːrd]：关键字
-1. *accessed* [ˈæksest]：【计】存取
-1. *bizarre* [bɪˈzɑːr]：adj. 稀奇古怪的
-1. *familiar* [fəˈmɪliər]：adj. 熟悉的；熟知的
-1. *anonymous* [əˈnɑ:nɪməs]：匿名的
-1. *to be aware of*：值得了解的...
-1. *significant* /sɪɡˈnɪfɪkənt/：大量的（significant number of）
-1. *day-to-day*：日常使用的；日常的
-1. *taking place*：正在发生
-
-## 译文
+> 喜马拉雅：https://m.ximalaya.com/sound/824016860?from=pc
 
 提升是 Javascript 解释器在执行任何代码之前，将 `var` 变量和函数声明拉高或提升到其作用域顶端的过程。因此，这相当于它们处于你的程序的顶层，即使它们并不在顶层。这是一个相当简单的想法，但却可能导致一些奇怪的行为，有时会令人困惑。在接下来的示例中，我们将详细介绍 “提升 ”是如何工作的，并介绍一些避免 “提升 ”的技巧。
 
@@ -156,3 +121,38 @@ var notHoisted = function() {
 ```
 
 正如你所看到的，我们得到了同样的例子。但是，我们现在将函数匿名赋值给了一个变量，结果出现了错误。因为只有名称函数才会被挂起，所以这是避免挂起的第二种方法，即避免使用名称函数。提升是一个值得注意的话题。这不仅是因为它会在你的代码中导致一些奇怪的行为，还因为大量日常使用 Javascript 的开发人员可能根本没有意识到这一点。因此，提升是一个很好的面试问题，因为它可以真正测试应聘者的语言知识。如果你喜欢这段视频，请点赞并订阅，因为我还会陆续推出一些非常有趣的视频。
+
+## 单词&短语
+
+1. *hoisting* [ˈhɔɪstɪŋ]：提升
+2. *process* [ˈprɑːses]：过程；【计】进程
+3. *pulling up* [ˈpʊlɪŋ ʌp]：向上拉起，当前语境可翻译为提升
+4. *interpreter* [ɪnˈtɜrprɪtər]：【计】解释器
+5. *variable declarations* [ˈveriəbl ˌdeklə'reɪʃənz]：变量声明
+6. *the top of* [ðə tɑːp əv]：...的顶部
+7. *executed* [ˈeksɪkjuːtɪd]：v. 【计】执行（代码）；执行（指令）
+8. *the equivalent of* [ɪˈkwɪvələnt]：n. 等同于；相当于；与...等价
+9. *being* [ˈbiːɪŋ]：v. 位于（be 的现在分词形式）
+10. *program* [ˈproʊɡræm]：【计】程序
+11. *fairly* [ˈferli]：adv. 相当地
+12. *at times* [æt taɪmz]：有时候，
+13. *coming up* [ˈkʌmɪŋ ʌp]：接下来
+14. *go over* [ɡoʊ ˈoʊvər]：去往，走到（位置改变）；讨论；回顾；复习；仔细研究（思考）
+15. *techniques* [tek'niːks]：技术；技巧
+16. *As we just discussed*：正如我们刚刚讨论过的
+17. *actually* [ˈæktʃuəli]：adv. 实际上
+18. *processed* [ˈprɑːsest]：adj. 经加工的; 处理的
+19. *separated* [ˈsepəreɪtɪd]：adj. 分开的（动词separate的过去式和过去分词.）
+20. *initializations* [ɪˌnɪʃələˈzeɪʃənz]：【计】初始化
+21. *reference* [ˈrɛfərəns]：【计】引用
+22. *declaring* [dɪˈklɛrɪŋ]：v. 【计】声明
+23. *initialize* [ɪˈnɪʃəˌlaɪz]：【计】初始化
+24. *keyword* [ˈkiːwɜːrd]：关键字
+25. *accessed* [ˈæksest]：【计】存取
+26. *bizarre* [bɪˈzɑːr]：adj. 稀奇古怪的
+27. *familiar* [fəˈmɪliər]：adj. 熟悉的；熟知的
+28. *anonymous* [əˈnɑ:nɪməs]：匿名的
+29. *to be aware of*：值得了解的...
+30. *significant* /sɪɡˈnɪfɪkənt/：大量的（significant number of）
+31. *day-to-day*：日常使用的；日常的
+32. *taking place*：正在发生

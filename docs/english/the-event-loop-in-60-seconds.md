@@ -3,7 +3,7 @@ description: 'Javascript is single-threaded, it can only handle one task at a ti
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 2
+order: 17
 proseWrap: preserve
 toc: content
 ---
@@ -13,14 +13,14 @@ toc: content
 > 喜马拉雅：https://m.ximalaya.com/sound/822166769?from=pc
 
 <center>
-<video controls src="/mp4/the-event-loop-in-60-seconds.mp4"></video>
+<video controls src="/videos/the-event-loop-in-60-seconds.mp4"></video>
 </center>
 
 Javascript is single-threaded, it can only handle one task at a time. We can use web APIs to interact with the features leveraged by the browser, and some of these APIs allow us to initiate async tasks in the background, so the function call that initiates an async task like that is still added to the call stack, but this is just to hand it off to the browser. The actual async task is handled in the background, so it does not block the call stack.
 
 The task queue is used by callback-based web APIs to enqueue the callback. Once the asynchronous task has completed, then we have the microtask queue, which is only used by promise handlers, the `async` function bodies after `await`, the `queueMicrotask()` queue callbacks and the `new MutationObserver` callbacks. This queue has priority over the task queue, and the event loop ensures that this queue is entirely empty before moving on to the task queue. And after handling each task from the task queue, the event loop again checks the microtask queue to ensure that nothing has been added in the meantime.
 
-## 词汇
+## 单词&短语
 
 1. **handle** [ˈhændl]：处理
 2. **handlers** [ˈhændlərz]：处理程序

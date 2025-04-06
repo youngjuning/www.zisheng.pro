@@ -3,7 +3,7 @@ description: "Prisma in 100 Seconds"
 keywords:  [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
-order: 16
+order: 8
 toc: content
 ---
 
@@ -27,7 +27,7 @@ To filter the results, we can add a where clause as a plain Javascript object, a
 
 This has been Prisma in 100 seconds. If you want to see more short videos like this, hit the Like button and subscribe. And let me know if you want to see a full Prisma tutorial in the comments. Thanks for watching and I will see you in the next one.
 
-## 词汇
+## 单词&短语
 
 1. Prisma [ˈpriːzmə]：Prisma 是一个开源的工具，用于让数据库操作变得有趣且安全。
 2. ancient [ˈeɪnʃənt]：古老的
