@@ -1,5 +1,5 @@
 ---
-description: 'Redux a single source of truth for all the data in your Javascript application.'
+description: 'Redux a single source of truth for all the data in your JavaScript application.'
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
@@ -11,7 +11,7 @@ toc: content
 
 # Redux in 100 Seconds
 
-Redux, A single source of truth for all the data in your Javascript application. Modern web applications are represented as a complex tree of components. Components that constantly produce and share data called state. And when state is decentralized, it can become difficult to understand and test.
+Redux, A single source of truth for all the data in your JavaScript application. Modern web applications are represented as a complex tree of components. Components that constantly produce and share data called state. And when state is decentralized, it can become difficult to understand and test.
 
 Redux is both a pattern and library that helps developers implement complex state management requirements at scale. It was created by Dan Abramov and Andrew Clark at Facebook and is one of the most loved and hated libraries in the React ecosystem. It relies on a single immutable object to store all of the application's state kind of like a client-side database to change the state. Like, when a button is clicked, an action will be dispatched, which has a name, like an event, and a payload with the data that it wants to change.
 
@@ -36,7 +36,7 @@ Now, serve the application and install the Redux DevTools browser extension. Unl
 
 ## 译文
 
-Redux 为您的 Javascript 应用程序中的所有数据提供单一真实源。现代网络应用程序表现为一棵复杂的组件树，这些组件不断生成和共享称为状态的数据。如果状态是去中心化的，就很难理解和测试。
+Redux 为您的 JavaScript 应用程序中的所有数据提供单一真实源。现代网络应用程序表现为一棵复杂的组件树，这些组件不断生成和共享称为状态的数据。如果状态是去中心化的，就很难理解和测试。
 
 Redux 既是一种模式，也是一个库，可以帮助开发人员大规模地实现复杂的状态管理要求。它由 Facebook 的 Dan Abramov 和 Andrew Clark 创建，是 React 生态系统中最受喜爱和憎恨的库之一。它依靠一个不可变对象来存储应用程序的所有状态，有点像客户端数据库来改变状态。比如，当按钮被点击时，一个动作将被派发，该动作有一个像事件一样的名称，以及一个包含要更改的数据的有效载荷。
 

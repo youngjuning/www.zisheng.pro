@@ -1,5 +1,5 @@
 ---
-description: 'React, a Javascript library for building user interfaces developed at Facebook and released in 2013.'
+description: 'React, a JavaScript library for building user interfaces developed at Facebook and released in 2013.'
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
@@ -11,9 +11,9 @@ toc: content
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/Tn6-PIqc4UM?si=pftdNWAeMaunjoBa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-React, a Javascript library for building user interfaces developed at Facebook and released in 2013. It's safe to say React has been the most influential UI library of recent memory. We use it to build components that represent logical, reusable parts of the UI. The beauty of React is that the simplicity of building a component has been brought down to its theoretical minimum.
+React, a JavaScript library for building user interfaces developed at Facebook and released in 2013. It's safe to say React has been the most influential UI library of recent memory. We use it to build components that represent logical, reusable parts of the UI. The beauty of React is that the simplicity of building a component has been brought down to its theoretical minimum.
 
-It's just a Javascript function. It's so easy, a caveman could do it. The return value from this function is your HTML or UI, which is written in a special syntax called JSX, allowing you to easily combine Javascript with HTML markup. If you want to pass data into a component, you simply pass it. A props argument, which you can then reference inside the function body or in the UI using braces. If the value changes, React will react to update the UI.
+It's just a JavaScript function. It's so easy, a caveman could do it. The return value from this function is your HTML or UI, which is written in a special syntax called JSX, allowing you to easily combine JavaScript with HTML markup. If you want to pass data into a component, you simply pass it. A props argument, which you can then reference inside the function body or in the UI using braces. If the value changes, React will react to update the UI.
 
 If we want to give our component its own internal state, we can use the state hook. The hook is just a function that returns a value, as well as a function to change the value. In this case, `count` is our reactive state, and `setCount` will change the state. When used in the template, the `count` will always show the most recent value. Then we can bind `setCount` to a button click event so the user can change the state.
 

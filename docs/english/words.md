@@ -38,7 +38,7 @@ toc: content
 
 ### Atwood's law /ˈætwɔːd/
 
-- 阿特伍德定律：Any application that can be written in Javascript will eventually be written in Javascript.（任何能用 Javascript 编写的应用最终都会用 Javascript 编写。）
+- 阿特伍德定律：Any application that can be written in JavaScript will eventually be written in JavaScript.（任何能用 JavaScript 编写的应用最终都会用 JavaScript 编写。）
 
 ### SpeechRecognition /ˈspitʃ rɪkəɡˈnɪʃən/
 
