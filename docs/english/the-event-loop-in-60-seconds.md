@@ -22,21 +22,21 @@ The task queue is used by callback-based web APIs to enqueue the callback. Once 
 
 ## 词汇
 
-1. handle [ˈhændl]：处理
-2. handlers [ˈhændlərz]：处理程序
-3. leveraged [ˈlevərɪdʒd]：利用
-4. initiate [ɪˈnɪʃiˌeɪt]：发起
-5. async [əˈsɪŋk] or [eɪ'sɪŋk]：abbr.异步
-6. actual [ˈæktʃuəl]：实际的
-7. event loop [ɪˈvent lup]：事件循环
-8. single-threaded [ˈsɪŋɡl ˈθredɪd]：单线程的
-9. call stack [kɔːl stæk]：调用栈
-10. task queue [tæsk kjuː]→[tæskjuː]：任务队列
-11. microtask queue [ˈmaɪkroʊtæsk kjuː]→[ˈmaɪkroʊtæskjuː]：微任务队列
-12. priority [praɪˈɔːrəti]：优先权
-13. ensures [ɪnˈʃʊrz]：确保
-14. in the meantime [ɪn ðə ˈmiːntaɪm]→[ɪnə ˈmiːntaɪm]：与此同时
-15. macrotask [ˈmækroʊtæsk]：宏任务
+1. **handle** [ˈhændl]：处理
+2. **handlers** [ˈhændlərz]：处理程序
+3. **leveraged** [ˈlevərɪdʒd]：利用
+4. **initiate** [ɪˈnɪʃiˌeɪt]：发起
+5. **async** [əˈsɪŋk] or [eɪ'sɪŋk]：abbr.异步
+6. **actual** [ˈæktʃuəl]：实际的
+7. **event loop** [ɪˈvent lup]：事件循环
+8. **single-threaded** [ˈsɪŋɡl ˈθredɪd]：单线程的
+9. **call stack** [kɔːl stæk]：调用栈
+10. **task queue** [tæsk kjuː]→[tæskjuː]：任务队列
+11. **microtask queue** [ˈmaɪkroʊtæsk kjuː]→[ˈmaɪkroʊtæskjuː]：微任务队列
+12. **priority** [praɪˈɔːrəti]：优先权
+13. **ensures** [ɪnˈʃʊrz]：确保
+14. **in the meantime** [ɪn ðə ˈmiːntaɪm]→[ɪnə ˈmiːntaɪm]：与此同时
+15. **macrotask** [ˈmækroʊtæsk]：宏任务
 
 ## 100 秒理解事件循环
 

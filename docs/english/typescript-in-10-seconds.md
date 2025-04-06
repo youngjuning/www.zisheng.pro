@@ -1,5 +1,5 @@
 ---
-description: '《全栈工程师面试宝典》是专为有志投身全栈开发领域的求职者精心打造的实用指南。'
+description: 'ypeScript. Validate your JavaScript ahead of time with static type checking.'
 keywords: [程序员, 英文晨读]
 group:
   title: 紫升英文晨读
@@ -7,9 +7,11 @@ order: 4
 toc: content
 ---
 
+## TypeScript in 100 Seconds
+
 > 喜马拉雅：https://m.ximalaya.com/sound/818199337?from=pc
 
-# TypeScript in 100 Seconds
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/zQnBQ4tB3ZA?si=ldEpYn8lSduIwjbT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 TypeScript. Validate your JavaScript ahead of time with static type checking. JavaScript is a dynamic language where we can do all kinds of crazy things, like reference variables that don't exist or work with objects of an unknown shape. The code is interpreted by a browser, but if your code is broken, you won't catch it until runtime, when the browser throws an error. TypeScript prevents errors like this from ever happening by extending JavaScript with types.
 
@@ -26,25 +28,26 @@ The beauty of having strongly typed code is that we get autocomplete everywhere 
 ## 词汇
 
 1. **ahead of time with** [əˈhed]：提前用...；借助...提前
-1. **runtime** [ˈrʌntaɪm]：【计】运行期
-1. **ever happening** [ˈhæpənɪŋ]： 永远不会发生
-1. **millions of** [ˈmɪljənz əv]：数以百万计，大量
-1. **compile** [kəmˈpaɪl]：v.【计】编译
-1. **compiler** [ˈkɑmˌpaɪlər]：n. 【计】编译器
-1. **compilation** [ˌkɑːmpəˈleɪʃn]：n.【计】编译
-1. **transpile** [trænˈspaɪl]：转译
-1. **vanilla** [vəˈnɪlə]：普通的、原味的
-1. **ancient** [ˈeɪnʃənt]：古老的
-1. **flavor of**：不同版本或特性的
-1. **annotate** [ˈænəteɪt]：给...添加注解
-1. **colon** [ˈkoʊlən]：冒号
-1. **explicit** [ɪkˈsplɪsɪt]：【计】显式
-1. **implicitly** [ɪmˈplɪsɪtli]：【计】隐式地
-1. **objects** [ˈɑːbdʒekts]：【计】对象
+2. **runtime** [ˈrʌntaɪm]：【计】运行期
+3. **ever happening** [ˈhæpənɪŋ]： 永远不会发生
+4. **millions of** [ˈmɪljənz əv]：数以百万计，大量
+5. **compile** [kəmˈpaɪl]：v.【计】编译
+6. **compiler** [ˈkɑmˌpaɪlər]：n. 【计】编译器
+7. **compilation** [ˌkɑːmpəˈleɪʃn]：n.【计】编译
+8. **transpile** [trænˈspaɪl]：转译
+9. **vanilla** [vəˈnɪlə]：普通的、原味的
+10. **ancient** [ˈeɪnʃənt]：古老的
+11. **flavor of**：不同版本或特性的
+12. **annotate** [ˈænəteɪt]：给...添加注解
+13. **colon** [ˈkoʊlən]：冒号
+14. **explicit** [ɪkˈsplɪsɪt]：【计】显式
+15. **implicitly** [ɪmˈplɪsɪtli]：【计】隐式地
+16. **objects** [ˈɑːbdʒekts]：【计】对象
+17. **interpreted** [ɪntəˈprɪtɪd]：【计】解释性的
 
 ## 译文
 
-TypeScript. 使用静态类型检查提前验证 JavaScript。JavaScript 是一种动态语言，在这种语言中，我们可以做各种疯狂的事情，比如引用不存在的变量或处理形状未知的对象。浏览器会对代码进行解释，但如果你的代码有问题，直到运行时浏览器抛出错误时你才会发现。TypeScript 通过对 JavaScript 进行类型扩展，防止了类似错误的发生。
+TypeScript 使用静态类型检查提前验证 JavaScript。JavaScript 是一种动态语言，在这种语言中，我们可以做各种疯狂的事情，比如引用不存在的变量或处理形状未知的对象。浏览器会对代码进行解释，但如果你的代码有问题，直到运行时浏览器抛出错误时你才会发现。TypeScript 通过对 JavaScript 进行类型扩展，防止了类似错误的发生。
 
 该语言是 JavaScript 的严格超集，这意味着当你打开一个 ts 文件时，你可以编写纯 JavaScript，其所有额外功能都是完全可选的。但请注意这里的代码，IDE 是如何反馈使用了一个不存在的变量。与其在几周后公司损失数百万美元后在堆栈跟踪中修复这个问题，我们现在就可以在这里修复它。我们之所以能获得这种即时反馈，是因为 TypeScript 的行为类似于编译语言，而 JavaScript 是编译目标。
 

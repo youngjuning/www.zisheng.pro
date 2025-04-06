@@ -32,31 +32,31 @@ JS code can also run on the server thanks to the Node.js runtime. Instead of but
 
 ## 词汇
 
-1. garbage-collected：垃圾回收
-2. interpreted /ɪnˈtɜːrprɪtɪd/：解释性的
-3. just-in-time compiled：即时编译
-4. prototype-based：原型式
-5. multi-paradigm：多范式
-6. dynamic language：动态语言
-7. non-blocking event loop [ˌnɑːnˈblɑːkɪŋ ɪˈvent luːp]：非阻塞事件循环
-8. Mocha [ˈmokər]： 摩卡
-9. continues [kənˈtɪnjuːz]：继续
-10. evolve [iˈvɑːlv/]：逐步发展，逐渐发展，逐渐演变
-11. interpreted [ɪnˈtɜːrprɪtɪd]：解释性的
-12. thread [θred]：【计】线程
-13. V8 Engine [ˈendʒɪn]：V8 引擎
-14. Chromium [ˈkroʊmiəm]：谷歌浏览器
-15. I.O. intensive jobs [ɪnˈtensɪv]：I/O 密集型任务
-16. context [ˈkɑntɛkst]：【计】上下文
-17. first-class objects：一等对象
-18. functional programming patterns [ˈfʌŋkʃənl ˈproʊɡræmɪŋ ˈpætərnz]：函数式编程模式
-19. object-oriented patterns：面向对象编程模式
-20. file system API：文件系统 API
-21. Brendan Eich：布兰登·艾奇
-22. concise [kənˈsaɪs]：简洁的
-23. asynchronously [eɪˈsɪŋkrənəslɪ]：adv. 异步地
-24. async-await syntax [əˈsɪŋk əˈweɪt ˈsɪntæks]：async-await 语法
-25. querySelector [ˈkwɪri sɪˈlektər]：查询选择器
+1. **garbage-collected**：垃圾回收
+2. **interpreted** /ɪnˈtɜːrprɪtɪd/：解释性的
+3. **just-in-time compiled**：即时编译
+4. **prototype-based**：原型式
+5. **multi-paradigm**：多范式
+6. **dynamic language**：动态语言
+7. **non-blocking event loop** [ˌnɑːnˈblɑːkɪŋ ɪˈvent luːp]：非阻塞事件循环
+8. **Mocha** [ˈmokər]： 摩卡
+9. **continues** [kənˈtɪnjuːz]：继续
+10. **evolve** [iˈvɑːlv/]：逐步发展，逐渐发展，逐渐演变
+11. **interpreted** [ɪnˈtɜːrprɪtɪd]：解释性的
+12. **thread** [θred]：【计】线程
+13. **V8 Engine** [ˈendʒɪn]：V8 引擎
+14. **Chromium** [ˈkroʊmiəm]：谷歌浏览器
+15. **I.O. intensive jobs** [ɪnˈtensɪv]：I/O 密集型任务
+16. **context** [ˈkɑntɛkst]：【计】上下文
+17. **first-class objects**：一等对象
+18. **functional programming patterns** [ˈfʌŋkʃənl ˈproʊɡræmɪŋ ˈpætərnz]：函数式编程模式
+19. **object-oriented patterns**：面向对象编程模式
+20. **file system API**：文件系统 API
+21. **Brendan Eich**：布兰登·艾奇
+22. **concise** [kənˈsaɪs]：简洁的
+23. **asynchronously** [eɪˈsɪŋkrənəslɪ]：adv. 异步地
+24. **async-await syntax** [əˈsɪŋk əˈweɪt ˈsɪntæks]：async-await 语法
+25. **querySelector** [ˈkwɪri sɪˈlektər]：查询选择器
 
 ## 100 秒 JavaScript 入门
 
