@@ -10,10 +10,9 @@ order: 2
 
 ## algorithm [ˈælɡəˌrɪðəm]
 
-An algorithm is a set of instructions or steps to solve a particular problem.
+An algorithm is a set of instructions or steps to solve a particular problem.（算法是解决特定问题的一组指令或步骤。）
 
-算法是解决特定问题的一组指令或步骤。
-
+例句：
 
 - 算法的设计：The design of an algorithm is the process of defining the input, output, and steps required to solve a problem.（算法的设计是定义输入、输出和解决问题所需的步骤的过程。）
 - 算法的实现：The implementation of an algorithm is the actual code that performs the steps defined in the algorithm.（算法的实现是实际执行算法中定义的步骤的代码。）
@@ -31,3 +30,11 @@ DFS（Dept-First-Search）深度优先搜索是一种用于遍历或搜索图（
 
 
 ## BFS 广度优先搜索
+
+BFS stands for Breadth-First-Search. It's a commonly - used traversal algorithm for graph - based data structures. The fundamental concept is similar to exploring a maze. Starting from the initial point, it first discovers all the directly accessible nodes around the starting point. It's like the spread of water waves, expanding the search layer by layer.
+
+For example, in a tree-structured data, when you aim to find a specific leaf node. BFS will begin from the root node, visit all the nodes at the same level as the root node first, and then visit the nodes of the next level one by one until the target node is found or the whole tree is traversed. This algorithm is usually implemented with the help of a queue data structure. The starting node is first enqueued, and then the head node of the queue is continuously removed, its adjacent nodes are visited and enqueued, thus completing the breadth-first search process. It has a wide range of applications in many fields such as **problem-solving related to graph theory**, **web-crawling**, and **path-planning**.
+
+DFS 是广度优先搜索（Breadth-First-Search）的英文缩写。它是一种图形数据结构中常用的遍历算法。其基本思想就像是在一个迷宫中，从起点开始，先把起点周围所有能直接到达的节点找出来，就像水波一样，一层一层向外扩展搜索。
+
+例如，有一个树形结构，要找到某个叶子节点。BFS 就会从根节点开始，先访问根节点同一层的所有节点，再依次访问下一层的节点，直到找到目标节点或者遍历完整个树。这种算法通常借助队列这种数据结构来实现，先将起始节点入队，然后不断地取出队首节点，访问它的相邻节点并将其入队，从而完成广度优先的搜索过程，在很多**图论相关的问题求解**、**网络爬虫**、**路径规划**等领域都有广泛的应用。

@@ -7,6 +7,7 @@ group:
   order: 3
 order: 1
 toc: content
+proseWrap: preserve
 ---
 
 ## leverage [ˈlevərɪdʒ]
