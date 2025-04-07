@@ -1,4 +1,5 @@
 ---
+title: 全栈英语
 order:  0
 description: '学程序员英语，跨越语言鸿沟，拥抱多元编程世界'
 keywords: [全栈, 紫升, 程序员, 英语]
@@ -8,36 +9,14 @@ nav:
 toc: content
 ---
 
-# 英语
-
-## 词性
-
-|词性|英文名称|音标|缩写|
-|:-:|:-:|:-:|:-:|
-|名词|noun|/naʊn/|`n.`|
-|动词|verb|/vɜːrb/|`v.`|
-|及物动词|transitive verb|/ˈtrænsətɪv vɜːb/|`vt.`|
-|不及物动词|intransitive verb|/ɪnˈtrænsətɪv vɜːb/|`vi.`|
-|形容词|adjective|/ˈædʒɪktɪv/|`adj.`|
-|副词|adverb|/ˈædvɜːb/|`adv.`|
-|代词|pronoun|/ˈprəʊnaʊn/|`pron.`|
-|介词|preposition|/ˌprepəˈzɪʃn/|`prep.`|
-|连词|conjunction|/kənˈdʒʌŋkʃn/|`conj.`|
-|冠词|article|/ˈɑːtɪkl/|`art.`|
-|数词|numeral|/ˈnjuːmərəl/|`num.`|
-|感叹词|interjection|/ˌɪntəˈdʒekʃn/|`int.` 或 `interj.`|
-|限定词|determiner|/dɪˈtɜːmɪnə(r)/|`det.`|
-|拟声词|onomatopoeia|/ˌɒnəməˈtiːpiə/|无|
-|短语|phrase|/freɪz/|`phr.`|
-
-## 文档
+## 英文文档
 
 - [React](https://react.dev/learn)
 - [Patterns.dev](https://www.patterns.dev/)
 - [MDN Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
-## 书籍
+## 英文书籍
 
 ### JavaScript 核心经典
 
@@ -94,3 +73,31 @@ toc: content
     - **语言特点**：叙事性强，适合培养技术类书籍的泛读习惯。
 2. **《High Performance Web Sites》**
     - **推荐理由**：Web 性能优化经典，英文版内容简洁，案例驱动，适合学习技术方案描述。
+
+## 词性表
+
+|词性|英文名称|音标|缩写|
+|:-:|:-:|:-:|:-:|
+|名词|noun|/naʊn/|`n.`|
+|动词|verb|/vɜːrb/|`v.`|
+|及物动词|transitive verb|/ˈtrænsətɪv vɜːb/|`vt.`|
+|不及物动词|intransitive verb|/ɪnˈtrænsətɪv vɜːb/|`vi.`|
+|形容词|adjective|/ˈædʒɪktɪv/|`adj.`|
+|副词|adverb|/ˈædvɜːb/|`adv.`|
+|代词|pronoun|/ˈprəʊnaʊn/|`pron.`|
+|介词|preposition|/ˌprepəˈzɪʃn/|`prep.`|
+|连词|conjunction|/kənˈdʒʌŋkʃn/|`conj.`|
+|冠词|article|/ˈɑːtɪkl/|`art.`|
+|数词|numeral|/ˈnjuːmərəl/|`num.`|
+|感叹词|interjection|/ˌɪntəˈdʒekʃn/|`int.` 或 `interj.`|
+|限定词|determiner|/dɪˈtɜːmɪnə(r)/|`det.`|
+|拟声词|onomatopoeia|/ˌɒnəməˈtiːpiə/|无|
+|短语|phrase|/freɪz/|`phr.`|
+
+## 生词表
+
+- **curating** [ˌkjuːˈreɪtɪŋ]：精选
+- **pioneer** [ˌpaɪəˈnɪr]：先锋
+- **empower** [ɪmˈpaʊər]：赋能
+- **strategic** [strəˈtiːdʒɪk]：战略的
+- **rebellious** [rɪˈbeljəs]：叛逆的
