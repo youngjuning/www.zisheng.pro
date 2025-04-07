@@ -1,6 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
+  mako: {},
   favicons: ['https://www.zisheng.pro/favicon.ico'],
   autoAlias: false,
   themeConfig: {

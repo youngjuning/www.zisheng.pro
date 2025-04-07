@@ -2,7 +2,7 @@
 description: 'JavaScript closures are functions that can access values outside of their own curly braces.'
 keywords: [程序员, 英文晨读]
 group:
-  title: 紫升英文晨读
+  title: 全栈英文晨读
 order: 999
 toc: content
 ---

@@ -2,7 +2,7 @@
 description: 'React, a JavaScript library for building user interfaces developed at Facebook and released in 2013.'
 keywords: [程序员, 英文晨读]
 group:
-  title: 紫升英文晨读
+  title: 全栈英文晨读
 order: 3
 toc: content
 ---

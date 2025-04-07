@@ -6,6 +6,7 @@ group:
   title: 口语
   order: 1
 toc: content
+proseWrap: preserve
 ---
 
 # K.K 音标

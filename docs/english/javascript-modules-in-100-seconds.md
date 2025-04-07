@@ -3,7 +3,7 @@ title: JavaScript Modules in 100 Seconds
 description: 'JavaScript, a high-level, single-threaded, garbage-collected, interpreted, or just-in-time compiled prototype-based, multi-paradigm, dynamic language with a non-blocking event loop, made famous for building websites.'
 keywords: [程序员, 英文晨读]
 group:
-  title: 紫升英文晨读
+  title: 全栈英文晨读
   order: 1
 order: 999
 toc: content
