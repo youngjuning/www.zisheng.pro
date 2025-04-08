@@ -9,6 +9,10 @@ nav:
 toc: content
 ---
 
+## 英文视频
+
+- [Fireship](https://www.youtube.com/@Fireship)：High-intensity ⚡ code tutorials and tech news to help you ship your app faster.
+
 ## 英文文档
 
 - [React](https://react.dev/learn)
