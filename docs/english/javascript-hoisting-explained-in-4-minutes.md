@@ -1,5 +1,5 @@
 ---
-description: 'There are mainly three types of scopes that we come across in our day-to-day use of the language.'
+description: 'Hoisting is the process of the JavaScript interpreter pulling up or hoisting var variable and function declarations to the top of their scope before any code is executed.'
 keywords:  [程序员, 英文晨读]
 group:
   title: 全栈英文晨读

@@ -1,5 +1,5 @@
 ---
-description: "Prisma in 100 Seconds"
+description: "Prisma, an open source tool that makes it fun and safe to work with your database."
 keywords:  [程序员, 英文晨读]
 group:
   title: 全栈英文晨读

@@ -1,5 +1,5 @@
 ---
-description: 'There are mainly three types of scopes that we come across in our day-to-day use of the language.'
+description: 'Today, we look into an important concept in JavaScript that not only helps us understand how variables are accessed by the engine, but also help us understand more complex concepts like closures.'
 keywords: [程序员, 英文晨读]
 group:
   title: 全栈英文晨读
