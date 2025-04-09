@@ -4,7 +4,7 @@ order:  0
 description: '学程序员英语，跨越语言鸿沟，拥抱多元编程世界'
 keywords: [全栈, 紫升, 程序员, 英语]
 nav:
-  title: 全栈英语
+  title: 英语
   order: 1
 toc: content
 ---

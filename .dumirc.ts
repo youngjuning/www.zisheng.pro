@@ -7,7 +7,7 @@ export default defineConfig({
     name: '全栈紫升',
     logo: 'https://www.zisheng.pro/avatar.png',
     prefersColor: { default: 'auto' },
-    editLink: 'https://github.com/youngjuning/zisheng.pro/edit/main/{filename}',
+    editLink: 'https://github.com/youngjuning/zisheng.pro/edit/master/{filename}',
     socialLinks: {
       github: 'https://github.com/youngjuning/zisheng.pro',
       twitter: 'https://twitter.com/luozhu2021',
