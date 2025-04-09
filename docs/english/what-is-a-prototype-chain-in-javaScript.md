@@ -14,9 +14,7 @@ Hey, developers, ever wondered how JavaScript objects share properties and metho
 
 In JavaScript, every object has a hidden link called or its prototype. If a property or method isn't found on the object, JavaScript looks up these prototype.
 
-This lookup process continues up the prototype chain. It starts with your object, moves to its prototype and keeps going until it either finds the property or hits null. The end of the chain. Here, custom`obj` inherits name from`obj` and `toString` from `Object .prototype`. That's the power of the prototype chain.
-
-And that's the prototype chain.
+This lookup process continues up the prototype chain. It starts with your object, moves to its prototype and keeps going until it either finds the property or hits `null`. The end of the chain. Here, `customObj` inherits name from `obj` and `toString` from `Object.prototype`. That's the power of the prototype chain. And that's the prototype chain.
 
 It's JavaScript's way of enabling inheritance and code reuse. Want to dive deeper? Let me know in the comments. Don't forget to like, share and subscribe to 404Developer for more JavaScript tips. See you next time.
 
@@ -28,9 +26,7 @@ It's JavaScript's way of enabling inheritance and code reuse. Want to dive deepe
 
 在 JavaScript 中，每个对象都有一个称为原型的隐藏链接。如果在对象上找不到属性或方法，JavaScript 就会查找这些原型。
 
-这个查找过程会一直沿着原型链向上进行。它从你的对象开始，移动到它的原型，直到找到属性或找到 null。这就是原型链的终点。在这里，自定义`obj`从`obj`继承名称，`toString`从`Object .prototype`继承。这就是原型链的威力。
-
-这就是原型链。
+这个查找过程会一直沿着原型链向上进行。它从你的对象开始，移动到它的原型，直到找到属性或找到 `null`。这就是原型链的终点。在这里，`customObj` 从 `obj` 继承名称，`toString` 从 `Object.prototype` 继承。这就是原型链的威力。这就是原型链。
 
 这是 JavaScript 实现继承和代码重用的方法。想深入了解吗？请在评论中告诉我。别忘了点赞、分享和订阅 404Developer，获取更多 JavaScript 技巧。下次见。
 
