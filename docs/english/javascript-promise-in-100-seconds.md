@@ -50,5 +50,5 @@ promise 代表一个现在未知、将来可能会知道的值，换句话说，
 1. **Either way** [iːðər]：*phr.* 无论如何；不管怎样；无论哪种方式
 1. **more often than not**： *phr.* 往往；通常；更常见的情况
 1. **kick off**：*phr.* 开始，启动
-1. **n the other side**：*phr.* 另一方面
+1. **in the other side**：*phr.* 另一方面
 1. **in a row**： *phr.* 连续地
