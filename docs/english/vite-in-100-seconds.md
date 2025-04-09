@@ -1,5 +1,5 @@
 ---
-description: 'Redux a single source of truth for all the data in your JavaScript application.'
+description: 'Vite, a JavaScript build tool that simplifies the way we build and develop front-end web applications.'
 keywords: [程序员, 英文晨读]
 group:
   title: 全栈英文晨读

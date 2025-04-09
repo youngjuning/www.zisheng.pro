@@ -1,5 +1,5 @@
 ---
-description: "Prisma in 100 Seconds"
+description: "Vue.js. It's a JavaScript framework for building front-end UIs."
 keywords:  [程序员, 英文晨读]
 group:
   title: 全栈英文晨读

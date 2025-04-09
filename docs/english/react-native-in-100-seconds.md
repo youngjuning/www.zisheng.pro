@@ -1,5 +1,5 @@
 ---
-description: 'Redux a single source of truth for all the data in your JavaScript application.'
+description: 'React Native, write JavaScript and React to build apps for iOS, Android, and the web from a single code base.'
 keywords: [程序员, 英文晨读]
 group:
   title: 全栈英文晨读

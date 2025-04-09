@@ -1,5 +1,5 @@
 ---
-description: "It's the moment we've all been waiting for a brand new game-changing blazingly fast."
+description: "JavaScript framework just hit the timeline yesterday. Bytedance, the company that gave the world the gift of social media crack via TikTok, gave the world another gift."
 keywords:  [程序员, 英文晨读]
 group:
   title: 全栈英文晨读
