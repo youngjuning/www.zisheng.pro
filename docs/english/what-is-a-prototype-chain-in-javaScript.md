@@ -8,8 +8,6 @@ order: 999
 toc: content
 ---
 
-> 喜马拉雅：https://m.ximalaya.com/sound/822546692?from=pc
-
 ## What is a Prototype Chain in JavaScript？
 
 Hey, developers, ever wondered how JavaScript objects share properties and methods? Let's break down the prototype chain in just 60 seconds.
@@ -22,24 +20,9 @@ And that's the prototype chain.
 
 It's JavaScript's way of enabling inheritance and code reuse. Want to dive deeper? Let me know in the comments. Don't forget to like, share and subscribe to 404Developer for more JavaScript tips. See you next time.
 
-## 单词&短语
-
-1. wondered /ˈwʌndərd/：vt. 对…感到好奇
-2. property /ˈprɑpərti/：属性
-3. prototype /ˈproʊtəˌtaɪp/：原型
-4. looks up /lʊksʌp/：向上查找
-5. continues up /kənˈtɪnjuːzʌp/：沿着...向上进行
-6. object /ˈɑːbdʒekt/：对象
-7. keeps going：持续进行
-8. until /ənˈtɪl/：直到
-9. either...or /ˈiːðər ɔːr/：...或者...；不是...就是...
-10. inherit /ɪnˈherɪt/：vt.继承
-11. enabling /ɪˈneɪblɪŋ/：实现，是可能
-12. inheritance /ɪnˈhɛrɪtəns/：n.继承
-13. comments /ˈkɑːments/：注释
-14. power /ˈpaʊər/：力量
-
 ## JavaScript 原型链是什么？
+
+> 喜马拉雅：https://m.ximalaya.com/sound/822546692?from=pc
 
 嘿，开发者，有没有想过 JavaScript 对象是如何共享属性和方法的？让我们在 60 秒内拆解下原型链。
 
@@ -50,8 +33,6 @@ It's JavaScript's way of enabling inheritance and code reuse. Want to dive deepe
 这就是原型链。
 
 这是 JavaScript 实现继承和代码重用的方法。想深入了解吗？请在评论中告诉我。别忘了点赞、分享和订阅 404Developer，获取更多 JavaScript 技巧。下次见。
-
-## 代码
 
 ```js
 const obj = { name: "全栈紫升" };
@@ -74,3 +55,20 @@ console.info(obj.__proto__)
 // Object's __proto__ is null
 console.info(obj.__proto__.__proto__)
 ```
+
+## 单词&短语
+
+1. wondered /ˈwʌndərd/：vt. 对…感到好奇
+2. property /ˈprɑpərti/：属性
+3. prototype /ˈproʊtəˌtaɪp/：原型
+4. looks up /lʊksʌp/：向上查找
+5. continues up /kənˈtɪnjuːzʌp/：沿着...向上进行
+6. object /ˈɑːbdʒekt/：对象
+7. keeps going：持续进行
+8. until /ənˈtɪl/：直到
+9. either...or /ˈiːðər ɔːr/：...或者...；不是...就是...
+10. inherit /ɪnˈherɪt/：vt.继承
+11. enabling /ɪˈneɪblɪŋ/：实现，是可能
+12. inheritance /ɪnˈhɛrɪtəns/：n.继承
+13. comments /ˈkɑːments/：注释
+14. power /ˈpaʊər/：力量
