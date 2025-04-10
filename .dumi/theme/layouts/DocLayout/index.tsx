@@ -94,7 +94,7 @@ const DocLayout: FC = () => {
         {showSidebar && <Sidebar />}
         <Content>
           <article>
-            <Adsense
+            {/* <Adsense
               className="adsbygoogle adsbygoogle-top"
               style={{ display: 'block', textAlign: 'center' }}
               data-ad-layout="in-article"
@@ -102,7 +102,8 @@ const DocLayout: FC = () => {
               data-ad-client="ca-pub-5641491107630454"
               data-ad-slot="1330632922"
               data-page-url="https://www.nablepart.com"
-            />
+            /> */}
+            <a href="https://tensorium.ai/?aff=youngjuning" target="_blank"><img src="https://tensorium.ai/gif/Tens-1200x150.gif" alt="Tensorium" width={"100%"}/></a>
             {outlet}
             {pathname !== '/' && (
               <Adsense
