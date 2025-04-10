@@ -10,4 +10,5 @@ toc: content
 
 # 算法
 
-- [二分搜索算法](/algorithm/binary-search)
+- [ ] [42.接雨水](/algorithm/trapping-rain-water)
+- [x] [二分搜索算法](/algorithm/binary-search)
