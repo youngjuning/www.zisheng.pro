@@ -29,7 +29,7 @@ toc: content
   - 中间值较大 → 目标在左半区，更新 `right = mid - 1`。
 4. 若循环结束未找到，返回 `-1`。
 
-## JavaScript 实现
+## Javascript 实现
 
 ```js
 function binarySearch(arr, target) {

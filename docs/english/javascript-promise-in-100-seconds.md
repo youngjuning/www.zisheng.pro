@@ -1,5 +1,5 @@
 ---
-description: "JavaScript Promise in 100 Seconds"
+description: "Javascript Promise in 100 Seconds"
 keywords:  [程序员, 英文晨读]
 group:
   title: 全栈英文晨读
@@ -7,7 +7,7 @@ order: 8
 toc: content
 ---
 
-## JavaScript Promise in 100 Seconds
+## Javascript Promise in 100 Seconds
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/RvYYCGs45L4?si=7sseJ4tyA1U73eZT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -21,7 +21,7 @@ It's waiting for the asynchronous value to be fulfilled. When that happens, it w
 
 All of these methods return promises, which means they can be chained together to handle multiple asynchronous operations in a row. This has been Javascript promises in 100 seconds. Thanks for watching and also make sure to follow my brand new Instagram account for even more content on this topic. I will see you in the next one.
 
-## 100 秒速览 JavaScript Promise
+## 100 秒速览 Javascript Promise
 
 promise 代表一个现在未知、将来可能会知道的值，换句话说，是一个异步值。把它想象成一个叫车应用程序 当你请求叫车时，司机会承诺在你等待时来接你。这趟车是待定的。
 

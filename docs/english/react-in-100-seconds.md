@@ -1,5 +1,5 @@
 ---
-description: 'React, a JavaScript library for building user interfaces developed at Facebook and released in 2013.'
+description: 'React, a Javascript library for building user interfaces developed at Facebook and released in 2013.'
 keywords: [程序员, 英文晨读]
 group:
   title: 全栈英文晨读
@@ -11,9 +11,9 @@ toc: content
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/Tn6-PIqc4UM?si=pftdNWAeMaunjoBa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-React, a JavaScript library for building user interfaces developed at Facebook and released in 2013. It's safe to say React has been the most influential UI library of recent memory. We use it to build components that represent logical, reusable parts of the UI. The beauty of React is that the simplicity of building a component has been brought down to its theoretical minimum.
+React, a Javascript library for building user interfaces developed at Facebook and released in 2013. It's safe to say React has been the most influential UI library of recent memory. We use it to build components that represent logical, reusable parts of the UI. The beauty of React is that the simplicity of building a component has been brought down to its theoretical minimum.
 
-It's just a JavaScript function. It's so easy, a caveman could do it. The return value from this function is your HTML or UI, which is written in a special syntax called JSX, allowing you to easily combine JavaScript with HTML markup. If you want to pass data into a component, you simply pass it. A props argument, which you can then reference inside the function body or in the UI using braces. If the value changes, React will react to update the UI.
+It's just a Javascript function. It's so easy, a caveman could do it. The return value from this function is your HTML or UI, which is written in a special syntax called JSX, allowing you to easily combine Javascript with HTML markup. If you want to pass data into a component, you simply pass it. A props argument, which you can then reference inside the function body or in the UI using braces. If the value changes, React will react to update the UI.
 
 If we want to give our component its own internal state, we can use the state hook. The hook is just a function that returns a value, as well as a function to change the value. In this case, `count` is our reactive state, and `setCount` will change the state. When used in the template, the `count` will always show the most recent value. Then we can bind `setCount` to a button click event so the user can change the state.
 
@@ -29,9 +29,9 @@ Today, this has been React in 100 seconds. If you want to see more short videos 
 
 > 喜马拉雅：https://m.ximalaya.com/sound/819166131?from=pc
 
-React，一个由 Facebook 开发并于 2013 年发布的用于构建用户界面的 JavaScript 库。可以说 React 是近年来最具影响力的 UI 库。我们用它来构建代表 UI 逻辑、可重用部分的组件。React 的美丽之处在于将构建组件的简单性降低到了理论上的最低点。
+React，一个由 Facebook 开发并于 2013 年发布的用于构建用户界面的 Javascript 库。可以说 React 是近年来最具影响力的 UI 库。我们用它来构建代表 UI 逻辑、可重用部分的组件。React 的美丽之处在于将构建组件的简单性降低到了理论上的最低点。
 
-这只是一个 JavaScript 函数。它非常简单，连穴居人都能够做到。这个函数的返回值是你的 HTML 或 UI，它使用一种特殊的语法 JSX 编写，允许你轻松地将 JavaScript 与 HTML 标记结合。如果你想将数据传递给组件，你只需传递一个 props 参数即可。你可以在函数体内部或使用花括号在 UI 中引用它。如果值发生变化，React将做出反应以更新 UI。
+这只是一个 Javascript 函数。它非常简单，连穴居人都能够做到。这个函数的返回值是你的 HTML 或 UI，它使用一种特殊的语法 JSX 编写，允许你轻松地将 Javascript 与 HTML 标记结合。如果你想将数据传递给组件，你只需传递一个 props 参数即可。你可以在函数体内部或使用花括号在 UI 中引用它。如果值发生变化，React将做出反应以更新 UI。
 
 如果我们想赋予组件自己的内部状态，可以使用状态钩子。钩子只是一个返回值的函数，也是一个改变值的函数。在本例中，“count ”是我们的反应状态，而 “setCount ”将改变该状态。在模板中使用时，`count` 将始终显示最近的值。然后，我们可以将 `setCount` 绑定到按钮点击事件，这样用户就可以更改状态了。
 

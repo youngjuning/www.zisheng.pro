@@ -1,5 +1,5 @@
 ---
-description: "JavaScript framework just hit the timeline yesterday. Bytedance, the company that gave the world the gift of social media crack via TikTok, gave the world another gift."
+description: "Javascript framework just hit the timeline yesterday. Bytedance, the company that gave the world the gift of social media crack via TikTok, gave the world another gift."
 keywords:  [程序员, 英文晨读]
 group:
   title: 全栈英文晨读
@@ -11,15 +11,15 @@ toc: content
 
 ## TikTok just released its React Native killer Lynx
 
-It's the moment we've all been waiting for a brand new game-changing blazingly fast. JavaScript framework just hit the timeline yesterday. Bytedance, the company that gave the world the gift of social media crack via TikTok, gave the world another gift. In the form of an open-source, multi-platform app development framework called Lynx. Developers can throw fossilized relics like React Native and Flutter in the garbage and rewrite their native mobile apps from scratch. With shiny new, rust-based tooling and a high-performance dual-threaded UI rendering engine like React Native, it empowers web developers to build shoddy iOS and Android apps with JavaScript.
+It's the moment we've all been waiting for a brand new game-changing blazingly fast. Javascript framework just hit the timeline yesterday. Bytedance, the company that gave the world the gift of social media crack via TikTok, gave the world another gift. In the form of an open-source, multi-platform app development framework called Lynx. Developers can throw fossilized relics like React Native and Flutter in the garbage and rewrite their native mobile apps from scratch. With shiny new, rust-based tooling and a high-performance dual-threaded UI rendering engine like React Native, it empowers web developers to build shoddy iOS and Android apps with Javascript.
 
 But Lynx claims to achieve smoother pixel-perfect UIS and faster launch times compared to other cross-platform tools. That's a big claim, and in today's video, we'll try out Lynx and find out if it's a legit React native killer. It is March 6, 2025, and you're watching the code report. Lynx is not just another half-baked GitHub project written by a 19-year-old on prescription amphetamines. It's not the terminal browser with the same name, but rather a production-ready framework that's already in use in high-traffic apps at TikTok.
 
-It doesn't power the main TikTok app where you would post your cringe dance videos, but it does power the search panel, TikTok Studio and a bunch of other ancillary apps. I find this very interesting because ByteDance was one of the early adopters of Flutter and is still on the Flutter showcase today. In addition, if they wanted to use web technologies to build mobile apps, why not just use something like React, Native, Ionic or NativeScript instead of reinventing the wheel? Well, the unspoken reason is that creating new frameworks gives U.S. developers job security. But the official reason in their blog post is mostly about performance. Throughout history, many people have criticized React Native for not feeling truly native. And that's because it relies on a single-threaded JavaScript bridge that allows JavaScript code to communicate with native code like Swift on iOS or Kotlin on Android.
+It doesn't power the main TikTok app where you would post your cringe dance videos, but it does power the search panel, TikTok Studio and a bunch of other ancillary apps. I find this very interesting because ByteDance was one of the early adopters of Flutter and is still on the Flutter showcase today. In addition, if they wanted to use web technologies to build mobile apps, why not just use something like React, Native, Ionic or NativeScript instead of reinventing the wheel? Well, the unspoken reason is that creating new frameworks gives U.S. developers job security. But the official reason in their blog post is mostly about performance. Throughout history, many people have criticized React Native for not feeling truly native. And that's because it relies on a single-threaded Javascript bridge that allows Javascript code to communicate with native code like Swift on iOS or Kotlin on Android.
 
 But that single-threaded bridge is a big bottleneck that can create performance issues.
 
-The React Native team has addressed this by building a custom engine called Hermes and released the fabric renderer a few years ago. Which some have called the new and improved bridge, or a bridgeless architecture. But ByteDance has taken a different approach, with links using a dual-threaded architecture, where user code and framework code are split into two distinct runtimes. The main thread is powered by PrimJs, which itself is built on QuickJs, which is a tiny, 210 kilobyte JavaScript engine. Its job is to handle synchronous UI tasks like event handling, while user code runs on A, which means the crappy, inefficient code you write won't block the main thread and degrade performance. And the end result is instant first frame rendering for the end user.
+The React Native team has addressed this by building a custom engine called Hermes and released the fabric renderer a few years ago. Which some have called the new and improved bridge, or a bridgeless architecture. But ByteDance has taken a different approach, with links using a dual-threaded architecture, where user code and framework code are split into two distinct runtimes. The main thread is powered by PrimJs, which itself is built on QuickJs, which is a tiny, 210 kilobyte Javascript engine. Its job is to handle synchronous UI tasks like event handling, while user code runs on A, which means the crappy, inefficient code you write won't block the main thread and degrade performance. And the end result is instant first frame rendering for the end user.
 
 Or, in other words, no blank screens. That's pretty cool. But what's even more awesome is that this engine is framework agnostic. You don't have to use React and could build your app in Svelte Vue or whatever framework you want. In addition, it supports actual native CSS features for styling like transition, animations, variables, gradients, and so on, and that's a lot more intuitive for web developers.
 
@@ -39,15 +39,15 @@ CodeRabbit keeps learning from your PRs over time, so the more you use it, the s
 
 ## TikTok 发布了 React Native 杀手 Lynx
 
-这是我们期待已久的时刻。JavaScript 框架昨天刚刚进入时间线。通过 TikTok 给世界带来社交媒体裂缝的 Bytedance 公司，又给世界带来了一份礼物。它就是名为 Lynx 的开源多平台应用程序开发框架。开发人员可以把 React Native 和 Flutter 等陈旧过时的东西扔进垃圾桶，从头开始重写他们的原生移动应用程序。通过闪闪发光的基于 rust 的新工具和像 React Native 一样的高性能双线程用户界面渲染引擎，它让网络开发人员有能力用 JavaScript 构建低劣的 iOS 和 Android 应用程序。
+这是我们期待已久的时刻。Javascript 框架昨天刚刚进入时间线。通过 TikTok 给世界带来社交媒体裂缝的 Bytedance 公司，又给世界带来了一份礼物。它就是名为 Lynx 的开源多平台应用程序开发框架。开发人员可以把 React Native 和 Flutter 等陈旧过时的东西扔进垃圾桶，从头开始重写他们的原生移动应用程序。通过闪闪发光的基于 rust 的新工具和像 React Native 一样的高性能双线程用户界面渲染引擎，它让网络开发人员有能力用 Javascript 构建低劣的 iOS 和 Android 应用程序。
 
 但与其他跨平台工具相比，Lynx 声称能实现更流畅的像素级用户界面和更快的启动时间。在今天的视频中，我们将试用 Lynx，看看它是否是 React native 的合法杀手。现在是 2025 年 3 月 6 日，您正在观看的是代码报告。Lynx 并不是另一个由 19 岁的年轻人嗑安非他命写成的半成品 GitHub 项目。它不是同名的终端浏览器，而是已经在 TikTok 的高流量应用程序中使用的生产就绪框架。
 
-它并不支持你发布蹩脚舞蹈视频的主 TikTok 应用程序，但它支持搜索面板、TikTok Studio 和其他一些辅助应用程序。我觉得这非常有趣，因为 ByteDance 是 Flutter 的早期采用者之一，如今仍在 Flutter 展示区。此外，如果他们想使用网络技术来构建移动应用程序，为什么不直接使用 React、Native、Ionic 或 NativeScript 等技术，而要重新发明轮子呢？说不清道不明的原因是，创建新框架能为美国开发人员提供工作保障。但他们博文中的官方理由主要是关于性能。纵观历史，很多人都批评 React Native 没有真正的原生感。这是因为它依赖于一个单线程 JavaScript 桥接器，允许 JavaScript 代码与 iOS 上的 Swift 或 Android 上的 Kotlin 等原生代码通信。
+它并不支持你发布蹩脚舞蹈视频的主 TikTok 应用程序，但它支持搜索面板、TikTok Studio 和其他一些辅助应用程序。我觉得这非常有趣，因为 ByteDance 是 Flutter 的早期采用者之一，如今仍在 Flutter 展示区。此外，如果他们想使用网络技术来构建移动应用程序，为什么不直接使用 React、Native、Ionic 或 NativeScript 等技术，而要重新发明轮子呢？说不清道不明的原因是，创建新框架能为美国开发人员提供工作保障。但他们博文中的官方理由主要是关于性能。纵观历史，很多人都批评 React Native 没有真正的原生感。这是因为它依赖于一个单线程 Javascript 桥接器，允许 Javascript 代码与 iOS 上的 Swift 或 Android 上的 Kotlin 等原生代码通信。
 
 但是，单线程桥是一个很大的瓶颈，会产生性能问题。
 
-React Native 团队通过构建一个名为 Hermes 的自定义引擎来解决这个问题，并在几年前发布了织物渲染器。有些人将其称为新的改进桥，或者无桥架构。但 ByteDance 采用了不同的方法，链接使用双线程架构，用户代码和框架代码被分成两个不同的运行时。主线程由 PrimJs 驱动，而 PrimJs 本身是基于 QuickJs 构建的，后者是一个 210 千字节的小型 JavaScript 引擎。它的任务是处理事件处理等同步用户界面任务，而用户代码则在 A 上运行，这意味着你编写的低效代码不会阻塞主线程，也不会降低性能。最终的结果是，终端用户可以立即看到第一帧的渲染效果。
+React Native 团队通过构建一个名为 Hermes 的自定义引擎来解决这个问题，并在几年前发布了织物渲染器。有些人将其称为新的改进桥，或者无桥架构。但 ByteDance 采用了不同的方法，链接使用双线程架构，用户代码和框架代码被分成两个不同的运行时。主线程由 PrimJs 驱动，而 PrimJs 本身是基于 QuickJs 构建的，后者是一个 210 千字节的小型 Javascript 引擎。它的任务是处理事件处理等同步用户界面任务，而用户代码则在 A 上运行，这意味着你编写的低效代码不会阻塞主线程，也不会降低性能。最终的结果是，终端用户可以立即看到第一帧的渲染效果。
 
 换句话说，就是不会出现空白屏幕。这很酷。但更棒的是，这个引擎与框架无关。你不必使用 React，也可以用 Svelte Vue 或任何你想要的框架来构建你的应用。此外，它还支持用于样式设计的实际原生 CSS 功能，如过渡、动画、变量、渐变等，这对于网络开发人员来说更加直观。
 

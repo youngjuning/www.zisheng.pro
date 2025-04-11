@@ -1,5 +1,5 @@
 ---
-description: 'Hoisting is the process of the JavaScript interpreter pulling up or hoisting var variable and function declarations to the top of their scope before any code is executed.'
+description: 'Hoisting is the process of the Javascript interpreter pulling up or hoisting var variable and function declarations to the top of their scope before any code is executed.'
 keywords:  [程序员, 英文晨读]
 group:
   title: 全栈英文晨读
@@ -7,11 +7,11 @@ order: 999
 toc: content
 ---
 
-## JavaScript Hoisting Explained in 4 Minutes
+## Javascript Hoisting Explained in 4 Minutes
 
-Hoisting is the process of the JavaScript interpreter pulling up or hoisting `var` variable and function declarations to the top of their scope before any code is executed. So this is the equivalent of them being at the top of your program, even when they are not. It's a fairly simple idea that can lead to some strange behavior that can get confusing at times. As we'll see in some of the examples coming up, we're going to cover exactly how hoisting works and go over some techniques to avoid it.
+Hoisting is the process of the Javascript interpreter pulling up or hoisting `var` variable and function declarations to the top of their scope before any code is executed. So this is the equivalent of them being at the top of your program, even when they are not. It's a fairly simple idea that can lead to some strange behavior that can get confusing at times. As we'll see in some of the examples coming up, we're going to cover exactly how hoisting works and go over some techniques to avoid it.
 
-As we just discussed, `var` variable declarations are hoisted to the top of their scope. So the code that you can currently see on screen is actually processed by the JavaScript interpreter. Like this, you can see that the declaration has been separated from the initialization, as the declaration has been hoisted above all of the other lines of code. In that scope, this means that it's possible to reference the variable even before it has been declared. `var` variable initializations are not hoisted, however, so the variable will not have a value.
+As we just discussed, `var` variable declarations are hoisted to the top of their scope. So the code that you can currently see on screen is actually processed by the Javascript interpreter. Like this, you can see that the declaration has been separated from the initialization, as the declaration has been hoisted above all of the other lines of code. In that scope, this means that it's possible to reference the variable even before it has been declared. `var` variable initializations are not hoisted, however, so the variable will not have a value.
 
 
 Let's look at an example to see what's going on. So here we're printing out `x` and declaring it. After that, you can see that the result is `undefined` and not an error as you'd get in other languages. As the declaration was hoisted up before the `console.log` statement was executed. obviously if we remove the declaration, we'll get an error as the variable doesn't exist anymore.
@@ -32,22 +32,22 @@ As we get our statement printed out from the console.
 
 Log in the function body. This function call works because of the same hoisting principles that apply to `var` declarations, the function declaration is hoisted up to the top of its scope. So, when our first line is executed, which is our function call, the program is already aware of the function. However, hoisting does not apply to anonymous functions. Let's have a look at an example.
 
-As you can see, we've got the same sort of example. But we've now assigned the function to a variable anonymously, and we now receive an error. Because it's only name functions that get hoisted, so this is the second approach to avoiding hoisting, and that is by avoiding using name functions. Hoisting is a good topic to be aware of. Not only because it can cause some strange behavior in your code, but because a significant number of developers who use JavaScript day-to-day probably aren't even aware of this taking place. This makes hoisting a good topic for an interview question, as it can really test the candidates knowledge of the language. If you enjoyed this video, like and subscribe as I've got some really interesting videos coming up.
+As you can see, we've got the same sort of example. But we've now assigned the function to a variable anonymously, and we now receive an error. Because it's only name functions that get hoisted, so this is the second approach to avoiding hoisting, and that is by avoiding using name functions. Hoisting is a good topic to be aware of. Not only because it can cause some strange behavior in your code, but because a significant number of developers who use Javascript day-to-day probably aren't even aware of this taking place. This makes hoisting a good topic for an interview question, as it can really test the candidates knowledge of the language. If you enjoyed this video, like and subscribe as I've got some really interesting videos coming up.
 
 Comment what you'd like to see me cover next? Cheers.
 
-## 4 分钟解释 JavaScript 提升
+## 4 分钟解释 Javascript 提升
 
 > 喜马拉雅：https://m.ximalaya.com/sound/824016860?from=pc
 
-提升是 JavaScript 解释器在执行任何代码之前，将 `var` 变量和函数声明拉高或提升到其作用域顶端的过程。因此，这相当于它们处于你的程序的顶层，即使它们并不在顶层。这是一个相当简单的想法，但却可能导致一些奇怪的行为，有时会令人困惑。在接下来的示例中，我们将详细介绍 “提升 ”是如何工作的，并介绍一些避免 “提升 ”的技巧。
+提升是 Javascript 解释器在执行任何代码之前，将 `var` 变量和函数声明拉高或提升到其作用域顶端的过程。因此，这相当于它们处于你的程序的顶层，即使它们并不在顶层。这是一个相当简单的想法，但却可能导致一些奇怪的行为，有时会令人困惑。在接下来的示例中，我们将详细介绍 “提升 ”是如何工作的，并介绍一些避免 “提升 ”的技巧。
 
 ```js
 var x = 27;
 console.log(x); // 27
 ```
 
-正如我们刚才所讨论的，`var` 变量声明会被提升到其作用域的顶端。因此，你目前在屏幕上看到的代码实际上是由 JavaScript 解释器处理的。像这样，你可以看到声明已经与初始化分离，因为声明已经被悬挂到所有其他代码行的上方。在这个范围内，这意味着甚至在变量被声明之前就可以引用它。然而，`var` 变量的初始化不会被悬挂，因此变量不会有值。
+正如我们刚才所讨论的，`var` 变量声明会被提升到其作用域的顶端。因此，你目前在屏幕上看到的代码实际上是由 Javascript 解释器处理的。像这样，你可以看到声明已经与初始化分离，因为声明已经被悬挂到所有其他代码行的上方。在这个范围内，这意味着甚至在变量被声明之前就可以引用它。然而，`var` 变量的初始化不会被悬挂，因此变量不会有值。
 
 ```js
 var x;
@@ -120,7 +120,7 @@ var notHoisted = function() {
 }
 ```
 
-正如你所看到的，我们得到了同样的例子。但是，我们现在将函数匿名赋值给了一个变量，结果出现了错误。因为只有名称函数才会被挂起，所以这是避免挂起的第二种方法，即避免使用名称函数。提升是一个值得注意的话题。这不仅是因为它会在你的代码中导致一些奇怪的行为，还因为大量日常使用 JavaScript 的开发人员可能根本没有意识到这一点。因此，提升是一个很好的面试问题，因为它可以真正测试应聘者的语言知识。如果你喜欢这段视频，请点赞并订阅，因为我还会陆续推出一些非常有趣的视频。
+正如你所看到的，我们得到了同样的例子。但是，我们现在将函数匿名赋值给了一个变量，结果出现了错误。因为只有名称函数才会被挂起，所以这是避免挂起的第二种方法，即避免使用名称函数。提升是一个值得注意的话题。这不仅是因为它会在你的代码中导致一些奇怪的行为，还因为大量日常使用 Javascript 的开发人员可能根本没有意识到这一点。因此，提升是一个很好的面试问题，因为它可以真正测试应聘者的语言知识。如果你喜欢这段视频，请点赞并订阅，因为我还会陆续推出一些非常有趣的视频。
 
 ## 单词&短语
 

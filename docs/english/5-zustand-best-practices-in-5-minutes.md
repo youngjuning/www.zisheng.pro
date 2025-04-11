@@ -25,7 +25,7 @@ To enforce this, we're going to remove the export on the `useTodoStore` hook. Th
 
 My next best practice is to use atomic stable selectors when you have multiple state values. One practice that might be coming from Redux users is to construct an object selector. This means in our hook, we extract all of the state that we need for a component in a newly constructed object. Like the `todos` and `isSubscribed`, don't do this. Zustand uses stricter quality to detect changes.
 
-The trouble is, this selector, thanks to the way the JavaScript works, creates a completely new object in memory. Every store update failing that stricter quality check and causing unnecessary re-renders, even when neither `todos` or the `isSubscribed` value has changed. That's why I prefer to just use two hooks, so I'll create `useSubscribed` to obtain that value. Now, if you really want object selectors, you can use the `useShallow` hook. Wrapping this around our selector. Means that Zustand performs a shallow comparison it checks if the individual properties of the object have changed, rather than comparing object references.
+The trouble is, this selector, thanks to the way the Javascript works, creates a completely new object in memory. Every store update failing that stricter quality check and causing unnecessary re-renders, even when neither `todos` or the `isSubscribed` value has changed. That's why I prefer to just use two hooks, so I'll create `useSubscribed` to obtain that value. Now, if you really want object selectors, you can use the `useShallow` hook. Wrapping this around our selector. Means that Zustand performs a shallow comparison it checks if the individual properties of the object have changed, rather than comparing object references.
 
 Personally, though, I prefer to just keep it atomic well, until we come to our actions. In this next tip, this tip is to keep your store organized by separating actions from state. Actions are our functions that modify state. These are static, they don't change, so we can create a single actions object on our store to hold all of them.
 
@@ -57,7 +57,7 @@ useTodoStore"。为此，我们使用 Zustand 的 Create 函数，并立即调�
 
 我的下一个最佳实践是，当你有多个状态值时，使用原子稳定选择器。Redux 用户可能会采用的一种做法是构建对象选择器。这意味着在我们的钩子中，我们会在一个新构建的对象中提取组件所需的所有状态。与 `todos` 和 `isSubscribed` 一样，不要这样做。Zustand 使用更严格的质量来检测变化。
 
-问题是，由于 JavaScript 的工作方式，这个选择器会在内存中创建一个全新的对象。即使 `todos` 或 `isSubscribed` 值都没有改变，每次商店更新都会导致更严格的质量检查失败，并引起不必要的重新渲染。这就是为什么我更愿意只使用两个钩子，所以我将创建 `useSubscribed` 来获取该值。现在，如果你真的想要对象选择器，可以使用 `useShallow` 钩子。将此钩子缠绕在我们的选择器上。这意味着 Zustand 会执行浅层比较，检查对象的各个属性是否发生了变化，而不是比较对象引用。
+问题是，由于 Javascript 的工作方式，这个选择器会在内存中创建一个全新的对象。即使 `todos` 或 `isSubscribed` 值都没有改变，每次商店更新都会导致更严格的质量检查失败，并引起不必要的重新渲染。这就是为什么我更愿意只使用两个钩子，所以我将创建 `useSubscribed` 来获取该值。现在，如果你真的想要对象选择器，可以使用 `useShallow` 钩子。将此钩子缠绕在我们的选择器上。这意味着 Zustand 会执行浅层比较，检查对象的各个属性是否发生了变化，而不是比较对象引用。
 
 不过，就我个人而言，我更喜欢保持原子状态，直到我们开始执行操作。在接下来的提示中，这个提示是通过将操作与状态分离来保持你的存储有序。操作是我们修改状态的函数。这些函数是静态的，不会改变，因此我们可以在存储中创建一个单独的动作对象来保存所有的动作。
 
@@ -75,4 +75,4 @@ useTodoStore"。为此，我们使用 Zustand 的 Create 函数，并立即调�
 
 ## 单词&短语
 
-1. Zustand [zuːstænd]：Zustand 是一个用于 JavaScript 应用程序的状态管理库
+1. Zustand [zuːstænd]：Zustand 是一个用于 Javascript 应用程序的状态管理库

@@ -18,20 +18,20 @@ toc: content
 - [React](https://react.dev/learn)
 - [Patterns.dev](https://www.patterns.dev/)
 - [MDN Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [The Modern Javascript Tutorial](https://javascript.info/)
 
 ## 英文书籍
 
-### JavaScript 核心经典
+### Javascript 核心经典
 
-1. **《Professional JavaScript for Web Developers》（第4版）**
-   - **推荐理由**：中文版《JavaScript高级程序设计》的英文原版，系统讲解 JavaScript 核心概念、ES6+ 新特性及浏览器 API，适合从基础到进阶的全阶段学习。
+1. **《Professional Javascript for Web Developers》（第4版）**
+   - **推荐理由**：中文版《JavaScript高级程序设计》的英文原版，系统讲解 Javascript 核心概念、ES6+ 新特性及浏览器 API，适合从基础到进阶的全阶段学习。
    - **语言难度**：中等，技术术语丰富，适合边学技术边积累专业词汇。
-2. **《JavaScript: The Definitive Guide》（犀牛书）**
+2. **《Javascript: The Definitive Guide》（犀牛书）**
    - **推荐理由**：前端开发者必读的权威参考书，覆盖语言特性、浏览器 API 及 Node.js 实现，内容详尽。
    - **语言特点**：解释性文字较多，适合精读以提升长句理解能力。
 3. **《You Don't Know JS》系列**
-   - **推荐理由**：深入剖析 JavaScript 底层机制，如作用域、闭包、异步等，英文原版语言简洁生动。
+   - **推荐理由**：深入剖析 Javascript 底层机制，如作用域、闭包、异步等，英文原版语言简洁生动。
    - **学习建议**：分册阅读，每本专注一个主题，适合碎片化学习。
 
 ### CSS 与 HTML 进阶
@@ -51,7 +51,7 @@ toc: content
 
 2. **《Design Patterns: Elements of Reusable Object-Oriented Software》**
    - **推荐理由**：经典设计模式指南，英文原版逻辑严谨，适合提升技术文档理解能力。
-   - **学习建议**：结合 JavaScript 实现案例（如《JavaScript设计模式与开发实践》中文版）对比阅读。
+   - **学习建议**：结合 Javascript 实现案例（如《JavaScript设计模式与开发实践》中文版）对比阅读。
 
 ### 框架与工程化
 

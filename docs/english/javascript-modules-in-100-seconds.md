@@ -1,6 +1,6 @@
 ---
-title: JavaScript Modules in 100 Seconds
-description: 'JavaScript, a high-level, single-threaded, garbage-collected, interpreted, or just-in-time compiled prototype-based, multi-paradigm, dynamic language with a non-blocking event loop, made famous for building websites.'
+title: Javascript Modules in 100 Seconds
+description: 'Javascript, a high-level, single-threaded, garbage-collected, interpreted, or just-in-time compiled prototype-based, multi-paradigm, dynamic language with a non-blocking event loop, made famous for building websites.'
 keywords: [程序员, 英文晨读]
 group:
   title: 全栈英文晨读
@@ -11,9 +11,9 @@ toc: content
 
 > 喜马拉雅：https://m.ximalaya.com/sound/820637300?from=pc
 
-# JavaScript Modules in 100 Seconds
+# Javascript Modules in 100 Seconds
 
-Let's say you have some JavaScript code that lives in a single file. You can turn this code into a module by exporting it. This allows other files to use an import statement to import this file as a dependency. So a module is nothing more than a file that exports its own code. This allows developers to organize code within their own projects or share code with the world through package managers like NPM.
+Let's say you have some Javascript code that lives in a single file. You can turn this code into a module by exporting it. This allows other files to use an import statement to import this file as a dependency. So a module is nothing more than a file that exports its own code. This allows developers to organize code within their own projects or share code with the world through package managers like NPM.
 
 In modern front-end development, it's most common to use ES modules, which became an official language feature in 2015.
 
@@ -41,7 +41,7 @@ This has been ES modules in 100 seconds. Thanks for watching and I will see you 
 
 ## 译文
 
-比方说，你有一些存在于单个文件中的 JavaScript 代码。你可以通过导出将这些代码变成一个模块。这样，其他文件就可以使用导入语句将该文件作为依赖文件导入。因此，模块只不过是一个导出自身代码的文件。这样，开发人员就可以在自己的项目中组织代码，或通过包管理器（如 NPM）与全世界共享代码。
+比方说，你有一些存在于单个文件中的 Javascript 代码。你可以通过导出将这些代码变成一个模块。这样，其他文件就可以使用导入语句将该文件作为依赖文件导入。因此，模块只不过是一个导出自身代码的文件。这样，开发人员就可以在自己的项目中组织代码，或通过包管理器（如 NPM）与全世界共享代码。
 
 在现代前端开发中，使用 ES 模块最为常见，该模块在 2015 年成为官方语言特性。
 

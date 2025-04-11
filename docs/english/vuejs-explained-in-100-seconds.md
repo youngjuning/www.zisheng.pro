@@ -1,5 +1,5 @@
 ---
-description: "Vue.js. It's a JavaScript framework for building front-end UIs."
+description: "Vue.js. It's a Javascript framework for building front-end UIs."
 keywords:  [程序员, 英文晨读]
 group:
   title: 全栈英文晨读
@@ -11,7 +11,7 @@ toc: content
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/nhBVL41-_Cw?si=tfZhbPwrIX79Ijki" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Vue.js. It's a JavaScript framework for building front-end UIs. In Vue. You can start simple and then progressively add in the tools and features that you need to build a complex web application. At its core, it provides a way to build components that encapsulate data or state in your JavaScript and then connect that state reactively to a template in HTML. We call these components declarative views, because the same data inputs will always produce the same output in the visual UI.
+Vue.js. It's a Javascript framework for building front-end UIs. In Vue. You can start simple and then progressively add in the tools and features that you need to build a complex web application. At its core, it provides a way to build components that encapsulate data or state in your Javascript and then connect that state reactively to a template in HTML. We call these components declarative views, because the same data inputs will always produce the same output in the visual UI.
 
 When we declare data on this data object, it links or binds it to the HTML on the template. When the value of the data changes, the component will automatically re-render. Or, in other words, it's reactive. And the framework does a ton of work under the hood to make sure that this process is performant across a huge component tree. We can work with this data in the template thanks to Vue's HTML-based template syntax, we can interpolate a value or expression using double braces.
 
@@ -27,7 +27,7 @@ Stay tuned for a full length tutorial here on YouTube in the near future, and ch
 
 > 喜马拉雅：https://xima.tv/1_4oqOGM?_sonic=0
 
-Vue.js。这是一个用于构建前端用户界面的 JavaScript 框架。在 Vue.js 中，您可以从简单的开始，然后逐步添加构建复杂网络应用所需的工具和功能。你可以从简单的开始，然后逐步添加构建复杂网络应用所需的工具和功能。Vue 的核心是提供一种构建组件的方法，这些组件在你的 JavaScript 中封装数据或状态，然后将这些状态反应式地连接到 HTML 中的模板。我们称这些组件为声明式视图，因为相同的数据输入总是会在可视化用户界面中产生相同的输出。
+Vue.js。这是一个用于构建前端用户界面的 Javascript 框架。在 Vue.js 中，您可以从简单的开始，然后逐步添加构建复杂网络应用所需的工具和功能。你可以从简单的开始，然后逐步添加构建复杂网络应用所需的工具和功能。Vue 的核心是提供一种构建组件的方法，这些组件在你的 Javascript 中封装数据或状态，然后将这些状态反应式地连接到 HTML 中的模板。我们称这些组件为声明式视图，因为相同的数据输入总是会在可视化用户界面中产生相同的输出。
 
 当我们在该数据对象上声明数据时，它会将其链接或绑定到模板上的 HTML。当数据值发生变化时，组件将自动重新渲染。换句话说，它是被动的。该框架在引擎盖下做了大量工作，以确保这一过程在庞大的组件树中表现良好。得益于 Vue 基于 HTML 的模板语法，我们可以在模板中处理这些数据。
 

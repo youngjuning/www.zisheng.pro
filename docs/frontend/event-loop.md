@@ -1,7 +1,7 @@
 ---
 order: 0
 title: 事件循环
-description: '涉及 HTML、CSS、JavaScript 等基础语言，以及框架与库、构建工具、性能优化等相关知识。'
+description: '涉及 HTML、CSS、Javascript 等基础语言，以及框架与库、构建工具、性能优化等相关知识。'
 keywords: [前端, 全栈, 紫升, 事件循环]
 group:
   title: 技术深度

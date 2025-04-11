@@ -35,7 +35,7 @@ proseWrap: preserve
 
 ## Atwood's law [ˈætwɔːd]
 
-- 阿特伍德定律：Any application that can be written in JavaScript will eventually be written in JavaScript.（任何能用 JavaScript 编写的应用最终都会用 JavaScript 编写。）
+- 阿特伍德定律：Any application that can be written in Javascript will eventually be written in Javascript.（任何能用 Javascript 编写的应用最终都会用 Javascript 编写。）
 
 ## SpeechRecognition [ˈspitʃrɪkəɡˈnɪʃən]
 
@@ -43,32 +43,32 @@ The SpeechRecognition interface of the Web Speech API is the controller interfac
 
 **SpeechRecognition** 接口是网络语音 API的控制接口，用于识别服务；它还处理从识别服务发送的SpeechRecognitionEvent。
 
-## JavaScript [dʒɑːvəskrɪpt]
+## Javascript [dʒɑːvəskrɪpt]
 
-JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
+Javascript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. Javascript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 
-JavaScript（JS）是一种具有函数优先特性的轻量级、解释型或者说即时编译型的编程语言。虽然作为 Web 页面中的脚本语言被人所熟知，但是它也被用到了很多非浏览器环境中，例如 Node.js、Apache CouchDB、Adobe Acrobat 等。进一步说，JavaScript 是一种基于原型、多范式、单线程的动态语言，并且支持面向对象、命令式和声明式（如函数式编程）风格。
+Javascript（JS）是一种具有函数优先特性的轻量级、解释型或者说即时编译型的编程语言。虽然作为 Web 页面中的脚本语言被人所熟知，但是它也被用到了很多非浏览器环境中，例如 Node.js、Apache CouchDB、Adobe Acrobat 等。进一步说，Javascript 是一种基于原型、多范式、单线程的动态语言，并且支持面向对象、命令式和声明式（如函数式编程）风格。
 
 ## React [riˈækt]
 
-React is a declarative, efficient, and flexible **JavaScript library** developed by Facebook (now Meta) for building **user interfaces**, particularly single-page applications (SPAs). It revolutionizes front-end development through its **component-based architecture**, allowing developers to create reusable UI components that manage their own state and logic. By leveraging a **virtual DOM**, React optimizes performance by minimizing direct manipulation of the actual DOM, updating only the parts of the interface that change. Its **declarative syntax** (JSX) enables a seamless blend of HTML-like templates with JavaScript logic, simplifying code readability and maintenance. React also enforces **one-way data flow**, ensuring predictable state management, and supports modern features like **Hooks** for stateful functional components. With a robust ecosystem (e.g., React Native for mobile apps, Redux for state management) and a vast developer community, React has become a cornerstone of modern web development.
+React is a declarative, efficient, and flexible **Javascript library** developed by Facebook (now Meta) for building **user interfaces**, particularly single-page applications (SPAs). It revolutionizes front-end development through its **component-based architecture**, allowing developers to create reusable UI components that manage their own state and logic. By leveraging a **virtual DOM**, React optimizes performance by minimizing direct manipulation of the actual DOM, updating only the parts of the interface that change. Its **declarative syntax** (JSX) enables a seamless blend of HTML-like templates with Javascript logic, simplifying code readability and maintenance. React also enforces **one-way data flow**, ensuring predictable state management, and supports modern features like **Hooks** for stateful functional components. With a robust ecosystem (e.g., React Native for mobile apps, Redux for state management) and a vast developer community, React has become a cornerstone of modern web development.
 
-**React** 是一个**声明式、高效且灵活**的 **JavaScript 库**，由 Facebook（现 Meta）开发，专注于构建**用户界面**，尤其是单页应用（SPA）。它通过**组件化架构**革新了前端开发模式，允许开发者创建可复用的 UI 组件，这些组件能自主管理状态和逻辑。
-通过**虚拟 DOM** 技术，React 优化了性能：仅在状态变化时计算差异并更新实际 DOM 的对应部分，而非直接操作整个 DOM 树。其**声明式语法（JSX）** 将类 HTML 模板与 JavaScript 逻辑无缝结合，提升代码可读性和可维护性。
+**React** 是一个**声明式、高效且灵活**的 **Javascript 库**，由 Facebook（现 Meta）开发，专注于构建**用户界面**，尤其是单页应用（SPA）。它通过**组件化架构**革新了前端开发模式，允许开发者创建可复用的 UI 组件，这些组件能自主管理状态和逻辑。
+通过**虚拟 DOM** 技术，React 优化了性能：仅在状态变化时计算差异并更新实际 DOM 的对应部分，而非直接操作整个 DOM 树。其**声明式语法（JSX）** 将类 HTML 模板与 Javascript 逻辑无缝结合，提升代码可读性和可维护性。
 React 采用**单向数据流**确保状态管理的可预测性，并引入 **Hooks**（如 `useState` 和 `useEffect`）支持函数组件管理状态与副作用，逐步替代传统类组件。
 凭借强大的生态系统（如 React Native 用于移动开发、Redux 用于状态管理）和庞大社区，React 已成为现代 Web 开发的核心工具之一。
 
 ### Redux [ˈriːdʌks]
 
-Redux is a predictable state container for JavaScript applications. It's mainly used to manage the state of applications and is widely utilized especially in complex front - end single - page applications (SPAs) or React applications. The core concept is that the entire state of an application is stored in a single object tree, and this state tree is read - only. When the state needs to be modified, it can only be done by dispatching a plain object known as an "action" to describe what has occurred. Then, a function called a "reducer" generates a new state according to this action. This approach makes state changes predictable and facilitates debugging and understanding the state flow of an application. For example, in a large - scale e - commerce website application, the state of the shopping cart (such as adding items, deleting items, modifying quantities, etc.) can be well - managed by Redux, which ensures that every change to the shopping cart state can be tracked and understood.
+Redux is a predictable state container for Javascript applications. It's mainly used to manage the state of applications and is widely utilized especially in complex front - end single - page applications (SPAs) or React applications. The core concept is that the entire state of an application is stored in a single object tree, and this state tree is read - only. When the state needs to be modified, it can only be done by dispatching a plain object known as an "action" to describe what has occurred. Then, a function called a "reducer" generates a new state according to this action. This approach makes state changes predictable and facilitates debugging and understanding the state flow of an application. For example, in a large - scale e - commerce website application, the state of the shopping cart (such as adding items, deleting items, modifying quantities, etc.) can be well - managed by Redux, which ensures that every change to the shopping cart state can be tracked and understood.
 
-Redux 是一个用于 JavaScript 应用程序的可预测状态容器。它主要用于管理应用的状态，特别是在复杂的前端单页面应用（SPA）或者 React 应用中被广泛使用。它的核心概念是将应用的整个状态存储在一个单一的对象树中，这个状态树是只读的。当要修改状态时，只能通过发送一个被称为 `action` 的纯对象来描述发生了什么。然后有一个被称为 `reducer` 的函数会根据这个 `action` 来生成新的状态。这种方式使得状态的变化变得可预测，便于调试和理解应用的状态流程。例如，在一个大型的电商网站应用中，购物车的状态（商品的添加、删除、数量修改等）就可以很好地用 Redux 来管理，它能确保购物车状态的每一次改变都是可以追踪和理解的。
+Redux 是一个用于 Javascript 应用程序的可预测状态容器。它主要用于管理应用的状态，特别是在复杂的前端单页面应用（SPA）或者 React 应用中被广泛使用。它的核心概念是将应用的整个状态存储在一个单一的对象树中，这个状态树是只读的。当要修改状态时，只能通过发送一个被称为 `action` 的纯对象来描述发生了什么。然后有一个被称为 `reducer` 的函数会根据这个 `action` 来生成新的状态。这种方式使得状态的变化变得可预测，便于调试和理解应用的状态流程。例如，在一个大型的电商网站应用中，购物车的状态（商品的添加、删除、数量修改等）就可以很好地用 Redux 来管理，它能确保购物车状态的每一次改变都是可以追踪和理解的。
 
 ### Zustand [zuːstænd]
 
-Zustand is a state management library for JavaScript applications. It provides a simple and efficient way to manage and share state across different components. With Zustand, you can create a store that holds the application's state and allows components to access and update it. It's designed to be lightweight and easy to use, enabling developers to handle complex state - related operations without a lot of boilerplate code. It's especially useful in React applications, where it can help to streamline the process of passing data between components and keeping the state consistent.
+Zustand is a state management library for Javascript applications. It provides a simple and efficient way to manage and share state across different components. With Zustand, you can create a store that holds the application's state and allows components to access and update it. It's designed to be lightweight and easy to use, enabling developers to handle complex state - related operations without a lot of boilerplate code. It's especially useful in React applications, where it can help to streamline the process of passing data between components and keeping the state consistent.
 
-Zustand 是一个用于 JavaScript 应用程序的状态管理库。它提供了一种简单且高效的方式来在不同组件之间管理和共享状态。通过使用Zustand，你可以创建一个存储应用程序状态的存储区，并且允许组件访问和更新这个状态。它的设计轻巧且易于使用，使得开发者能够处理复杂的与状态相关的操作，同时无需大量的样板代码。它在React应用程序中尤其有用，在这些程序中，它有助于简化组件之间传递数据的过程，并保持状态的一致性。
+Zustand 是一个用于 Javascript 应用程序的状态管理库。它提供了一种简单且高效的方式来在不同组件之间管理和共享状态。通过使用Zustand，你可以创建一个存储应用程序状态的存储区，并且允许组件访问和更新这个状态。它的设计轻巧且易于使用，使得开发者能够处理复杂的与状态相关的操作，同时无需大量的样板代码。它在React应用程序中尤其有用，在这些程序中，它有助于简化组件之间传递数据的过程，并保持状态的一致性。
 
 <!-- #### Hooks
 
@@ -80,9 +80,9 @@ Zustand 是一个用于 JavaScript 应用程序的状态管理库。它提供了
 
 ## Node.js [nəʊdʒeɪ-es]
 
-Node.js is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+Node.js is a free, open-source, cross-platform Javascript runtime environment that lets developers create servers, web apps, command line tools and scripts.
 
-Node.js 是一个免费、开源的跨平台 JavaScript 运行时环境，让开发者创建服务器、Web 应用程序、命令行工具和脚本。
+Node.js 是一个免费、开源的跨平台 Javascript 运行时环境，让开发者创建服务器、Web 应用程序、命令行工具和脚本。
 
 > 发音技巧：两个 d 在一起，念成一个 d
 
@@ -100,16 +100,16 @@ Prototype-based programming is a style of object-oriented programming in which c
 
 ## Expo [ˈekspoʊ]
 
-Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
+Expo is an open-source platform for making universal native apps for Android, iOS, and the web with Javascript and React.
 
-Expo 是一个开源平台，用于使用 JavaScript 和 React 为 Android、iOS 和 Web 制作通用原生应用程序。
+Expo 是一个开源平台，用于使用 Javascript 和 React 为 Android、iOS 和 Web 制作通用原生应用程序。
 
 ## scope [skoʊp]
 
 - 作用域
   - 含义：作用域是指程序中变量、函数等标识符的可访问范围。例如，在编程语言中，变量的作用域决定了在程序的哪些部分可以访问和修改该变量。它有助于控制变量的生命周期和可见性，避免命名冲突等问题。
   - 例句：
-    - In JavaScript, the scope of a variable declared inside a function is limited to that function.（在 JavaScript 中，在函数内部声明的变量的作用域仅限于该函数。）
+    - In Javascript, the scope of a variable declared inside a function is limited to that function.（在 Javascript 中，在函数内部声明的变量的作用域仅限于该函数。）
     - The scope of a global variable is throughout the entire program.（全局变量的作用域贯穿整个程序。
 
 ## Lynx [lɪŋks]
