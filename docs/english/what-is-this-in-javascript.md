@@ -57,6 +57,8 @@ I hope you learned something and I will see you in the next one.
 
 ## Javascript 中的 this 是什么？
 
+> https://m.ximalaya.com/sound/834855573?from=pc
+
 什么是 `this`？在 Javascript 中，它是一个关键字，用于引用另一个值，通常是一个代表当前执行上下文的对象。好吧，但执行上下文到底是什么意思？它指的是你的全局环境，比如浏览器或 node.Js，或者在函数内部使用时，它指的是在给定时间内调用该函数的对象。
 
 打开浏览器，运行 `console`。
