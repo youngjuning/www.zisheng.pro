@@ -15,7 +15,7 @@ export default defineConfig({
     nav: [
       { title: '英语', link: '/english' },
       { title: '算法', link: '/algorithm' },
-      { title: '博客', link: 'https://youngjuning.js.org' },
+      { title: '我的', link: '/myenv' },
       { title: '周刊', link: 'https://weekly.zisheng.pro' },
     ],
     hd: { rules: [] },
