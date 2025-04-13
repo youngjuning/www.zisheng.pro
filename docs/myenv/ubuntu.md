@@ -1,9 +1,13 @@
 ---
-title: Ubuntu
+title: Ubuntu 云服务器
+description: 紫升的阿里云 Ubuntu 云服务器
 nav:
   title: 我的
   order: 4
+toc: content
 ---
+
+- [阿里云服务器 8.5 折 首购优惠](https://www.aliyun.com/minisite/goods?userCode=s7fxsvww)
 
 ## 更新 Ubuntu
 
