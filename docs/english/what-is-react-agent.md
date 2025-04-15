@@ -7,7 +7,7 @@ order: 2
 toc: content
 ---
 
-## 什么是 ReAct agents
+## 什么是 ReAct agents？
 
 ReAct agents 是一种使用“推理和行动”（ReAct）的 AI agent 框架，该框架将思维链（CoT）推理与外部工具使用相结合。ReAct 框架增强了大语言模型（LLM）处理复杂任务和 agent 工作流中的决策能力。
 
@@ -153,7 +153,7 @@ ReAct agents 可以被多种方式设计和实现，无论是从头用 Python �
 
 ## What is a ReAct agents?
 
-<iframe src="https://www.ibm.com/think/topics/react-agent" width="100%" height="600px" style="border: 2px solid  #00cc99; border-radius: 10px;" />
+原文：https://www.ibm.com/think/topics/react-agent
 
 ## 单词&短语
 
