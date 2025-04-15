@@ -8,9 +8,9 @@ order: 4
 toc: content
 ---
 
-## 在语言模型中协同推理和行动
+## ReAct：在语言模型中协同推理和行动
 
-![](https://cdn.jsdelivr.net/gh/youngjuning/images@main/1744678111027.png)
+![在语言模型中协同推理和行动](https://cdn.jsdelivr.net/gh/youngjuning/images@main/1744678111027.png)
 
 语言模型在推理（例如思维链提示）和行动（例如 WebGPT、SayCan、ACT-1）方面越来越好，但这两个方向一直保持独立。
 
