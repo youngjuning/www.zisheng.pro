@@ -46,8 +46,8 @@ OpenAI API 中的消息角色主要有 system、user、assistant、function 和 
         - 图片内容部分，是一个 json 对象：
             - **type**：【必须】提供的 string 类型，表示内容部分的类型，一般是 `"image_url"`
             - **image_url**：【必须】提供的 json 对象类型，字段有：
-            - **url**：【必须】提供的 string 类型，图像的 URL 或 Base64 编码的图像数据
-            - **detail**：【可选】的 string 类型，一般默认是 `"auto"`
+              - **url**：【必须】提供的 string 类型，图像的 URL 或 Base64 编码的图像数据
+              - **detail**：【可选】的 string 类型，一般默认是 `"auto"`
 - **name**：【可选】的 string 类型，表示对话参与者的名称
 
 ### 消息示例
