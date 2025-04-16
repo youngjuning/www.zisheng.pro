@@ -15,6 +15,7 @@ export default defineConfig({
     nav: [
       { title: '英语', link: '/english' },
       { title: '算法', link: '/algorithm' },
+      { title: 'AGI', link: '/agi' },
       { title: '我的', link: '/myenv/ubuntu' },
       { title: '周刊', link: 'https://weekly.zisheng.pro' },
     ],
