@@ -12,13 +12,12 @@ export default defineConfig({
       github: 'https://github.com/youngjuning/zisheng.pro',
       twitter: 'https://twitter.com/luozhu2021',
     },
-    nav: [
-      { title: '英语', link: '/english' },
-      { title: '算法', link: '/algorithm' },
-      { title: 'AGI', link: '/agi' },
-      { title: '我的', link: '/myenv/ubuntu' },
-      { title: '周刊', link: 'https://weekly.zisheng.pro' },
-    ],
+    nav: {
+      mode: "append",
+      value: [
+        { title: '周刊', link: 'https://weekly.zisheng.pro' },
+      ],
+    },
     hd: { rules: [] },
     footer: `
 <div>Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫升</a></div>
