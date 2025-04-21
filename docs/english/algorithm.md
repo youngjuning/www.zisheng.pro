@@ -8,7 +8,7 @@ toc: content
 order: 2
 ---
 
-## algorithm [ˈælɡəˌrɪðəm]
+## algorithm [ˈælɡərɪðəm]
 
 An algorithm is a set of instructions or steps to solve a particular problem.（算法是解决特定问题的一组指令或步骤。）
 
