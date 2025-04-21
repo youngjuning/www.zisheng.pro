@@ -2,10 +2,10 @@
 group:
   title: 中等
   order: 2
-order: 11
-description: '给定一个长度为 n 的整数数组 height 。有 n 条垂线，第 i 条线的两个端点是 (i, 0) 和 (i, height[i]) 。'
-keywords: [全栈, 紫升, 力扣, 盛最多水的容器]
+order: 152
+description: '给你一个整数数组 nums ，请你找出数组中乘积最大的非空连续 子数组（该子数组中至少包含一个数字），并返回该子数组所对应的乘积。'
+keywords: [全栈, 紫升, 力扣, 乘积最大子数组]
 toc: content
 ---
 
-# 11. 乘积最大子数组
+# 152. 乘积最大子数组

@@ -8,6 +8,6 @@ keywords: [全栈, 紫升, 力扣, 接雨水]
 toc: content
 ---
 
-# 42. 接雨水
+# 42. ⭐️​接雨水
 
 - [如何高效解决接雨水问题](https://labuladong.online/algo/frequency-interview/trapping-rain-water/)
