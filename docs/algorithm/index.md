@@ -20,7 +20,7 @@ toc: content
 
 - [ ] ​[283. 移动零](/algorithm/283_move-zeroes)：双指针原地操作
 - [ ] [11. ​盛最多水的容器](/algorithm/11_container-with-most-water)：双指针贪心策略
-- [ ] [15. ⭐️​三数之和](/algorithm/15_3sum)：双指针去重逻辑
+- [x] [15. ⭐️​三数之和](/algorithm/15_3sum)：双指针去重逻辑
 - [ ] ​[42. ⭐️接雨水​](/algorithm/42_trapping-rain-water)：双指针或动态规划
 - [ ] [165. ⭐️比较版本号](/algorithm/165_compare-version-numbers)：客户端兼容性判断（改编自字节业务题）
 
