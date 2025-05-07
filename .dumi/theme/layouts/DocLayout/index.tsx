@@ -94,6 +94,15 @@ const DocLayout: FC = () => {
         {showSidebar && <Sidebar />}
         <Content>
           <article>
+            {/* zisheng_top */}
+            <Adsense
+              className="adsbygoogle"
+              style={{ display: 'block' }}
+              data-ad-client="ca-pub-5641491107630454"
+              data-ad-slot="1645676004"
+              data-ad-format="auto"
+              data-full-width-responsive="true"
+            />
             {outlet}
             <Giscus
               id="comments"
@@ -109,6 +118,15 @@ const DocLayout: FC = () => {
               theme="preferred_color_scheme"
               lang="zh-CN"
               loading="lazy"
+            />
+            {/* zisheng_bottom */}
+            <Adsense
+              className="adsbygoogle"
+              style={{ display: 'block' }}
+              data-ad-client="ca-pub-5641491107630454"
+              data-ad-slot="5702084207"
+              data-ad-format="auto"
+              data-full-width-responsive="true"
             />
           </article>
           <ContentFooter />
