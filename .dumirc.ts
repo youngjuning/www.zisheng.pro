@@ -19,11 +19,7 @@ export default defineConfig({
       ],
     },
     hd: { rules: [] },
-    footer: `
-<div>Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫升</a></div>
-<div>
-  本页访问量 <span id="busuanzi_value_page_pv"></span> | 本站总访问量 <span id="busuanzi_value_site_pv"></span> | 本站总访人数 <span id="busuanzi_value_site_uv"></span>
-</div>`,
+    footer: `<div>Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫升</a></div>`,
   },
   theme: {
     '@c-primary': '#00cc99',
