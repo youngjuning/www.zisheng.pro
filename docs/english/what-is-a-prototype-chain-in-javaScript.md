@@ -31,7 +31,7 @@ It's Javascript's way of enabling inheritance and code reuse. Want to dive deepe
 这是 Javascript 实现继承和代码重用的方法。想深入了解吗？请在评论中告诉我。别忘了点赞、分享和订阅 404Developer，获取更多 Javascript 技巧。下次见。
 
 ```js
-const obj = { name: "全栈紫升" };
+const obj = { name: "紫升" };
 
 const custom = Object.create(obj);
 

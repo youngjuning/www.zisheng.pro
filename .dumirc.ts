@@ -4,7 +4,7 @@ export default defineConfig({
   favicons: ['https://www.zisheng.pro/favicon.ico'],
   autoAlias: false,
   themeConfig: {
-    name: '全栈紫升',
+    name: '紫升',
     logo: 'https://www.zisheng.pro/avatar.png',
     prefersColor: { default: 'auto' },
     editLink: 'https://github.com/youngjuning/zisheng.pro/edit/master/{filename}',

@@ -1,6 +1,6 @@
 ---
 title: '计算机'
-description: '词汇库'
+description: '计算机词汇库'
 keywords: [全栈, 紫升, 程序员, 词汇库]
 group:
   title: 词汇库
@@ -111,6 +111,11 @@ Expo 是一个开源平台，用于使用 Javascript 和 React 为 Android、iOS
   - 例句：
     - In Javascript, the scope of a variable declared inside a function is limited to that function.（在 Javascript 中，在函数内部声明的变量的作用域仅限于该函数。）
     - The scope of a global variable is throughout the entire program.（全局变量的作用域贯穿整个程序。
+
+## schema [ˈskiːmə]
+
+- 在计算机科学中，schema 是指用于描述数据结构、关系、约束和元数据的模式或结构。
+- In computer science, schema refers to the pattern or structure used to describe the data structure, relationships, constraints, and metadata.
 
 ## Lynx [lɪŋks]
 
