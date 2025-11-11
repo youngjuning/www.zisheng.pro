@@ -23,3 +23,42 @@ Conda 是一个开源的软件包管理系统和环境管理系统。它主要�
 ## mamba <Badge>TODO</Badge>
 
 ## jupyter <Badge>TODO</Badge>
+
+## prompt engineer /prɑːmpt ˌendʒɪˈnɪr/
+
+A prompt engineer is a person who creates prompts for artificial intelligence (AI) models.
+
+一个提示工程师是给人工智能（AI）模型创建提示词的人。
+
+## token /ˈtoʊkən/ 标记
+
+在 ChatGPT 中，“token”（标记）是用于处理语言的一种基本单位，可以是一个单词、一个字符，或一个子词的集合，具体取决于文本的内容和语言模型的分词方式。
+
+**举个例子：**
+
+在“ChatGPT is amazing!”这句话中，经过模型的分词处理后可能被分解成以下几个 token：
+
+- Chat
+- GPT
+- is
+- amazing
+- !
+
+总共就是 5 个 token。
+
+**Token 的实际意义？**
+
+1. 数据处理的单位
+   GPT 模型在生成或理解文字内容时，会按 token 逐步处理输入内容，并基于 token 生成输出。
+2. 长度计算
+   ChatGPT 的输入和输出具有 token 限制。例如，GPT-3.5 的单次对话 token 限制为约 4,096 个 token，而 GPT-4 的单次对话 token 限制可能更高（比如 8,192 或 32,768 个 token，具体取决于设置和版本）。
+3. 计费方式
+   如果你在使用付费版的 ChatGPT，OpenAI 会根据对话中使用的 token 数量计费，包括输入和输出的总 token。
+
+**如何理解 token 在用户输入中的作用？**
+
+假设你输入了一段文字，长度为 100 个单词，但实际经过分词可能生成 150 个 token；随后，ChatGPT 生成的回复又包含 200 个 token，那么这次对话的总 token 消耗就是 `150 输入` + `200 输出` = `350 个 token`。
+
+简单来说，**token 是 GPT 模型处理和计数的核心单位，是分割语言信息的一种方式！**
+
+## tokenizer /ˈtoʊkənaɪzər/
