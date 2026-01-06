@@ -1,9 +1,9 @@
 ---
 title: 'What is this in JavaScript？'
 description: 'Javascript is single-threaded, it can only handle one task at a time. We can use web APis to interact with the features leveraged by the browser, and some of these APIS allow us to initiate async tasks in the background'
-keywords: [程序员, 英文晨读]
+keywords: [程序员, 紫升英文晨读]
 group:
-  title: 全栈英文晨读
+  title: 紫升英文晨读
 order: 18
 toc: content
 ---

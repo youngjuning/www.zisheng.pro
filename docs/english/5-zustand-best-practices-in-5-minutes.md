@@ -1,8 +1,8 @@
 ---
 description: "Zustand is incredibly simple to get started with"
-keywords:  [程序员, 英文晨读]
+keywords:  [程序员, 紫升英文晨读]
 group:
-  title: 全栈英文晨读
+  title: 紫升英文晨读
 order: 999
 toc: content
 ---

@@ -1,8 +1,8 @@
 ---
 description: 'Today, we look into an important concept in Javascript that not only helps us understand how variables are accessed by the engine, but also help us understand more complex concepts like closures.'
-keywords: [程序员, 英文晨读]
+keywords: [程序员, 紫升英文晨读]
 group:
-  title: 全栈英文晨读
+  title: 紫升英文晨读
 order: 999
 toc: content
 ---

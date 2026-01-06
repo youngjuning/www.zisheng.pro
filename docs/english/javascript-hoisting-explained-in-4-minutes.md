@@ -1,8 +1,8 @@
 ---
 description: 'Hoisting is the process of the Javascript interpreter pulling up or hoisting var variable and function declarations to the top of their scope before any code is executed.'
-keywords:  [程序员, 英文晨读]
+keywords:  [程序员, 紫升英文晨读]
 group:
-  title: 全栈英文晨读
+  title: 紫升英文晨读
 order: 999
 toc: content
 ---
