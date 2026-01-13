@@ -52,7 +52,7 @@ An algorithm is a mathematical method of solving problems both big and small. Th
   - for：[fɔːr] -(懒音)> [fər]
   - in：[ɪn] -(懒音)> [ən]
 - 连读：
-  - would you：[wʊdju]（我的油）-(同化)> [wʊdʤu]（我竹）
+  - would you：[wʊdju]（我的油）-(同化)> [wʊʤu]（我竹）
   - in a：[ɪnə] -(辅元连读)> [ɪnə] -(懒音)> [ənə]
 
 ## 📚 3. 重点语言积累
