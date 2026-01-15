@@ -11,7 +11,11 @@ toc: content
 
 # What's an algorithm?
 
-An algorithm is a mathematical method of solving problems both big and small. Though computers run algorithms constantly, humans can also solve problems with algorithms. David J. Malan explains how algorithms can be used in seemingly simple situations and also complex ones.
+What's an algorithm. In computer science, an algorithm is a set of instructions for solving some problem, step-by-step.
+
+Typically, algorithms are executed by computers, but we humans have algorithms as well.
+
+For instance, how would you go about counting the number of people in a room?
 
 ## 🔍 1. 盲听抓主旨
 
