@@ -59,6 +59,22 @@ For instance, how would you go about counting the number of people in a room?
   - would you：[wʊdju]（我的油）-(同化)> [wʊʤu]（我竹）
   - in a：[ɪnə] -(辅元连读)> [ɪnə] -(懒音)> [ənə]
 
+4、Well, if you're like me. You probably point at each person, one at a time, and count up from 0: 1,2,3,4 and so forth.
+
+- 弱读
+  - if：[ɪf] -> [əf] -> [f]
+    - well 以 [l] 结尾（可视为半元音）
+    - you're 以 [j] 开头（元音滑音）
+    - 中间的这个 [əf] 被挤压成一个**极短的过渡音**
+  - at：[æt] -> [ət]
+  - count up：[kaʊntʌp] -(懒人音)> [kaʊntəp]
+  - from：[frʌm] -（懒人音）> [frəm]
+  - and：[ənd] -(省音)> [ən]（t、d 在鼻音后极易省略）
+- 连读
+  - point at each：[pɔɪntæti:ʧ] -(Silent T)> [pɔɪnəi:ʧ]
+  - your're：[jər]（叶er）
+  - one at a time：[wʌnənəˈtaɪm](Silent T)
+
 ## 📚 3. 重点语言积累
 
 - algorithm [ˈælɡərɪðəm]：n. 算法，运算法则
@@ -69,6 +85,11 @@ For instance, how would you go about counting the number of people in a room?
 - for instance [fərˈɪnstəns]：例如；比如
 - how would you go about?：你会怎么着手做...？
 - the number of：...的数量
+- so forth：等等；诸如此类
+- probably：大概；或许；可能
+- point at：指向
+- one at a time：一个一个地：指逐个地、一个接一个地进行或处理。
+- count up from：从...开始数
 
 ## 🗣️ 4. 跟读任务
 
