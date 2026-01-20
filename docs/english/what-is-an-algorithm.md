@@ -9,6 +9,8 @@ order: 1
 toc: content
 ---
 
+> 本文出现了大量的懒人音、辅元连读、Silent-T 等语音现象
+
 # What's an algorithm?
 
 What's an algorithm. In computer science, an algorithm is a set of instructions for solving some problem, step-by-step.
@@ -16,6 +18,10 @@ What's an algorithm. In computer science, an algorithm is a set of instructions 
 Typically, algorithms are executed by computers, but we humans have algorithms as well.
 
 For instance, how would you go about counting the number of people in a room?
+
+Well, if you're like me. You probably point at each person, one at a time, and count up from 0: 1,2,3,4 and so forth.
+
+Well, that's an algorithm. In fact, let's try to express it a bit more formally in pseudocode, English-like syntax that resembles a programming language.
 
 ## 🔍 1. 盲听抓主旨
 
@@ -75,6 +81,14 @@ For instance, how would you go about counting the number of people in a room?
   - your're：[jər]（叶er）
   - one at a time：[wʌnənəˈtaɪm](Silent T)
 
+5、Well, that's an algorithm. In fact, let's try to express it a bit more formally in pseudocode, English-like syntax that resembles a programming language.
+  > 嗯，这就是一个算法。事实上，让我们试着用更正式一点的伪代码来描述它——这是一种类似英语的语法，看起来像编程语言。
+
+- 弱读：
+  - well：[wel] -(懒人音)> [wəl]/[wl]
+- 连读
+  - let's try to a bit more：[ləstrəɾu]
+
 ## 📚 3. 重点语言积累
 
 - algorithm [ˈælɡərɪðəm]：n. 算法，运算法则
@@ -85,11 +99,16 @@ For instance, how would you go about counting the number of people in a room?
 - for instance [fərˈɪnstəns]：例如；比如
 - how would you go about?：你会怎么着手做...？
 - the number of：...的数量
-- so forth：等等；诸如此类
-- probably：大概；或许；可能
+- so forth [soʊfɔ:rθ]：等等；诸如此类
+- probably [pra:bəbli]：大概；或许；可能
 - point at：指向
 - one at a time：一个一个地：指逐个地、一个接一个地进行或处理。
 - count up from：从...开始数
+- let's try to...a bit more formally in...：让我们试着用更正式一点的...做..。
+- pseudocode [ˈsuːdoʊˌkoʊd]（苏豆蔻蚮）
+- resembles [rɪˈzemblz]：与...相似
+- programming language [ˈproʊɡræmɪŋ]：编程语言
+- express [ɪkˈspres]：描述、表达
 
 ## 🗣️ 4. 跟读任务
 
