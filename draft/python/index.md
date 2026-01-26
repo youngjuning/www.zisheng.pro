@@ -77,3 +77,4 @@ Cursor 与流行的 Python 框架无缝协作
 ## 教程
 
 - [Python3 教程 | 菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html)
+- [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days?tab=readme-ov-file)
