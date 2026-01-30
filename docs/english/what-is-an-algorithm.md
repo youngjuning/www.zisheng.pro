@@ -77,9 +77,9 @@ Well, that's an algorithm. In fact, let's try to express it a bit more formally 
   - from：[frʌm] -（懒人音）> [frəm]
   - and：[ənd] -(省音)> [ən]（t、d 在鼻音后极易省略）
 - 连读
-  - point at each：[pɔɪntæti:ʧ] -(Silent T)> [pɔɪnəi:ʧ]
+  - point at each：[pɔ-ɪn-tæ-ti:-ʧ] -(Silent T)> [pɔɪ-nə-i:-ʧ]
   - your're：[jər]（叶er）
-  - one at a time：[wʌnənəˈtaɪm](Silent T)
+  - one at a time：[wʌ-nə-nə-ˈtaɪm](Silent T)
 
 5、Well, that's an algorithm. In fact, let's try to express it a bit more formally in pseudocode, English-like syntax that resembles a programming language.
   > 嗯，这就是一个算法。事实上，让我们试着用更正式一点的伪代码来描述它——这是一种类似英语的语法，看起来像编程语言。
@@ -88,6 +88,14 @@ Well, that's an algorithm. In fact, let's try to express it a bit more formally 
   - well：[wel] -(懒人音)> [wəl]/[wl]
 - 连读
   - let's try to a bit more：[ləstrəɾu]
+
+6、Let n equals 0. For each person in room, set n=n+1.
+
+- 弱读：
+  - in：[ɪn] -(懒人音)> [ən]
+  - for [fɔr] -(懒人音)> [fər]
+- 连音：
+  - person in：辅元连读 [pɜːr-sə-nən]
 
 ## 📚 3. 重点语言积累
 
@@ -112,9 +120,12 @@ Well, that's an algorithm. In fact, let's try to express it a bit more formally 
 
 ## 🗣️ 4. 跟读任务
 
-- 跟读第一句话 30 遍
-- 跟读第二句话 30 遍
-- 跟读第三句话 30 遍
+- 跟读第 1 句话 30 遍
+- 跟读第 2 句话 30 遍
+- 跟读第 3 句话 30 遍
+- 跟读第 4 句话 30 遍
+- 跟读第 5 句话 30 遍
+- 跟读第 6 句话 30 遍
 
 :::info
 - **来源**：TED-Ed
