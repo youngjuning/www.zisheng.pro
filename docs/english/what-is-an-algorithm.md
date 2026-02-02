@@ -23,6 +23,12 @@ Well, if you're like me. You probably point at each person, one at a time, and c
 
 Well, that's an algorithm. In fact, let's try to express it a bit more formally in pseudocode, English-like syntax that resembles a programming language.
 
+Let n equals 0. For each person in room, set n=n+1.
+
+How to interpret this pseudocode? Well, line 1 declares, so to speak, a variable called n and initializes its value to zero.
+
+This just means that at the beginning of our algorithm, the thing with which we're counting has a value of zero.
+
 ## 🔍 1. 盲听抓主旨
 
 > 现阶段没办法做到记录主题、观点
@@ -97,6 +103,28 @@ Well, that's an algorithm. In fact, let's try to express it a bit more formally 
 - 连音：
   - person in：辅元连读 [pɜːr-sə-nən]
 
+7、How to interpret this pseudocode?// Well,// line 1 declares,/ so to speak,/ a variable called n/ and initializes its value to zero.
+  > 这段伪代码该怎么理解呢？嗯，第 1 行声明了一个变量 n——讲人话——并将其初始值设为零。
+
+- 弱读
+  - to：[tu:] -(懒人音)> [tə]
+  - well：[wel] -(懒人音)> [wəl]
+- 连读
+  - interpret this：[ɪnˈtɜːrprət]
+  - so to：[soʊɾə]
+  - and initializes its：辅元连读
+
+8、This just means that at the beginning of our algorithm,// the thing with which we're counting/ has a value of zero.
+  > 这意味着在我们的算法开始时，我们正在计数的那个东西的值为 0。
+
+- 弱读
+  - we're：[wɪr] -(懒人音)> [wər]
+- Dropped T
+  - just means：t 前后都是辅音，可以省略，就算没省，也基本上听不出来
+- 连读
+  - that at the：辅元连读，[ðətəðə]
+  - has a：辅元连读，[həzə]
+
 ## 📚 3. 重点语言积累
 
 - algorithm [ˈælɡərɪðəm]：n. 算法，运算法则
@@ -117,6 +145,11 @@ Well, that's an algorithm. In fact, let's try to express it a bit more formally 
 - resembles [rɪˈzemblz]：与...相似
 - programming language [ˈproʊɡræmɪŋ]：编程语言
 - express [ɪkˈspres]：描述、表达
+- declare [dɪˈkler]：声明；宣布
+- variable [ˈveriəbl]：变量
+- interpret [ɪnˈtɜːrprət]：解释
+- so to speak：换句话说；讲人话
+- has a value of：值是...
 
 ## 🗣️ 4. 跟读任务
 
@@ -126,6 +159,14 @@ Well, that's an algorithm. In fact, let's try to express it a bit more formally 
 - 跟读第 4 句话 30 遍
 - 跟读第 5 句话 30 遍
 - 跟读第 6 句话 30 遍
+- 跟读第 7 句话 30 遍
+- 跟读第 8 句话 30 遍
+
+## 发音习惯
+
+- 英语母语者**不会在词间加停顿**
+- 喉塞音
+- 闪音：[t] -> [ɾ]
 
 :::info
 - **来源**：TED-Ed
