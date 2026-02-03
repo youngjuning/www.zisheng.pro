@@ -123,6 +123,10 @@ Expo 是一个开源平台，用于使用 Javascript 和 React 为 Android、iOS
   - 介绍：2025 年 3 月字节跳动正式宣布开源其跨平台 UI 框架 Lynx，开发者可通过一份代码同时构建移动端原生界面与 Web 端界面， 已在 TikTok 等应用中得到验证，具有高性能多功能渲染引擎和性能优先的双线程 UI 编程范式等特性，其采用 Rust 开发的现代工具链，确保了运行时的效率与稳定性.
   - 例句：Lynx enables developers to build cross-platform applications more efficiently with its unique architecture and powerful features.（Lynx 凭借其独特的架构和强大的功能，使开发者能够更高效地构建跨平台应用程序。）
 
+## excalidraw [ɛksˈ-kælɪ-drɔː]
+
+Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+
 ## 短语
 
 ### from scratch [frəm skrætʃ]
