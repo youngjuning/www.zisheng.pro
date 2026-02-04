@@ -120,7 +120,7 @@ This just means that at the beginning of our algorithm, the thing with which we'
 - 弱读
   - we're：[wɪr] -(懒人音)> [wər]
 - Dropped T
-  - just means：t 前后都是辅音，可以省略，就算没省，也基本上听不出来
+  - just means：t 前后都是辅a'f音，可以省略，就算没省，也基本上听不出来
 - 连读
   - that at the：辅元连读，[ðətəðə]
   - has a：辅元连读，[həzə]
