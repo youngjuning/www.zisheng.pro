@@ -62,3 +62,10 @@ A prompt engineer is a person who creates prompts for artificial intelligence (A
 简单来说，**token 是 GPT 模型处理和计数的核心单位，是分割语言信息的一种方式！**
 
 ## tokenizer /ˈtoʊkənaɪzər/
+
+Tokenizer（分词器） 是自然语言处理（NLP）和大语言模型（LLM）中的核心组件，其作用是将人类可读的原始文本（如句子、段落）转换为模型能够理解和处理的**数字序列（token IDs）**。由于神经网络只能处理数值，不能直接“读懂”文字，因此 tokenizer 是连接人类语言与机器学习模型之间的桥梁。
+
+
+## Anthropic [ænˈθrɑːpɪk]
+
+Anthropic 是一家由前 OpenAI 核心成员于 2021 年创立的美国人工智能公司，致力于通过“宪法 AI”（Constitutional AI）技术打造安全、可靠、可解释且以人类利益为中心的大语言模型，其旗舰产品 Claude 系列在编程、长上下文处理和企业级安全合规领域处于全球领先地位。
